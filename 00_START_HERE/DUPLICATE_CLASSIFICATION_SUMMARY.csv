@@ -1,0 +1,13 @@
+classification,groups,default_action
+generated-app-artifacts,321,"Do not track; reconstruct from package/lock/build metadata"
+canonical-historical-mirror,136,"Preserve canonical institution copy and historical provenance copy pending optional compaction"
+integrity-historical-mirror,45,"Preserve current/versioned integrity history and provenance"
+integrity-version-carry-forward,38,"Preserve version snapshots"
+hterp-version-carry-forward,25,"Preserve HTERP version snapshots; v1.4 is current research baseline"
+source-release-snapshot,13,"Preserve editable/source provenance and immutable release snapshot"
+historical-mirror-other,6,"Preserve until retained reference/release copy and provenance are verified"
+release-carry-forward,5,"Preserve immutable release packages"
+archive-current-mirror,2,"Prefer release package for active reference; review archive copy later"
+original-root-metadata-release-mirror,1,"Preserve both original metadata snapshot and release copy"
+nested-local-git-artifact,1,"Exclude from Git"
+local-env-example-copy,1,"Keep .env.example; keep .env.local untracked"
