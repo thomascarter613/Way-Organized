@@ -7,6 +7,7 @@ This repository is the organized, provenance-preserving working corpus for **The
 - [Repository current state](00_START_HERE/CURRENT_STATE.md)
 - [Curation policy](00_START_HERE/CURATION_POLICY.md)
 - [Authority and lifecycle registry](00_START_HERE/AUTHORITY_LIFECYCLE_REGISTRY.csv)
+- [Canonical path registry](00_START_HERE/CANONICAL_PATH_REGISTRY.csv)
 - [Source/release crosswalk](00_START_HERE/SOURCE_RELEASE_CROSSWALK.csv)
 - [Organizational release → canonical institution crosswalk](00_START_HERE/ORGANIZATIONAL_RELEASE_INSTITUTION_CROSSWALK.md)
 - [Duplicate triage summary](00_START_HERE/DUPLICATE_TRIAGE_SUMMARY.md)
@@ -30,7 +31,7 @@ This repository is the organized, provenance-preserving working corpus for **The
 ## Important lifecycle rules
 
 1. **Folder placement is not authority by itself.**
-2. `01_FOUNDATIONAL_SOURCE/source/` is a mixed authoring/source tree. Its internal README still identifies a v0.8 source pack, while the same tree also contains v1.0 and v1.2 artifacts. Treat individual files by their own status/version.
+2. `01_FOUNDATIONAL_SOURCE/source/` is preserved mixed-lifecycle authoring provenance. New foundational drafting should begin in `01_FOUNDATIONAL_SOURCE/current/`; treat legacy source files by their own status/version.
 3. `03_RELEASES_AND_BASELINES/` preserves released snapshots. Do not edit historical release contents merely to make them look current.
 4. `80_HISTORICAL_AND_PREINTEGRATION_PACKAGES/` is retained for provenance and comparison, not as a current authority source.
 5. `90_WORKING_NOTES_AND_SCRIPTS/` is working material.
