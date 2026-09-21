@@ -12,6 +12,7 @@ This repository is the organized, provenance-preserving working corpus for **The
 - [Organizational release → canonical institution crosswalk](00_START_HERE/ORGANIZATIONAL_RELEASE_INSTITUTION_CROSSWALK.md)
 - [Duplicate triage summary](00_START_HERE/DUPLICATE_TRIAGE_SUMMARY.md)
 - [Epistemology / authority crosswalk](00_START_HERE/EPISTEMOLOGY_AUTHORITY_CROSSWALK.md)
+- [Authority and canon terminology](00_START_HERE/AUTHORITY_TERMINOLOGY.md)
 - [Integration gaps](00_START_HERE/INTEGRATION_GAPS.md)
 - [Original organization notes](00_START_HERE/README.md)
 - [Original copy inventory](00_START_HERE/inventory/)
