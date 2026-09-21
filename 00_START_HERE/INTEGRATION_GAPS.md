@@ -65,17 +65,20 @@ Choose one authoritative home and adoption/status process for a consolidated epi
 
 v1.1/v1.2 release packets and the canonical `institution/` tree contain overlapping organizational material.
 
-**Status: open**
+**Status: structurally addressed**
 
-**Next action**
+See `ORGANIZATIONAL_RELEASE_INSTITUTION_CROSSWALK.md`.
 
-Build a migration/crosswalk showing:
-- which released instruments are immutable reference snapshots;
-- which canonical institutional paths are the editable/current homes;
-- which require future board adoption;
-- which remain model/pre-filing documents.
+The crosswalk establishes that:
 
-Do not copy filing-ready templates into executed-record locations before real-world actions occur.
+- v1.1/v1.2 release packages remain immutable historical/reference snapshots;
+- the canonical `institution/` tree is the home for current/adopted/executed institutional records;
+- filing-ready or future-board templates must not be copied into executed-record locations as though the real-world action occurred;
+- migration is event-by-event and must be supported by adoption, execution, filing, acceptance, issuance, or equivalent evidence.
+
+**Remaining real-world work**
+
+The structural mapping is complete. Actual migration into operative record locations can occur only as real organizational events take place. This is an execution boundary, not a repository-curation defect.
 
 ## IG-006 — Duplicate inventory lifecycle classification
 
