@@ -55,3 +55,8 @@ This index captures the substantive responses currently recoverable from the act
 - 016 — Repository Second-Pass Curation Merged
   - Archive: 016-repository-second-pass-curation-merged.md
   - PR: #4
+
+
+- 017 — Controlled-Draft Exception Follow-Up
+  - Archive: 017-controlled-draft-exception-followup.md
+  - Corrects the organizational-release crosswalk after post-merge review of PR #4
