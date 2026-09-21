@@ -38,7 +38,7 @@ This repository is the organized, provenance-preserving working corpus for **The
 3. `03_RELEASES_AND_BASELINES/` preserves released snapshots. Do not edit historical release contents merely to make them look current.
 4. `80_HISTORICAL_AND_PREINTEGRATION_PACKAGES/` is retained for provenance and comparison, not as a current authority source.
 5. `90_WORKING_NOTES_AND_SCRIPTS/` is working material.
-6. `99_UNCLASSIFIED/` is preserved but requires review before any authority is inferred.
+6. `99_UNCLASSIFIED/` is now an empty holding area for future material that cannot yet be classified safely; historical ZIP packages have been moved to `80_HISTORICAL_AND_PREINTEGRATION_PACKAGES/archive-packages/` with a migration registry.
 7. Exact duplicates are not automatically errors. The original 594 SHA-256 groups are now lifecycle-classified; most are generated artifacts, version carry-forwards, release snapshots, or provenance mirrors.
 
 ## Working rule for contributors
