@@ -65,3 +65,8 @@ This index captures the substantive responses currently recoverable from the act
 - 018 — v1.5 Pilot Curriculum Lifecycle Registered
   - Archive: 018-v1.5-pilot-curriculum-lifecycle.md
   - Registers v1.5 as the curriculum layer built on the v1.4 pilot operations/evidence framework
+
+
+- 019 — Historical ZIP Archive Reclassified
+  - Archive: 019-historical-zip-archive-reclassified.md
+  - Moves 34 byte-preserved package ZIPs from 99_UNCLASSIFIED/.archive into structured historical archive categories
