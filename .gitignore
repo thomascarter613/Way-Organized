@@ -1,0 +1,21 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*~
+~$*
+
+# Local secrets (examples remain trackable)
+.env
+.env.*
+!.env.example
+
+# Digital-platform generated dependencies/build artifacts
+06_DIGITAL_PLATFORM/**/node_modules/
+06_DIGITAL_PLATFORM/**/.next/
+06_DIGITAL_PLATFORM/**/.turbo/
+06_DIGITAL_PLATFORM/**/.cache/
+06_DIGITAL_PLATFORM/**/coverage/
+
+# Python cache from repository helper scripts
+**/__pycache__/
+**/*.py[cod]
