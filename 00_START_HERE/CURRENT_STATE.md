@@ -73,6 +73,25 @@ It explicitly remains **pre-filing** and says board/counsel/CPA review is requir
 
 Earlier v0.2 and v0.3 trees/releases are historical predecessors and should not be silently rewritten.
 
+### Historical package archive
+
+The historical ZIP shelf formerly stored at `99_UNCLASSIFIED/.archive/` has been fully classified and moved byte-for-byte to:
+
+`80_HISTORICAL_AND_PREINTEGRATION_PACKAGES/archive-packages/`
+
+Thirty-four ZIP packages are grouped into:
+
+- HTERP research packages;
+- religious/source release packages;
+- organizational release packages;
+- institutional-integrity packages;
+- church/institutional/operations packages;
+- digital-platform packages.
+
+`ARCHIVE_PACKAGE_REGISTRY.csv` preserves each former path, current path, Git blob SHA, file size, category, and package type.
+
+`99_UNCLASSIFIED/` is now empty except for its README and remains available only as a future review holding area.
+
 ### Digital platform
 
 `06_DIGITAL_PLATFORM/community-platform/` contains reconstructible application source including `package.json` and `bun.lock`.
