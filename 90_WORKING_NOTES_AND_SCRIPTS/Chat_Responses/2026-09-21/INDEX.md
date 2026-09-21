@@ -60,3 +60,8 @@ This index captures the substantive responses currently recoverable from the act
 - 017 — Controlled-Draft Exception Follow-Up
   - Archive: 017-controlled-draft-exception-followup.md
   - Corrects the organizational-release crosswalk after post-merge review of PR #4
+
+
+- 018 — v1.5 Pilot Curriculum Lifecycle Registered
+  - Archive: 018-v1.5-pilot-curriculum-lifecycle.md
+  - Registers v1.5 as the curriculum layer built on the v1.4 pilot operations/evidence framework
