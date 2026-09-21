@@ -49,25 +49,40 @@ The inherited README remains unchanged.
 
 HTERP v1.4 has a proto-canon architecture and status file. The foundational-source canon dossier says the Way presently maintains a Library of Witnesses rather than a closed canon and reserves any future canon for a separate process.
 
-**Status: analytically reconciled, governance decision still open**
+**Status: repository terminology addressed; formal religious adoption still open**
 
 `EPISTEMOLOGY_AUTHORITY_CROSSWALK.md` records that HTERP itself says the proto-canon is a chosen constructive center/source-priority architecture and that "included" does not mean infallible or normatively binding.
 
-**Remaining decision**
+`AUTHORITY_TERMINOLOGY.md` now standardizes repository usage, including the qualified phrase:
 
-Harmonize "proto-canon", "Library of Witnesses", "foundational witness", "liturgical source", and "binding doctrine" in a future adopted authority document.
+> **HTERP proto-canon / research source-priority architecture**
+
+and distinguishes Library of Witnesses, foundational witness, liturgical source, binding doctrine, canonical institutional repository, and canonical path.
+
+**Remaining substantive decision**
+
+A future adopted authority instrument may retain, revise, or replace this terminology. Repository curation no longer needs to guess in the meantime.
 
 ## IG-004 — Epistemology/canon governance exists in multiple layers
 
 Relevant material appears in foundational source, HTERP constructive work, and institutional integrity policy.
 
-**Status: crosswalk completed**
+**Status: repository architecture addressed; substantive consolidation/adoption still open**
 
-See `EPISTEMOLOGY_AUTHORITY_CROSSWALK.md`.
+See:
 
-**Remaining decision**
+- `EPISTEMOLOGY_AUTHORITY_CROSSWALK.md`
+- `01_FOUNDATIONAL_SOURCE/current/epistemology/README.md`
 
-Choose one authoritative home and adoption/status process for a consolidated epistemic/revelation/canon governance instrument.
+The designated forward drafting home for any consolidated epistemology/revelation/canon instrument is:
+
+`01_FOUNDATIONAL_SOURCE/current/epistemology/`
+
+Existing source documents remain in place for provenance.
+
+**Remaining substantive work**
+
+Draft, review, and if appropriate release/adopt a consolidated instrument. Storage in the drafting home does not itself create doctrine, canon, constitutional force, or institutional policy.
 
 ## IG-005 — Organizational release and canonical institution trees overlap
 
