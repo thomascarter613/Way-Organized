@@ -50,3 +50,8 @@ This index captures the substantive responses currently recoverable from the act
 - 015 — Second-Pass Repository Curation Completion Boundary
   - Archive: 015-second-pass-repository-curation-completion.md
   - Control metadata: ../../../../00_START_HERE/
+
+
+- 016 — Repository Second-Pass Curation Merged
+  - Archive: 016-repository-second-pass-curation-merged.md
+  - PR: #4
