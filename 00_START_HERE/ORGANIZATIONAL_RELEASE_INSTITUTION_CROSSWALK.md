@@ -13,7 +13,7 @@ A released template or filing-ready packet is **not** an executed corporate reco
 
 The migration rule is therefore:
 
-> preserve releases unchanged; use them as source/reference material; create or place only actually adopted, filed, signed, accepted, or otherwise operative records in the canonical institution tree, with the required adoption/evidence trail.
+> preserve releases unchanged; use them as source/reference material; controlled drafts and templates may be created or placed in the canonical institution tree when they are stored in the appropriate working/template path and carry an explicit non-operative lifecycle status. Material may be represented as adopted, executed, filed, accepted, issued, or otherwise operative only when the required adoption/execution/evidence trail exists.
 
 ## v1.1 mapping
 
@@ -24,7 +24,7 @@ The migration rule is therefore:
 | `source/corporate_interface_schedule_v1_1.md` | maps religious/community and future corporate domains | informs `02-constitutional/`, `04-governance/`, and control architecture | Reference source; do not treat as adopted governing instrument unless adopted through institution controls |
 | `source/decision_register_v1_1.md` | records v1.1 design/adoption decisions | analogous to `04-governance/decisions/` but predates actual corporate action | Preserve in release; future actual decisions belong in canonical decision records |
 | `source/founder_stewardship_declaration_v1_1.md` | personal pre-corporate stewardship commitment | may inform constitutional/ethics controls | Preserve as historical/personal commitment; not a board-adopted instrument by itself |
-| `source/future_board_ratification_resolution_v1_1.md` | template for future board action | `01-formation/organizational-actions/` or `04-governance/board/resolutions/` after actual action | Keep release template immutable; create executed/adopted record only after real board action |
+| `source/future_board_ratification_resolution_v1_1.md` | template for future board action | controlled template/working material may live in `06-templates/` or an appropriate working path; actual board resolutions belong in `04-governance/board/resolutions/` after action | Keep release template immutable; controlled derivative drafts are permitted if clearly statused; create an adopted/executed record only after real board action |
 | `source/organizational_instantiation_v1_1.json` | machine-readable organizational model | control/reference metadata | Historical/reference; superseded operationally by later execution work, not an adopted record |
 | `source/organizational_readiness_matrix_v1_1.csv` | readiness tracking | planning/control evidence | Preserve release snapshot; current readiness should live in a controlled current register |
 | `source/pilot_launch_checklist_v1_1.md` | launch checklist | operations | Preserve release snapshot; adopted current checklist should be a controlled operational instrument |
@@ -33,10 +33,10 @@ The migration rule is therefore:
 
 | v1.2 artifact | Function | Canonical institution relationship | Curation disposition |
 | --- | --- | --- | --- |
-| `director_candidate_tracker_v1_2.csv` | pre-formation recruitment tracker | supports board formation; not itself a board record | Keep source/release copy; do not populate canonical executed-record folders until real candidates/acceptances exist |
+| `director_candidate_tracker_v1_2.csv` | pre-formation recruitment tracker | supports board formation; not itself a board record | Keep source/release copy; a controlled current working tracker may exist in an appropriate canonical planning/control location if clearly statused; do not place it in executed-record folders as though appointments/acceptances occurred |
 | `founding_director_recruitment_and_acceptance_kit_v1_2.*` | recruitment/acceptance templates | feeds formation and governance | Preserve release; signed acceptances, when real, belong in controlled formation/personnel records |
-| `filing_ready_incorporation_and_board_execution_packet_v1_2.*` | charter/board execution package | `01-formation/charter/`, `01-formation/organizational-actions/`, board resolutions/minutes | Release is reference/template; filed charter and executed actions move to canonical homes only after actual events |
-| `ein_banking_federal_exemption_and_compliance_execution_packet_v1_2.*` | EIN, banking, exemption/compliance execution | `01-formation/ein/`, `07-records/financial/`, `09-tax-and-regulatory/` | Preserve release; only real confirmations, filings, bank records, and submitted applications become canonical evidence/records |
+| `filing_ready_incorporation_and_board_execution_packet_v1_2.*` | charter/board execution package | controlled working drafts/templates may be maintained in appropriate canonical formation/template paths; filed charter and actual board records belong in their executed/evidence paths | Release is reference/template; controlled derivative drafts are permitted if clearly marked WORKING/TEMPLATE/READY-FOR-REVIEW; FILED/ADOPTED/EXECUTED status requires real events and evidence |
+| `ein_banking_federal_exemption_and_compliance_execution_packet_v1_2.*` | EIN, banking, exemption/compliance execution | controlled working applications/templates may be maintained in appropriate canonical formation/tax/template paths; actual confirmations, financial records, filings, and correspondence belong in evidence/record paths | Preserve release; controlled drafts are permitted with explicit status; only real confirmations, submissions, bank records, filings, and official correspondence may be represented as operative evidence/records |
 | `execution_sequence_v1_2.md` | ordered execution plan | cross-domain control aid | Preserve as execution-reference snapshot; actual completed actions must be evidenced separately |
 | `filing_readiness_register_v1_2.csv` | pre-filing status register | repository/control planning | Preserve source/release snapshot; status entries do not prove completion without evidence |
 | `name_clearance_record_v1_2.md` | name-clearance work record | supports formation/state filing | Preserve as pre-filing evidence; final accepted corporate name is established by actual filing/acceptance evidence |
@@ -97,6 +97,6 @@ No artifact should skip directly from RELEASE/REFERENCE to ADOPTED, EXECUTED, FI
 
 The v1.1 and v1.2 releases should **not be migrated wholesale** into the canonical institution tree. Their proper role is to remain frozen source/reference packages.
 
-The canonical institution tree already supplies the correct destination architecture. Migration should occur **event-by-event** as real-world actions occur, with each adopted/executed/filed artifact accompanied by its evidence and adoption metadata.
+The canonical institution tree already supplies the correct destination architecture. Migration may occur **lifecycle-stage-by-lifecycle-stage**: controlled drafts/templates may enter designated working/template paths before real-world action, while adopted/executed/filed/accepted artifacts enter or change status only event-by-event with supporting evidence and adoption/execution metadata.
 
 This resolves the structural ambiguity identified as IG-005 while preserving the substantive real-world execution work for the appropriate future moment.
