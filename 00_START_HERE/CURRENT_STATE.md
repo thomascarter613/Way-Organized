@@ -9,7 +9,8 @@
 
 - `03_RELEASES_AND_BASELINES/release_v1_0/` is the **founding religious synthesis**. Its release README states that it reconciles v0.5-v0.9 into the first coherent public-facing religious baseline.
 - `release_v1_1/` is an **organizational adoption/instantiation layer** built on v1.0.
-- `release_v1_2/` is the **latest execution/filing release**. It packages incorporation, board, EIN/banking, federal-exemption, and compliance execution work. It should not be described as a new theological baseline unless a future release explicitly says so.
+- `release_v1_2/` is the **current execution/filing release** for incorporation, board, EIN/banking, federal-exemption, and compliance work. It should not be described as a new theological baseline unless a future release explicitly says so.
+- `release_v1_4/` is a **pilot-operations release** for the 90-day adult pre-incorporation Founding Gathering Circle. Its own README says it does not create a corporation, recognized House of Prayer, statutory membership body, or tax-exempt status. It does not replace v1.0's founding religious synthesis or v1.2's filing/execution role.
 
 ### Foundational authoring tree
 
@@ -23,7 +24,16 @@ Its `00_README.md` calls the pack **Theological Research & Library of Witnesses 
 
 The v1.0 teaching status register is byte-identical to the copy preserved in `release_v1_0/source/` according to the original SHA-256 duplicate inventory.
 
-**Curation decision:** do not treat the source directory as one version. Treat each file by its explicit version/status. Preserve the source tree until a deliberate source-of-truth migration is performed.
+**Curation decision:** do not treat the source directory as one version. Treat each file by its explicit version/status.
+
+The repository now preserves `source/` as mixed-lifecycle authoring provenance and uses `01_FOUNDATIONAL_SOURCE/current/` as the clean forward home for new unrelated foundational work.
+
+Two active series were added concurrently under the legacy tree and should remain together there until deliberately migrated:
+
+- `source/epistemology/` — EPC protocol series;
+- `source/foundational-witness-dossiers/` — FWSD candidate evaluations.
+
+The FWSD README explicitly states that dossier status is evaluative and does not constitute canonical admission.
 
 ### HTERP research
 
