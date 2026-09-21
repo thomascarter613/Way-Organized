@@ -17,6 +17,12 @@ These dossiers do **not** constitute canonical admission. They document source-c
   - Provisional direction: serious future CAND-4 candidate after cross-candidate review
   - Scope: earliest recoverable Jesus teaching, activity, identity, and early post-Easter witness; not the New Testament en bloc
 
+- **FWSD-003 — Early Buddhist Teaching Corpus**
+  - File: `FWSD-003-early-buddhist-teaching-corpus.md`
+  - Status: CAND-3 — Evaluated
+  - Provisional direction: serious future CAND-4 candidate after cross-candidate review
+  - Scope: shared early discourse/Vinaya strata recoverable across multiple Buddhist schools; not the Pāli Canon or later Buddhism en bloc
+
 ## Planned first-cycle order
 
 1. Old Avestan Gāthās — FWSD-001
