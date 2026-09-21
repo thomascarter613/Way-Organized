@@ -7,6 +7,9 @@ This repository is the organized, provenance-preserving working corpus for **The
 - [Repository current state](00_START_HERE/CURRENT_STATE.md)
 - [Curation policy](00_START_HERE/CURATION_POLICY.md)
 - [Authority and lifecycle registry](00_START_HERE/AUTHORITY_LIFECYCLE_REGISTRY.csv)
+- [Source/release crosswalk](00_START_HERE/SOURCE_RELEASE_CROSSWALK.csv)
+- [Duplicate triage summary](00_START_HERE/DUPLICATE_TRIAGE_SUMMARY.md)
+- [Epistemology / authority crosswalk](00_START_HERE/EPISTEMOLOGY_AUTHORITY_CROSSWALK.md)
 - [Integration gaps](00_START_HERE/INTEGRATION_GAPS.md)
 - [Original organization notes](00_START_HERE/README.md)
 - [Original copy inventory](00_START_HERE/inventory/)
@@ -26,12 +29,12 @@ This repository is the organized, provenance-preserving working corpus for **The
 ## Important lifecycle rules
 
 1. **Folder placement is not authority by itself.**
-2. `01_FOUNDATIONAL_SOURCE/source/` is a mixed authoring/source tree. Its internal README still identifies a v0.8 source pack, while the same tree also contains v1.0 artifacts. Treat individual files by their own status/version.
+2. `01_FOUNDATIONAL_SOURCE/source/` is a mixed authoring/source tree. Its internal README still identifies a v0.8 source pack, while the same tree also contains v1.0 and v1.2 artifacts. Treat individual files by their own status/version.
 3. `03_RELEASES_AND_BASELINES/` preserves released snapshots. Do not edit historical release contents merely to make them look current.
 4. `80_HISTORICAL_AND_PREINTEGRATION_PACKAGES/` is retained for provenance and comparison, not as a current authority source.
 5. `90_WORKING_NOTES_AND_SCRIPTS/` is working material.
 6. `99_UNCLASSIFIED/` is preserved but requires review before any authority is inferred.
-7. Exact duplicates are not automatically errors. Many are intentional release snapshots, historical copies, or canonical/current mirrors.
+7. Exact duplicates are not automatically errors. The original 594 SHA-256 groups are now lifecycle-classified; most are generated artifacts, version carry-forwards, release snapshots, or provenance mirrors.
 
 ## Working rule for contributors
 

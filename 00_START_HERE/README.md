@@ -5,14 +5,15 @@ The original source directory was not changed.
 
 ## Current curation layer
 
-The repository is now under Git version control and has a lifecycle/authority map.
-
 Start with:
 
 - [Repository master README](../README.md)
 - [Current state](CURRENT_STATE.md)
 - [Curation policy](CURATION_POLICY.md)
 - [Authority/lifecycle registry](AUTHORITY_LIFECYCLE_REGISTRY.csv)
+- [Source/release crosswalk](SOURCE_RELEASE_CROSSWALK.csv)
+- [Duplicate triage summary](DUPLICATE_TRIAGE_SUMMARY.md)
+- [Epistemology / authority crosswalk](EPISTEMOLOGY_AUTHORITY_CROSSWALK.md)
 - [Integration gaps](INTEGRATION_GAPS.md)
 - [Original copy inventory](inventory/)
 
@@ -33,11 +34,10 @@ Start with:
 
 1. **No destructive source migration has occurred.**
 2. **Mature subsystems stay intact.** HTERP, institution, institutional_integrity, source, releases, and the community platform retain their internal directory layout.
-3. **Duplicate historical exports are preserved.** They remain in historical/pre-integration areas until lifecycle-aware review.
+3. **Duplicate historical exports are preserved.** All 594 original SHA-256 duplicate groups have now been classified; none remain unexplained at the repository-lifecycle level.
 4. **Authority and lifecycle are separated.** Working notes, research, release snapshots, templates, and current institutional material are not assumed to have equal status.
 5. **Every copied file from the original organization run is traceable.** See `inventory/copy_manifest.csv`.
-6. **Exact duplicates from the original local copy were reported, not automatically removed.** See `inventory/duplicate_files_by_sha256.csv`.
-7. **The original copy inventory is a local-snapshot inventory, not necessarily the same as Git-tracked state.**
+6. **The original copy inventory is a local-snapshot inventory, not necessarily the same as Git-tracked state.**
 
 ## Repository working rule
 
