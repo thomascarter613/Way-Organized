@@ -1,10 +1,16 @@
 # FWSD-003 — Early Buddhist Teaching Corpus Foundational Witness Selection Dossier
 
-FWSD-003 has been completed under EPC-004.
+FWSD-003 is complete and merged into the repository.
 
 ## Authoritative deliverable
 
 `01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-003-early-buddhist-teaching-corpus.md`
+
+## Repository result
+
+- Pull request: #11 — `docs: add FWSD-003 early Buddhist teaching corpus`
+- Merge commit: `238eab68e04690241cbc03ff2ef1c5980ad9c2bb`
+- Superseded conflicted draft PR: #10 (closed without merge)
 
 ## Substantive result
 
