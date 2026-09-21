@@ -1,0 +1,24 @@
+{
+  "version": "1.4",
+  "date": "2026-09-21",
+  "working_name": "The Assembly of the Way",
+  "pilot_status": "Founding Gathering Circle",
+  "duration_days": 90,
+  "adult_only_default": true,
+  "fundraising_enabled": false,
+  "launch_gates": [
+    "public status disclosure",
+    "participant rights available",
+    "independent concern route",
+    "emergency plan",
+    "no child-program launch",
+    "no organizational fundraising"
+  ],
+  "day90_outcomes": [
+    "continue",
+    "revise and repeat",
+    "pause",
+    "close",
+    "after incorporation seek House-in-Formation recognition"
+  ]
+}
