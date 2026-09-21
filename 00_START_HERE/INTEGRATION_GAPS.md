@@ -8,18 +8,23 @@ This register records structural inconsistencies or unresolved integration work.
 
 `01_FOUNDATIONAL_SOURCE/source/00_README.md` identifies the source pack as v0.8, while the same directory contains v1.0 and v1.2 material.
 
-**Status: partially addressed**
+**Status: structurally addressed**
 
 The repository now contains:
 
 - `SOURCE_RELEASE_CROSSWALK.csv`
 - `01_FOUNDATIONAL_SOURCE/SOURCE_TREE_LIFECYCLE_MAP.md`
+- `01_FOUNDATIONAL_SOURCE/current/README.md`
 
 All eight files in `release_v1_0/source/` are exact matches to same-path foundational-source files, and five v1.2 execution-source files are exact matches to their v1.2 release copies.
 
-**Remaining decision**
+**Curation decision**
 
-Choose whether the mixed source tree should eventually remain as historical authoring provenance or be migrated into a clean current-source layout.
+Preserve `source/` in place as mixed-lifecycle authoring provenance.
+
+Do not mass-migrate or rename it.
+
+Use `01_FOUNDATIONAL_SOURCE/current/` for new foundational drafting going forward. This creates a clean forward source path without breaking historical references or release provenance.
 
 ## IG-002 — HTERP v1.4 contains older embedded version headings
 
@@ -27,13 +32,16 @@ Choose whether the mixed source tree should eventually remain as historical auth
 
 `HTERP_v1.4/README.md` begins with "HTERP v0.7 Status Note" and "Working Baseline v0.1", while `PROJECT-STATUS.md` identifies the folder/project state as v1.4.
 
-**Status: contained**
+**Status: addressed**
 
-Repository wrapper navigation now identifies v1.4 as the current HTERP lifecycle baseline.
+`HTERP_v1.4/LIFECYCLE_STATUS.md` now records the repository lifecycle explicitly:
 
-**Remaining decision**
+- the enclosing working baseline is v1.4;
+- `PROJECT-STATUS.md` controls current project status;
+- older README headings are preserved as embedded historical provenance;
+- HTERP research maturity does not by itself create doctrine, canon, or institutional authority.
 
-Whether to add an HTERP-local version metadata file or leave the internal README untouched as historical provenance.
+The inherited README remains unchanged.
 
 ## IG-003 — Proto-canon terminology vs Library of Witnesses posture
 
