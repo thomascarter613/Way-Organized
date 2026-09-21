@@ -56,11 +56,18 @@ Do **not** split, mass-rename, or delete the mixed legacy source tree.
 
 The repository now treats `source/` as preserved **authoring provenance**.
 
-New foundational drafting should begin in:
+New unrelated foundational drafting should begin in:
 
 `01_FOUNDATIONAL_SOURCE/current/`
 
-This resolves the forward source-of-truth problem without rewriting historical paths. Existing material remains where it was created; future material gets a clean lifecycle boundary.
+An exception applies to numbered/linked series already established under the legacy tree. At present, that includes:
+
+- `source/epistemology/` (EPC);
+- `source/foundational-witness-dossiers/` (FWSD).
+
+Those series should remain cohesive until a deliberate atomic migration is performed.
+
+This resolves the forward source-of-truth problem without rewriting historical paths or splitting active series.
 
 The source/release relationship remains documented in:
 
