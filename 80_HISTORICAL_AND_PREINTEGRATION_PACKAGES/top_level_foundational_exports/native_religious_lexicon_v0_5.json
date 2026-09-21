@@ -1,0 +1,418 @@
+[
+  {
+    "category": "Core identity",
+    "term": "The Way",
+    "status": "ADOPT",
+    "definition": "The religious path or way of life itself; the tradition as something practiced rather than merely subscribed to.",
+    "preferred_usage": "walk the Way; learn the Way; teachings of the Way",
+    "caution": "Use as sacred/native vocabulary, not necessarily as the standalone legal or trademark brand because existing organizations use the phrase."
+  },
+  {
+    "category": "Core identity",
+    "term": "Companion",
+    "status": "ADOPT",
+    "definition": "A person who freely undertakes to walk the Way with others. The term is intentionally lateral rather than follower-centered.",
+    "preferred_usage": "a Companion; Companion of the Way; become a Companion",
+    "caution": "Religious identity only. It does not by itself create statutory corporate membership or voting rights."
+  },
+  {
+    "category": "Core identity",
+    "term": "Companions",
+    "status": "ADOPT",
+    "definition": "The people collectively who identify as Companions.",
+    "preferred_usage": "the Companions; Companions of the Way",
+    "caution": "Do not use to imply a spiritual caste or automatic authority."
+  },
+  {
+    "category": "Core identity",
+    "term": "The Assembly",
+    "status": "ADOPT",
+    "definition": "The whole gathered religious community of Companions and welcome participants.",
+    "preferred_usage": "the Assembly gathers; life of the Assembly",
+    "caution": "Capital A refers to the religious community. It is distinct from the legal corporation and Board of Directors."
+  },
+  {
+    "category": "Core identity",
+    "term": "House of Prayer",
+    "status": "ADOPT",
+    "definition": "A local expression of the Assembly: a congregation and, by extension, the place where it gathers for prayer, study, fellowship, and service.",
+    "preferred_usage": "a House of Prayer; the House of Prayer at [place]",
+    "caution": "Need not own a building. A House of Prayer is not a separate legal entity unless explicitly organized as one."
+  },
+  {
+    "category": "Core identity",
+    "term": "House of Prayer for All Peoples",
+    "status": "ADOPT - CEREMONIAL",
+    "definition": "The fuller theological expression behind the local term, drawing on Isaiah 56:7 and its inclusive vision.",
+    "preferred_usage": "mission statement; dedication language; ceremonial use",
+    "caution": "Use carefully as a scriptural inheritance, not as a claim that the movement owns the phrase."
+  },
+  {
+    "category": "Core identity",
+    "term": "Gathering",
+    "status": "ADOPT",
+    "definition": "A particular meeting of the Assembly or a House of Prayer.",
+    "preferred_usage": "Gathering for Prayer; Gathering for Study; Gathering for Service",
+    "caution": "Preferred over using “service” for every meeting because service also means charitable action."
+  },
+  {
+    "category": "Core identity",
+    "term": "walking the Way",
+    "status": "ADOPT",
+    "definition": "Ordinary idiom for practicing the religion or participating in its way of life.",
+    "preferred_usage": "She walks the Way; we walk together",
+    "caution": "Should never imply that departure makes a person an enemy or traitor."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Encounter",
+    "status": "ADOPT",
+    "definition": "A reported or experienced event interpreted as contact with, disclosure from, or awareness of transcendent reality.",
+    "preferred_usage": "reported encounter; encounter record",
+    "caution": "Phenomenological term: it describes the claim/event without automatically validating its interpretation."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Testimony",
+    "status": "ADOPT",
+    "definition": "A person’s or community’s account of an encounter, conviction, event, or practice.",
+    "preferred_usage": "testimony of a Companion; historical testimony",
+    "caution": "Testimony is evidence to consider, not an automatic command."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Witness",
+    "status": "ADOPT",
+    "definition": "A person, text, artifact, practice, or other source that bears evidence concerning an encounter, event, belief, or tradition.",
+    "preferred_usage": "historical witness; textual witness",
+    "caution": "Do not confuse “witness” with proof of every theological interpretation attached to it."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Revelation",
+    "status": "TECHNICAL / PROVISIONAL",
+    "definition": "A claimed disclosure from God/the Divine/transcendent reality.",
+    "preferred_usage": "claimed revelation; revelation tradition",
+    "caution": "A revelation claim never bypasses consent, safeguarding, law, financial controls, or governance."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Interpretation",
+    "status": "ADOPT",
+    "definition": "The human act of assigning meaning to an encounter, revelation claim, text, event, or tradition.",
+    "preferred_usage": "interpretation of testimony; competing interpretations",
+    "caution": "Must remain distinguishable from the underlying evidence or claim."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Teaching",
+    "status": "ADOPT",
+    "definition": "A proposition or practice currently taught by the Assembly.",
+    "preferred_usage": "a teaching of the Assembly; current teaching",
+    "caution": "Teachings may carry stated confidence levels and can be revised through discernment."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Doctrine",
+    "status": "RESERVED / FORMAL",
+    "definition": "A teaching formally adopted with defined status and implications.",
+    "preferred_usage": "formal doctrine",
+    "caution": "Use sparingly. Do not let informal opinion become doctrine by repetition."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Tradition",
+    "status": "ADOPT",
+    "definition": "An inherited body of practices, stories, interpretations, texts, customs, and collective memory.",
+    "preferred_usage": "the Christian tradition; the Assembly’s developing tradition",
+    "caution": "Tradition is not identical with revelation or infallibility."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Sacred Sources",
+    "status": "PROVISIONAL",
+    "definition": "Umbrella term for texts, oral traditions, artifacts, practices, and records treated as spiritually significant in the traditions being studied.",
+    "preferred_usage": "study of Sacred Sources",
+    "caution": "Does not declare all sources equally authoritative or create a canon."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Scripture",
+    "status": "CONTEXTUAL",
+    "definition": "A text regarded as scripture within a particular religious tradition or, later, by the Assembly if explicitly adopted.",
+    "preferred_usage": "Jewish scripture; Islamic scripture; Buddhist scriptures",
+    "caution": "Do not retroactively label every sacred source “our scripture.”"
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Canon",
+    "status": "RESERVED",
+    "definition": "A formally bounded collection of authoritative texts.",
+    "preferred_usage": "canon of a source tradition",
+    "caution": "No Assembly canon should be presumed before a separate theological/canonical process."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Inquiry",
+    "status": "ADOPT",
+    "definition": "Disciplined investigation of religious, historical, philosophical, and experiential claims.",
+    "preferred_usage": "sacred inquiry; historical inquiry",
+    "caution": "Inquiry is not a substitute for worship, but neither may worship shut inquiry down."
+  },
+  {
+    "category": "Knowledge & revelation",
+    "term": "Discernment",
+    "status": "ADOPT",
+    "definition": "A communal and individual process of testing claims, choices, motives, and proposed actions.",
+    "preferred_usage": "discernment meeting; discern a teaching",
+    "caution": "Discernment does not authorize coercion and is not a magic word for leadership preference."
+  },
+  {
+    "category": "Devotion & practice",
+    "term": "Prayer",
+    "status": "ADOPT",
+    "definition": "Intentional address, attention, petition, thanksgiving, lament, praise, silence, or communion directed toward God/the Divine as understood by the person or community.",
+    "preferred_usage": "Gathering for Prayer; daily prayer",
+    "caution": "Specific forms remain to be developed; no one prayer form should be assumed universal yet."
+  },
+  {
+    "category": "Devotion & practice",
+    "term": "Worship",
+    "status": "ADOPT",
+    "definition": "Communal or personal acts oriented toward reverence of God/the Divine or the sacred.",
+    "preferred_usage": "public worship; worship gathering",
+    "caution": "Theological scope remains open enough for the movement’s eventual doctrine of God/transcendence."
+  },
+  {
+    "category": "Devotion & practice",
+    "term": "Study",
+    "status": "ADOPT",
+    "definition": "Serious learning from sacred sources, history, languages, scholarship, and lived traditions.",
+    "preferred_usage": "Gathering for Study; study group",
+    "caution": "Study should include primary sources, scholarship, and competing interpretations."
+  },
+  {
+    "category": "Devotion & practice",
+    "term": "Service",
+    "status": "ADOPT",
+    "definition": "Voluntary action for the good of other people, communities, creatures, or the world.",
+    "preferred_usage": "Gathering for Service; service project",
+    "caution": "Never condition charitable service on conversion, loyalty, silence, or membership."
+  },
+  {
+    "category": "Devotion & practice",
+    "term": "Offering",
+    "status": "ADOPT",
+    "definition": "A voluntary gift of money, goods, time, skill, or service.",
+    "preferred_usage": "make an offering; freewill offering",
+    "caution": "No offering purchases spiritual status, office, protection, revelation, or preferential treatment."
+  },
+  {
+    "category": "Devotion & practice",
+    "term": "Retreat",
+    "status": "ADOPT",
+    "definition": "A temporary period of intensified prayer, study, silence, fellowship, or reflection.",
+    "preferred_usage": "weekend retreat; retreat house",
+    "caution": "Participation must remain voluntary; do not use deprivation or isolation as control techniques."
+  },
+  {
+    "category": "Devotion & practice",
+    "term": "Remembrance",
+    "status": "PROVISIONAL",
+    "definition": "Intentional recalling of God/the Divine, sacred history, persons, events, teachings, or obligations.",
+    "preferred_usage": "a practice of remembrance",
+    "caution": "Broadly resonant across traditions; specific ritual meaning should await theology."
+  },
+  {
+    "category": "Devotion & practice",
+    "term": "The Common Table",
+    "status": "CANDIDATE",
+    "definition": "A possible name for a shared communal meal expressing equality, hospitality, and companionship.",
+    "preferred_usage": "gather at the Common Table",
+    "caution": "Not yet adopted as a rite. The name becomes especially meaningful because “companion” historically carries the sense of one who shares bread."
+  },
+  {
+    "category": "Devotion & practice",
+    "term": "Rule of Life",
+    "status": "PROVISIONAL",
+    "definition": "A written pattern of common practices and ethical commitments freely undertaken.",
+    "preferred_usage": "personal Rule of Life; common Rule of Life",
+    "caution": "Must not become a coercive surveillance code. Participation and consequences require due process and conscience protections."
+  },
+  {
+    "category": "Leadership & ministry",
+    "term": "Founder",
+    "status": "ADOPT - HISTORICAL ONLY",
+    "definition": "The person who originated the present institutional project.",
+    "preferred_usage": "Founder of the organization",
+    "caution": "Carries no inherent spiritual supremacy, veto, succession right, doctrinal infallibility, or special disciplinary immunity."
+  },
+  {
+    "category": "Leadership & ministry",
+    "term": "Minister",
+    "status": "PROVISIONAL",
+    "definition": "A person formally entrusted with defined functions of prayer, pastoral care, worship, teaching, rites, or service.",
+    "preferred_usage": "commissioned Minister; ministry team",
+    "caution": "Should be an accountable function, not a sacred caste. Exact ordination/commissioning theology remains open."
+  },
+  {
+    "category": "Leadership & ministry",
+    "term": "Teacher",
+    "status": "ADOPT",
+    "definition": "A person recognized or assigned to teach within an area of demonstrated competence.",
+    "preferred_usage": "Teacher of history; Teacher in a House of Prayer",
+    "caution": "Teaching authority is subject to sources, review, correction, and scope of competence."
+  },
+  {
+    "category": "Leadership & ministry",
+    "term": "Steward",
+    "status": "ADOPT",
+    "definition": "A person entrusted with resources, operations, property, administration, or a defined communal responsibility.",
+    "preferred_usage": "House Steward; Steward of Finance",
+    "caution": "Stewardship means custody on behalf of others, not ownership or spiritual rank."
+  },
+  {
+    "category": "Leadership & ministry",
+    "term": "Elder",
+    "status": "PROVISIONAL",
+    "definition": "A possible term for a person recognized for maturity, wisdom, long service, and sound judgment.",
+    "preferred_usage": "an Elder of the Assembly",
+    "caution": "If adopted, it should confer no automatic executive, financial, or revelatory authority."
+  },
+  {
+    "category": "Leadership & ministry",
+    "term": "Council",
+    "status": "PROVISIONAL",
+    "definition": "A deliberative body convened for a defined spiritual, ethical, or communal purpose.",
+    "preferred_usage": "Council of the Assembly; Council of Houses",
+    "caution": "Corporate powers remain with legally defined bodies. Council jurisdiction must be written and limited."
+  },
+  {
+    "category": "Leadership & ministry",
+    "term": "Commissioning",
+    "status": "ADOPT - PROCESS",
+    "definition": "Formal authorization of a person for a defined ministry or service.",
+    "preferred_usage": "commissioning a Minister; letter of commissioning",
+    "caution": "Preferred working term before a theology of ordination is settled; authorization is revocable through due process."
+  },
+  {
+    "category": "Leadership & ministry",
+    "term": "Ordination",
+    "status": "RESERVED",
+    "definition": "A possible future religious act establishing an ordained ministry if theology and practice warrant it.",
+    "preferred_usage": "ordination rite",
+    "caution": "Do not create merely to imitate established religions or to manufacture tax status."
+  },
+  {
+    "category": "Leadership & ministry",
+    "term": "Clergy",
+    "status": "EXTERNAL / LEGAL UMBRELLA",
+    "definition": "General external term for recognized religious ministers where law, institutions, or public communication require it.",
+    "preferred_usage": "clergy housing rules; clergy credentialing",
+    "caution": "Not necessarily the preferred internal self-description."
+  },
+  {
+    "category": "Community & governance",
+    "term": "Board of Directors",
+    "status": "ADOPT - LEGAL",
+    "definition": "The governing board of the nonprofit corporation under civil law.",
+    "preferred_usage": "Board resolution; Board Chair",
+    "caution": "Legally distinct from the Assembly, Companions, ministers, and any religious Council."
+  },
+  {
+    "category": "Community & governance",
+    "term": "Council of the Assembly",
+    "status": "CANDIDATE",
+    "definition": "A possible future religious deliberative body for doctrine, practice, or communal discernment.",
+    "preferred_usage": "refer a question to the Council",
+    "caution": "Must not be allowed to swallow the Board’s fiduciary duties or participant rights."
+  },
+  {
+    "category": "Community & governance",
+    "term": "Council of Houses",
+    "status": "CANDIDATE",
+    "definition": "A possible representative body linking multiple Houses of Prayer.",
+    "preferred_usage": "annual Council of Houses",
+    "caution": "Only meaningful after multiple local Houses actually exist."
+  },
+  {
+    "category": "Community & governance",
+    "term": "Regional Assembly",
+    "status": "PROVISIONAL",
+    "definition": "A gathering or coordinating body of multiple Houses of Prayer within a geographic region.",
+    "preferred_usage": "Appalachian Regional Assembly",
+    "caution": "Avoid creating jurisdictional hierarchy before it is operationally needed."
+  },
+  {
+    "category": "Community & governance",
+    "term": "Companion Commitment",
+    "status": "CANDIDATE",
+    "definition": "A possible voluntary statement by which an adult publicly identifies as a Companion.",
+    "preferred_usage": "make the Companion Commitment",
+    "caution": "Should affirm rights of conscience and exit; never an irrevocable vow."
+  },
+  {
+    "category": "Place & institution",
+    "term": "Institute for Sacred Inquiry",
+    "status": "CANDIDATE",
+    "definition": "A possible name for the research, historical, linguistic, and comparative-religion function of the wider project.",
+    "preferred_usage": "research conducted by the Institute",
+    "caution": "Useful because “inquiry” fits the scholarly arm better than the entire religion."
+  },
+  {
+    "category": "Place & institution",
+    "term": "House of Study",
+    "status": "CANDIDATE",
+    "definition": "A functional educational space or program devoted to serious study.",
+    "preferred_usage": "House of Study program",
+    "caution": "English phrase is usable, but it strongly echoes Jewish beit midrash; adopt only intentionally."
+  },
+  {
+    "category": "Place & institution",
+    "term": "Retreat House",
+    "status": "FUNCTIONAL",
+    "definition": "A place used for voluntary retreats, prayer, study, and rest.",
+    "preferred_usage": "Assembly Retreat House",
+    "caution": "Residential safeguarding, access, and exit protections apply."
+  },
+  {
+    "category": "Reserved / avoid as offices",
+    "term": "Prophet",
+    "status": "NOT AN OFFICE",
+    "definition": "A descriptive historical/theological category for a person claimed to speak through divine revelation.",
+    "preferred_usage": "study of prophets; a person claims prophetic experience",
+    "caution": "No person becomes institutionally unquestionable by claiming the title."
+  },
+  {
+    "category": "Reserved / avoid as offices",
+    "term": "Master",
+    "status": "AVOID AS TITLE",
+    "definition": "A title implying personal spiritual domination or superior status.",
+    "preferred_usage": "-",
+    "caution": "Incompatible with the lateral Companion model."
+  },
+  {
+    "category": "Reserved / avoid as offices",
+    "term": "Guru / Shaykh / Rabbi / Imam / Priest",
+    "status": "TRADITION-SPECIFIC",
+    "definition": "Established titles belonging to particular living traditions and role systems.",
+    "preferred_usage": "use when referring to those traditions",
+    "caution": "Do not borrow merely for exotic effect. The Assembly should develop honest English offices from its own functions."
+  },
+  {
+    "category": "Reserved / avoid as labels",
+    "term": "Apostate / heretic / unbeliever",
+    "status": "AVOID AS ADMINISTRATIVE LABEL",
+    "definition": "Traditional polemical or theological categories.",
+    "preferred_usage": "-",
+    "caution": "Never use as organizational categories for former participants, critics, or people who disagree."
+  },
+  {
+    "category": "Reserved / avoid as labels",
+    "term": "Follower of the Founder",
+    "status": "AVOID",
+    "definition": "Founder-centered identity formula.",
+    "preferred_usage": "-",
+    "caution": "The movement is organized around the Way, not personal allegiance to its founder."
+  }
+]

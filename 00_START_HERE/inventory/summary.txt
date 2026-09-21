@@ -1,0 +1,6 @@
+source=/home/oss/Way
+destination=/home/oss/Way-Organized
+files_copied=12796
+symlinks_copied=7
+duplicate_sha256_groups=594
+source_modified=no

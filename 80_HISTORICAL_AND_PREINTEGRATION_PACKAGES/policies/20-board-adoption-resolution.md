@@ -1,0 +1,3 @@
+# Board Adoption Resolution
+
+RESOLVED, that the Board adopts the Institutional Integrity & Anti-Coercion Framework as a controlling governance standard, subject to conformity review against the charter, bylaws, applicable law, and advice of qualified counsel; and further RESOLVED, that any conflict between a lower-level policy and an entrenched protection shall be resolved in favor of the entrenched protection to the maximum extent permitted by law; and further RESOLVED, that management shall prepare an implementation register, assign accountable owners, and report remediation status to the Board until all founding controls are operational.

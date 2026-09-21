@@ -1,0 +1,145 @@
+{
+  "version": "0.7",
+  "date": "September 19, 2026",
+  "practice_framework": [
+    "Attention",
+    "Prayer",
+    "Study",
+    "Discernment",
+    "Ethical practice",
+    "Service",
+    "Companionship"
+  ],
+  "formation_paths": [
+    "Seeker Orientation",
+    "Companion Foundations",
+    "Year One Companion Cycle",
+    "Continuing Formation",
+    "Teacher Formation",
+    "Minister Formation",
+    "Steward Formation"
+  ],
+  "prayer_movements": [
+    "Stillness",
+    "Remembrance",
+    "Praise / gratitude",
+    "Truth / examination",
+    "Petition / intercession",
+    "Listening / discernment",
+    "Dedication / sending"
+  ],
+  "theological_questions": [
+    {
+      "id": "TQ-001",
+      "domain": "God / divine reality",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-002",
+      "domain": "Revelation / prophecy",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-003",
+      "domain": "Jesus / Christology",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-004",
+      "domain": "Muhammad / Qur'anic revelation",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-005",
+      "domain": "Buddha / awakening / non-self",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-006",
+      "domain": "Scripture and canon",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-007",
+      "domain": "Human nature / soul / consciousness",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-008",
+      "domain": "Sin / ignorance / suffering / evil",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-009",
+      "domain": "Salvation / liberation / awakening",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-010",
+      "domain": "Death / resurrection / afterlife / rebirth",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-011",
+      "domain": "Sexual ethics / marriage / family",
+      "status": "OPEN",
+      "priority": "High"
+    },
+    {
+      "id": "TQ-012",
+      "domain": "Violence / nonviolence / just protection",
+      "status": "OPEN",
+      "priority": "Medium-High"
+    },
+    {
+      "id": "TQ-013",
+      "domain": "Sacraments / rites / sacred mediation",
+      "status": "OPEN",
+      "priority": "Medium"
+    },
+    {
+      "id": "TQ-014",
+      "domain": "Ordination / clergy ontology",
+      "status": "OPEN",
+      "priority": "Medium"
+    },
+    {
+      "id": "TQ-015",
+      "domain": "Holy days / sacred calendar",
+      "status": "OPEN",
+      "priority": "Medium"
+    },
+    {
+      "id": "TQ-016",
+      "domain": "Interreligious identity",
+      "status": "OPEN",
+      "priority": "High"
+    }
+  ],
+  "rites_status": {
+    "adoptable": [
+      "Companion Commitment",
+      "Commissioning",
+      "Welcome/blessing of a child (provisional)",
+      "Prayer for healing (provisional)",
+      "Funeral/memorial (provisional)"
+    ],
+    "candidate": [
+      "Common Table"
+    ],
+    "reserved": [
+      "Marriage/covenant blessing",
+      "Ordination"
+    ]
+  }
+}

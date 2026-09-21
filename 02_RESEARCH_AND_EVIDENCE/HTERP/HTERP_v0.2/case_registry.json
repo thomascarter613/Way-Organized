@@ -1,0 +1,857 @@
+[
+  {
+    "id": "HTE-001",
+    "candidate": "Mari prophets",
+    "tradition_or_region": "Ancient Near East",
+    "encounter_modes": [
+      "MSG",
+      "AUD",
+      "VIS"
+    ],
+    "provisional_period": "c. 18th century BCE",
+    "priority_wave": "Wave 1",
+    "status": "WP-001 calibration dossier completed",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": "Calibrated in HTERP v0.2."
+  },
+  {
+    "id": "HTE-002",
+    "candidate": "Neo-Assyrian prophecy",
+    "tradition_or_region": "Ancient Near East",
+    "encounter_modes": [
+      "MSG",
+      "AUD"
+    ],
+    "provisional_period": "8th–7th centuries BCE",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-003",
+    "candidate": "Mesopotamian sacred dreams",
+    "tradition_or_region": "Ancient Near East",
+    "encounter_modes": [
+      "DRM",
+      "MSG",
+      "VIS"
+    ],
+    "provisional_period": "2nd–1st millennia BCE",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-004",
+    "candidate": "Mesopotamian technical divination",
+    "tradition_or_region": "Ancient Near East",
+    "encounter_modes": [
+      "DIV"
+    ],
+    "provisional_period": "3rd–1st millennia BCE",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-005",
+    "candidate": "Egyptian dream/oracle traditions",
+    "tradition_or_region": "Egypt",
+    "encounter_modes": [
+      "DRM",
+      "DIV",
+      "MSG"
+    ],
+    "provisional_period": "2nd–1st millennia BCE",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-006",
+    "candidate": "Shang oracle-bone tradition",
+    "tradition_or_region": "China",
+    "encounter_modes": [
+      "DIV"
+    ],
+    "provisional_period": "c. 1200–1050 BCE",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-007",
+    "candidate": "Vedic rishis and Rigvedic hymn tradition",
+    "tradition_or_region": "South Asia",
+    "encounter_modes": [
+      "INS",
+      "VIS",
+      "ILL"
+    ],
+    "provisional_period": "latter 2nd millennium BCE",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-008",
+    "candidate": "Zarathustra and the Gathas",
+    "tradition_or_region": "Iran",
+    "encounter_modes": [
+      "MSG",
+      "VIS",
+      "INS"
+    ],
+    "provisional_period": "date disputed; commonly 2nd millennium BCE in some scholarship",
+    "priority_wave": "Wave 1",
+    "status": "WP-001 calibration dossier completed",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": "Calibrated in HTERP v0.2."
+  },
+  {
+    "id": "HTE-009",
+    "candidate": "Greek oracles: Delphi, Dodona, Didyma, Claros",
+    "tradition_or_region": "Mediterranean",
+    "encounter_modes": [
+      "DIV",
+      "POS",
+      "MSG"
+    ],
+    "provisional_period": "1st millennium BCE",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-010",
+    "candidate": "Abraham traditions",
+    "tradition_or_region": "West Semitic / Israelite",
+    "encounter_modes": [
+      "MSG",
+      "VIS",
+      "APP"
+    ],
+    "provisional_period": "patriarchal setting disputed; texts later",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-011",
+    "candidate": "Melchizedek / El Elyon tradition",
+    "tradition_or_region": "West Semitic / Israelite",
+    "encounter_modes": [
+      "PRS",
+      "INS"
+    ],
+    "provisional_period": "textual tradition in Genesis 14",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-012",
+    "candidate": "Moses / Sinai traditions",
+    "tradition_or_region": "Israelite",
+    "encounter_modes": [
+      "MSG",
+      "VIS",
+      "AUD",
+      "APP"
+    ],
+    "provisional_period": "traditional 2nd millennium BCE; textual formation later",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-013",
+    "candidate": "Early Israelite prophetic traditions",
+    "tradition_or_region": "Israelite",
+    "encounter_modes": [
+      "MSG",
+      "VIS",
+      "AUD"
+    ],
+    "provisional_period": "early 1st millennium BCE traditions",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-014",
+    "candidate": "Amos and Hosea",
+    "tradition_or_region": "Israelite",
+    "encounter_modes": [
+      "MSG",
+      "VIS"
+    ],
+    "provisional_period": "8th century BCE",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-015",
+    "candidate": "Isaiah traditions",
+    "tradition_or_region": "Judah",
+    "encounter_modes": [
+      "MSG",
+      "VIS"
+    ],
+    "provisional_period": "8th century BCE onward",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-016",
+    "candidate": "Jeremiah",
+    "tradition_or_region": "Judah",
+    "encounter_modes": [
+      "MSG",
+      "VIS"
+    ],
+    "provisional_period": "late 7th–early 6th century BCE",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-017",
+    "candidate": "Ezekiel",
+    "tradition_or_region": "Judah/Babylonia",
+    "encounter_modes": [
+      "VIS",
+      "MSG",
+      "JRN"
+    ],
+    "provisional_period": "early 6th century BCE",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-018",
+    "candidate": "Upanishadic seers",
+    "tradition_or_region": "South Asia",
+    "encounter_modes": [
+      "ILL",
+      "UNI",
+      "INS"
+    ],
+    "provisional_period": "late Vedic period",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-019",
+    "candidate": "Gautama Buddha",
+    "tradition_or_region": "South Asia",
+    "encounter_modes": [
+      "ILL",
+      "VIS"
+    ],
+    "provisional_period": "5th century BCE conventional scholarly range",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-020",
+    "candidate": "Mahavira / Jain tradition",
+    "tradition_or_region": "South Asia",
+    "encounter_modes": [
+      "ILL"
+    ],
+    "provisional_period": "1st millennium BCE",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-021",
+    "candidate": "Early Chinese Heaven and ancestor communication",
+    "tradition_or_region": "China",
+    "encounter_modes": [
+      "DIV",
+      "DRM",
+      "MSG"
+    ],
+    "provisional_period": "1st millennium BCE",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-022",
+    "candidate": "Daoist revelatory traditions",
+    "tradition_or_region": "China",
+    "encounter_modes": [
+      "MSG",
+      "VIS",
+      "INS"
+    ],
+    "provisional_period": "late antiquity onward",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-023",
+    "candidate": "Jesus of Nazareth",
+    "tradition_or_region": "Judea/Galilee",
+    "encounter_modes": [
+      "MSG",
+      "VIS",
+      "PRS"
+    ],
+    "provisional_period": "c. late 20s CE",
+    "priority_wave": "Wave 1",
+    "status": "WP-001 calibration dossier completed",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": "Calibrated in HTERP v0.2."
+  },
+  {
+    "id": "HTE-024",
+    "candidate": "Paul",
+    "tradition_or_region": "Eastern Mediterranean",
+    "encounter_modes": [
+      "VIS",
+      "MSG",
+      "JRN"
+    ],
+    "provisional_period": "mid-1st century CE",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-025",
+    "candidate": "Earliest Christian prophecy",
+    "tradition_or_region": "Eastern Mediterranean",
+    "encounter_modes": [
+      "MSG",
+      "POS",
+      "VIS"
+    ],
+    "provisional_period": "1st–2nd centuries CE",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-026",
+    "candidate": "Revelation of John",
+    "tradition_or_region": "Eastern Mediterranean",
+    "encounter_modes": [
+      "VIS",
+      "JRN",
+      "MSG"
+    ],
+    "provisional_period": "late 1st century CE",
+    "priority_wave": "Wave 2",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-027",
+    "candidate": "Merkavah / Hekhalot traditions",
+    "tradition_or_region": "Jewish late antiquity",
+    "encounter_modes": [
+      "JRN",
+      "VIS",
+      "UNI"
+    ],
+    "provisional_period": "late antiquity",
+    "priority_wave": "Wave 3",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-028",
+    "candidate": "Muhammad and Qur'anic revelation",
+    "tradition_or_region": "Arabia",
+    "encounter_modes": [
+      "MSG",
+      "AUD",
+      "VIS",
+      "DRM"
+    ],
+    "provisional_period": "early 7th century CE",
+    "priority_wave": "Wave 1",
+    "status": "WP-001 calibration dossier completed",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": "Calibrated in HTERP v0.2."
+  },
+  {
+    "id": "HTE-029",
+    "candidate": "Early Islamic mystical traditions",
+    "tradition_or_region": "Islamic world",
+    "encounter_modes": [
+      "UNI",
+      "PRS",
+      "VIS"
+    ],
+    "provisional_period": "7th century onward",
+    "priority_wave": "Wave 3",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-030",
+    "candidate": "Guru Nanak",
+    "tradition_or_region": "Punjab",
+    "encounter_modes": [
+      "PRS",
+      "INS",
+      "ILL",
+      "MSG"
+    ],
+    "provisional_period": "15th–16th centuries CE",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-031",
+    "candidate": "Yoruba Ifa",
+    "tradition_or_region": "West Africa",
+    "encounter_modes": [
+      "DIV",
+      "MSG"
+    ],
+    "provisional_period": "historical depth uncertain; living tradition",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-032",
+    "candidate": "West African trance/possession traditions",
+    "tradition_or_region": "West Africa",
+    "encounter_modes": [
+      "POS",
+      "MSG"
+    ],
+    "provisional_period": "historical depth varies",
+    "priority_wave": "Wave 3",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-033",
+    "candidate": "Australian Aboriginal Dreaming traditions",
+    "tradition_or_region": "Australia",
+    "encounter_modes": [
+      "PRS",
+      "INS",
+      "ILL"
+    ],
+    "provisional_period": "deep-time oral traditions; must be disaggregated by people/community",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-034",
+    "candidate": "Maya visionary/divinatory traditions",
+    "tradition_or_region": "Mesoamerica",
+    "encounter_modes": [
+      "DIV",
+      "VIS",
+      "MSG"
+    ],
+    "provisional_period": "Preclassic–Postclassic and living continuities",
+    "priority_wave": "Wave 1",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-035",
+    "candidate": "Siberian / Inner Asian shamanic traditions",
+    "tradition_or_region": "Inner Asia",
+    "encounter_modes": [
+      "JRN",
+      "POS",
+      "VIS",
+      "MSG"
+    ],
+    "provisional_period": "historical/ethnographic layers",
+    "priority_wave": "Wave 3",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-036",
+    "candidate": "Selected North American vision traditions",
+    "tradition_or_region": "North America",
+    "encounter_modes": [
+      "VIS",
+      "DRM",
+      "MSG",
+      "JRN"
+    ],
+    "provisional_period": "tradition-specific",
+    "priority_wave": "Wave 3",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-037",
+    "candidate": "Teresa of Avila and comparable mystics",
+    "tradition_or_region": "Christian Europe",
+    "encounter_modes": [
+      "UNI",
+      "VIS",
+      "PRS"
+    ],
+    "provisional_period": "16th century CE",
+    "priority_wave": "Wave 3",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-038",
+    "candidate": "Emanuel Swedenborg",
+    "tradition_or_region": "Europe",
+    "encounter_modes": [
+      "VIS",
+      "JRN",
+      "CHA"
+    ],
+    "provisional_period": "18th century CE",
+    "priority_wave": "Wave 4",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-039",
+    "candidate": "Nineteenth-century Spiritualism",
+    "tradition_or_region": "Europe/North America",
+    "encounter_modes": [
+      "POS",
+      "CHA",
+      "APP"
+    ],
+    "provisional_period": "19th century CE",
+    "priority_wave": "Wave 4",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-040",
+    "candidate": "Joseph Smith",
+    "tradition_or_region": "North America",
+    "encounter_modes": [
+      "VIS",
+      "APP",
+      "MSG"
+    ],
+    "provisional_period": "19th century CE",
+    "priority_wave": "Wave 4",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-041",
+    "candidate": "Baha'u'llah",
+    "tradition_or_region": "Iran/Ottoman world",
+    "encounter_modes": [
+      "MSG",
+      "INS"
+    ],
+    "provisional_period": "19th century CE",
+    "priority_wave": "Wave 4",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-042",
+    "candidate": "Marian apparition traditions",
+    "tradition_or_region": "Christian global",
+    "encounter_modes": [
+      "APP",
+      "VIS",
+      "MSG"
+    ],
+    "provisional_period": "medieval–modern",
+    "priority_wave": "Wave 4",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-043",
+    "candidate": "Modern Pentecostal/charismatic prophecy",
+    "tradition_or_region": "Global",
+    "encounter_modes": [
+      "MSG",
+      "POS",
+      "AUD"
+    ],
+    "provisional_period": "20th–21st centuries",
+    "priority_wave": "Wave 4",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-044",
+    "candidate": "Modern channeling movements",
+    "tradition_or_region": "Global",
+    "encounter_modes": [
+      "CHA",
+      "MSG"
+    ],
+    "provisional_period": "19th–21st centuries",
+    "priority_wave": "Wave 4",
+    "status": "registered",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": ""
+  },
+  {
+    "id": "HTE-045",
+    "candidate": "Laboratory mystical-experience studies",
+    "tradition_or_region": "Experimental",
+    "encounter_modes": [
+      "UNI",
+      "ILL",
+      "PRS"
+    ],
+    "provisional_period": "20th–21st centuries",
+    "priority_wave": "Wave 1",
+    "status": "WP-001 calibration dossier completed",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": "Calibrated in HTERP v0.2."
+  },
+  {
+    "id": "HTE-046",
+    "candidate": "Psychoactive-associated mystical experience",
+    "tradition_or_region": "Experimental/ethnographic",
+    "encounter_modes": [
+      "UNI",
+      "ILL",
+      "VIS",
+      "PRS"
+    ],
+    "provisional_period": "ancient–modern; controlled studies modern",
+    "priority_wave": "Wave 1",
+    "status": "WP-001 calibration dossier completed",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": "Calibrated in HTERP v0.2."
+  },
+  {
+    "id": "HTE-047",
+    "candidate": "Dream, sleep, and neurological comparison cases",
+    "tradition_or_region": "Control",
+    "encounter_modes": [
+      "DRM",
+      "VIS",
+      "AUD",
+      "PRS"
+    ],
+    "provisional_period": "modern clinical/experimental",
+    "priority_wave": "Wave 1",
+    "status": "WP-001 calibration dossier completed",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": "Calibrated in HTERP v0.2."
+  },
+  {
+    "id": "HTE-048",
+    "candidate": "Documented fraudulent revelation/mediumship",
+    "tradition_or_region": "Control",
+    "encounter_modes": [
+      "CHA",
+      "POS",
+      "APP"
+    ],
+    "provisional_period": "especially modern high-documentation cases",
+    "priority_wave": "Wave 1",
+    "status": "WP-001 calibration dossier completed",
+    "source_grade": null,
+    "documentation_strength": null,
+    "phenomenology_strength": null,
+    "dependency_class": null,
+    "notes": "Calibrated in HTERP v0.2."
+  }
+]

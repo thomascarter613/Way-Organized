@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HTERP Experiment Preregistration",
+  "type": "object",
+  "required": [
+    "protocol_id",
+    "version",
+    "primary_hypothesis",
+    "primary_outcome",
+    "stopping_rule",
+    "analysis_plan",
+    "interpretation_limits"
+  ],
+  "properties": {
+    "protocol_id": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "investigators": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "role": {
+            "type": "string"
+          },
+          "stance": {
+            "enum": [
+              "proponent",
+              "skeptic",
+              "neutral",
+              "unspecified"
+            ]
+          }
+        }
+      }
+    },
+    "primary_hypothesis": {
+      "type": "string"
+    },
+    "null_expectation": {
+      "type": "string"
+    },
+    "primary_outcome": {
+      "type": "string"
+    },
+    "secondary_outcomes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "inclusion_criteria": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "exclusion_criteria": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "stopping_rule": {
+      "type": "string"
+    },
+    "randomization": {
+      "type": "string"
+    },
+    "blinding": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "analysis_plan": {
+      "type": "string"
+    },
+    "success_threshold": {
+      "type": "string"
+    },
+    "interpretation_limits": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "data_release_plan": {
+      "type": "string"
+    }
+  }
+}

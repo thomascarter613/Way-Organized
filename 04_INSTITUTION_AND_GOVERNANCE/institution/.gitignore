@@ -1,0 +1,8 @@
+# Local/editor noise
+.DS_Store
+Thumbs.db
+~$*.docx
+*.tmp
+
+# Sensitive working exports should be added here as the institution chooses.
+# Do NOT assume the whole repository is safe for a public Git remote.

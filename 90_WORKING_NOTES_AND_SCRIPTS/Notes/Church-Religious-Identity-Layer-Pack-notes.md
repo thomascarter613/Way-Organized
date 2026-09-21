@@ -1,0 +1,16 @@
+Completed the next Work Mode production batch: **CH-007 through CH-012**, plus a batch-control binder. Every DOCX was rendered and visually checked page-by-page; I corrected table-row splitting, numbering carryover, and an orphaned final binder page before finalizing.
+
+**Complete batch:** [Download the Religious Identity Layer Pack](sandbox:/mnt/data/Church-Religious-Identity-Layer-Pack.zip)
+
+* [CH-007 — Foundational Statement of Beliefs](sandbox:/mnt/data/church_identity_layer/CH-007-Foundational-Statement-of-Beliefs.docx) — foundational epistemic/religious commitments, encounter-vs-interpretation distinction, conscience, science/scholarship, authority limits, pluralism, and reserved theological questions.
+* [CH-008 — Formal Doctrine](sandbox:/mnt/data/church_identity_layer/CH-008-Formal-Doctrine.docx) — doctrine hierarchy, religious knowledge, revelation, ultimate reality, human nature, moral life, authority, worship, religious-experience taxonomy, reserved doctrinal domains, and formal adoption process.
+* [CH-009 — Code of Religious Discipline](sandbox:/mnt/data/church_identity_layer/CH-009-Code-of-Religious-Discipline.docx) — due process, safeguarding, complaint intake, investigations, evidence standards, protective measures, sanctions, appeals, leadership accountability, anti-retaliation, freedom to leave, and restoration.
+* [CH-010 — Order of Worship and Liturgical Manual](sandbox:/mnt/data/church_identity_layer/CH-010-Order-of-Worship-and-Liturgical-Manual.docx) — repeatable congregational worship structure, teaching/testimony standards, offerings, hybrid worship, service variants, sample order, and service-record standard.
+* [CH-011 — Religious Rites and Ordinances Manual](sandbox:/mnt/data/church_identity_layer/CH-011-Religious-Rites-and-Ordinances-Manual.docx) — initiation, membership, child/family blessing, coming of age, marriage, funerals, reconciliation, healing/care, ordination, observances, pilgrimage, rite authorization, records, and prohibited practices.
+* [CH-012 — Religious History](sandbox:/mnt/data/church_identity_layer/CH-012-Religious-History.docx) — historical antecedents, Abrahamic research origins, expansion into global phenomenology, institutional formation, research method, anti-mythmaking rule, provisional timeline, founder-history safeguards, and archival requirements.
+* [RID-001 — Religious Identity Layer Production Binder](sandbox:/mnt/data/church_identity_layer/RID-001-Religious-Identity-Layer-Production-Binder.docx) — indexes the batch, identifies adoption dependencies, and defines the next production boundary.
+
+A major design choice throughout this batch is that **uncertainty is explicit rather than papered over**. The drafts do not pretend that questions such as the precise nature of ultimate reality, canon, afterlife, cosmology, soteriology, the status of particular prophets or teachers, or sacramental ontology have already been settled. Likewise, private revelation cannot automatically become compulsory doctrine, and founder or clergy authority is explicitly bounded.
+
+The next executable batch is now **CH-013 through CH-023**: membership standard and covenant → membership/attendance/congregational-record systems → regular worship schedule → worship bulletin templates → sermon/teaching archive → religious calendar → worship-location agreement and site record.
+

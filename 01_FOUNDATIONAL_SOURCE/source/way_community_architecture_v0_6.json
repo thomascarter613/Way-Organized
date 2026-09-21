@@ -1,0 +1,67 @@
+{
+  "version": "0.6",
+  "date": "September 19, 2026",
+  "identity": {
+    "path": "The Way",
+    "person": "Companion",
+    "people": "Companions",
+    "community": "The Assembly",
+    "local": "House of Prayer"
+  },
+  "lifecycle": [
+    "Seeker",
+    "Participant / Guest",
+    "Companion",
+    "Maturing Companion",
+    "Commissioned Servant",
+    "Elder / Mentor (provisional)",
+    "Former Companion"
+  ],
+  "gatherings": [
+    "Gathering for Prayer",
+    "Gathering for Study",
+    "Gathering for Service",
+    "Gathering for Fellowship / Common Table",
+    "Gathering for Discernment"
+  ],
+  "ministry_roles": [
+    "Teacher",
+    "Minister",
+    "Steward",
+    "Elder (provisional)"
+  ],
+  "epistemic_sequence": [
+    "Encounter",
+    "Testimony",
+    "Interpretation",
+    "Teaching",
+    "Doctrine"
+  ],
+  "confidence_levels": [
+    "Established",
+    "Well-supported",
+    "Provisional",
+    "Permitted interpretation",
+    "Open question",
+    "Rejected as harmful or unsupported"
+  ],
+  "house_stages": [
+    "Gathering Circle",
+    "House-in-Formation",
+    "Recognized House of Prayer",
+    "Mature House",
+    "Dormant / Closed House"
+  ],
+  "principles": [
+    "voluntary participation",
+    "freedom of conscience",
+    "non-retaliation",
+    "non-shunning",
+    "distributed authority",
+    "safeguarding",
+    "financial integrity",
+    "epistemic humility",
+    "founder non-sovereignty",
+    "protected exit"
+  ]
+}

@@ -1,0 +1,36 @@
+# ORG-CONST-001 machine-readable seed.
+# Status values: VERIFIED | PROVISIONAL | RESERVED | NOT_YET_EXISTENT | SUPERSEDED
+# Do not replace unresolved values with guesses.
+constants:
+  ORG.LEGAL_NAME:
+    value: "[[CORP_NAME]]"
+    status: RESERVED
+    evidence: "Filed charter / Tennessee Secretary of State"
+  ORG.PUBLIC_NAME:
+    value: "[[PUBLIC_NAME]]"
+    status: RESERVED
+    evidence: "Authorized naming decision"
+  ORG.JURISDICTION:
+    value: "Tennessee"
+    status: VERIFIED
+    evidence: "Founding design / charter"
+  ORG.EIN:
+    value: "[[EIN]]"
+    status: NOT_YET_EXISTENT
+    evidence: "IRS EIN confirmation"
+  GOV.FOUNDER:
+    value: "[[NAME]]"
+    status: PROVISIONAL
+    evidence: "EC-FOUND-001"
+  GOV.CONSTITUTION_ADOPTION_DATE:
+    value: "[[DATE]]"
+    status: NOT_YET_EXISTENT
+    evidence: "EC-FOUND-001"
+  GOV.PSL:
+    value: "[[NAME]]"
+    status: NOT_YET_EXISTENT
+    evidence: "EC-FOUND-001 or succession record"
+  REC.REPOSITORY:
+    value: "institution/"
+    status: PROVISIONAL
+    evidence: "REPO-001"

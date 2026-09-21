@@ -1,0 +1,308 @@
+[
+  {
+    "id": "HTE-001",
+    "candidate": "Mari prophets",
+    "status": "WP-001 baseline completed"
+  },
+  {
+    "id": "HTE-002",
+    "candidate": "Neo-Assyrian prophecy",
+    "status": "registered"
+  },
+  {
+    "id": "HTE-003",
+    "candidate": "Mesopotamian sacred dreams",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-004",
+    "candidate": "Mesopotamian technical divination",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-005",
+    "candidate": "Egyptian dream/oracle traditions",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-006",
+    "candidate": "Shang oracle-bone tradition",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-007",
+    "candidate": "Vedic rishis / Rigveda",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-008",
+    "candidate": "Zarathustra / Gathas",
+    "status": "WP-001 baseline completed"
+  },
+  {
+    "id": "HTE-009",
+    "candidate": "Greek oracles",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-010",
+    "candidate": "Abraham traditions",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-011",
+    "candidate": "Melchizedek / El Elyon",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-012",
+    "candidate": "Moses / Sinai",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-013",
+    "candidate": "Early Israelite prophecy",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-014",
+    "candidate": "Amos and Hosea",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-015",
+    "candidate": "Isaiah traditions",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-016",
+    "candidate": "Jeremiah",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-017",
+    "candidate": "Ezekiel",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-018",
+    "candidate": "Upanishadic seers",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-019",
+    "candidate": "Gautama Buddha",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-020",
+    "candidate": "Mahavira / Jain tradition",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-021",
+    "candidate": "Early Chinese Heaven/ancestor communication",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-022",
+    "candidate": "Daoist revelatory traditions",
+    "status": "WP-003 ancient background baseline completed"
+  },
+  {
+    "id": "HTE-023",
+    "candidate": "Jesus of Nazareth",
+    "status": "WP-001 baseline completed"
+  },
+  {
+    "id": "HTE-024",
+    "candidate": "Paul",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-025",
+    "candidate": "Earliest Christian prophecy",
+    "status": "WP-004 mystical/intermediary baseline completed",
+    "notes": "Expanded in HTERP v0.5 WP-004."
+  },
+  {
+    "id": "HTE-026",
+    "candidate": "Revelation of John",
+    "status": "WP-004 mystical/intermediary baseline completed",
+    "notes": "Expanded in HTERP v0.5 WP-004."
+  },
+  {
+    "id": "HTE-027",
+    "candidate": "Merkavah / Hekhalot",
+    "status": "WP-004 mystical/intermediary baseline completed",
+    "notes": "Expanded in HTERP v0.5 WP-004."
+  },
+  {
+    "id": "HTE-028",
+    "candidate": "Muhammad / Qur'anic revelation",
+    "status": "WP-001 baseline completed"
+  },
+  {
+    "id": "HTE-029",
+    "candidate": "Early Islamic mysticism",
+    "status": "WP-004 mystical/intermediary baseline completed",
+    "notes": "Expanded in HTERP v0.5 WP-004."
+  },
+  {
+    "id": "HTE-030",
+    "candidate": "Guru Nanak",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-031",
+    "candidate": "Yoruba Ifa",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-032",
+    "candidate": "West African trance/possession",
+    "status": "WP-004 mystical/intermediary baseline completed",
+    "notes": "Expanded in HTERP v0.5 WP-004."
+  },
+  {
+    "id": "HTE-033",
+    "candidate": "Australian Aboriginal traditions — disaggregated cases",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-034",
+    "candidate": "Maya visionary/divinatory traditions",
+    "status": "WP-002 comparative anchor baseline completed"
+  },
+  {
+    "id": "HTE-035",
+    "candidate": "Siberian / Inner Asian shamanic traditions",
+    "status": "WP-004 mystical/intermediary baseline completed",
+    "notes": "Expanded in HTERP v0.5 WP-004."
+  },
+  {
+    "id": "HTE-036",
+    "candidate": "Selected North American vision traditions",
+    "status": "WP-004 mystical/intermediary baseline completed",
+    "notes": "Expanded in HTERP v0.5 WP-004."
+  },
+  {
+    "id": "HTE-037",
+    "candidate": "Teresa of Avila and comparable mystics",
+    "status": "WP-004 mystical/intermediary baseline completed",
+    "notes": "Expanded in HTERP v0.5 WP-004."
+  },
+  {
+    "id": "HTE-038",
+    "candidate": "Emanuel Swedenborg",
+    "status": "WP-005 modern high-documentation baseline completed",
+    "notes": "Expanded in HTERP v0.6 WP-005."
+  },
+  {
+    "id": "HTE-039",
+    "candidate": "Nineteenth-century Spiritualism",
+    "status": "WP-005 modern high-documentation baseline completed",
+    "notes": "Expanded in HTERP v0.6 WP-005."
+  },
+  {
+    "id": "HTE-040",
+    "candidate": "Joseph Smith",
+    "status": "WP-005 modern high-documentation baseline completed",
+    "notes": "Expanded in HTERP v0.6 WP-005."
+  },
+  {
+    "id": "HTE-041",
+    "candidate": "Baha'u'llah",
+    "status": "WP-005 modern high-documentation baseline completed",
+    "notes": "Expanded in HTERP v0.6 WP-005."
+  },
+  {
+    "id": "HTE-042",
+    "candidate": "Marian apparition traditions",
+    "status": "WP-005 modern high-documentation baseline completed",
+    "notes": "Expanded in HTERP v0.6 WP-005."
+  },
+  {
+    "id": "HTE-043",
+    "candidate": "Modern Pentecostal/charismatic prophecy",
+    "status": "WP-005 modern high-documentation baseline completed",
+    "notes": "Expanded in HTERP v0.6 WP-005."
+  },
+  {
+    "id": "HTE-044",
+    "candidate": "Modern channeling movements",
+    "status": "WP-005 modern high-documentation baseline completed",
+    "notes": "Expanded in HTERP v0.6 WP-005."
+  },
+  {
+    "id": "HTE-045",
+    "candidate": "Laboratory mystical-experience studies",
+    "status": "WP-001 baseline completed"
+  },
+  {
+    "id": "HTE-046",
+    "candidate": "Psychoactive-associated mystical experience",
+    "status": "WP-001 baseline completed"
+  },
+  {
+    "id": "HTE-047",
+    "candidate": "Dream/sleep/neurological controls",
+    "status": "WP-001 baseline + WP-002 control expansion completed"
+  },
+  {
+    "id": "HTE-048",
+    "candidate": "Documented fraud controls",
+    "status": "WP-001 baseline completed"
+  },
+  {
+    "id": "HTE-049",
+    "candidate": "Classical Yoga / samadhi",
+    "tradition_or_region": "South Asia",
+    "encounter_modes": [
+      "ILL",
+      "UNI"
+    ],
+    "provisional_period": "early centuries CE synthesis, with earlier antecedents",
+    "priority_wave": "WP-004",
+    "status": "WP-004 comparative baseline completed",
+    "source_grade": null,
+    "documentation_strength": "High for texts/practice tradition",
+    "phenomenology_strength": "Medium",
+    "dependency_class": "C",
+    "notes": "Added in HTERP v0.5."
+  },
+  {
+    "id": "HTE-050",
+    "candidate": "Buddhist cultivated meditation and absorption",
+    "tradition_or_region": "South and East Asia",
+    "encounter_modes": [
+      "ILL",
+      "UNI"
+    ],
+    "provisional_period": "early Buddhism onward",
+    "priority_wave": "WP-004",
+    "status": "WP-004 comparative baseline completed",
+    "source_grade": null,
+    "documentation_strength": "High for practice traditions",
+    "phenomenology_strength": "High in later detailed literature",
+    "dependency_class": "C",
+    "notes": "Separated from historical-Buddha case in HTERP v0.5."
+  },
+  {
+    "id": "HTE-051",
+    "candidate": "Experimental mediumship / anomalous information",
+    "tradition_or_region": "Modern experimental",
+    "encounter_modes": [
+      "CHA",
+      "MSG"
+    ],
+    "provisional_period": "21st-century experimental literature",
+    "priority_wave": "WP-005",
+    "status": "WP-005 baseline completed; adversarial replication priority",
+    "source_grade": "P1 experimental",
+    "documentation_strength": "High",
+    "phenomenology_strength": "High",
+    "dependency_class": "I/U",
+    "notes": "Contested positive and null literature; source of any anomaly unresolved."
+  }
+]

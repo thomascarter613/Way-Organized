@@ -1,0 +1,6 @@
+import { SiteHeader } from "@/components/site-header";
+import { SiteFooter } from "@/components/site-footer";
+
+export default function AboutPage() {
+  return <><SiteHeader /><main className="articlePage"><div className="container narrow"><span className="eyebrow">About</span><h1>A community before a category.</h1><p className="lead">The institution is being designed around encounter with transcendent reality, disciplined inquiry, lived practice, shared community, and accountable governance—not around the assumption that it must imitate one inherited institutional form.</p><h2>Working commitments</h2><p>We can take religious experience and inherited wisdom seriously while distinguishing experience from interpretation. Traditions can be compared without flattening real differences. Leadership can serve without becoming unaccountable. Inquiry can remain open without requiring indifference.</p><h2>What is still open</h2><p>The permanent name, mature theology, liturgical vocabulary, and several institutional forms remain intentionally unsettled. The platform therefore uses neutral technical names and centralizes public labels so the organization can grow without costly rewrites.</p></div></main><SiteFooter /></>;
+}

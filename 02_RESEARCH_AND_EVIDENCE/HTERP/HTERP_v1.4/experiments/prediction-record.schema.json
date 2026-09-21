@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HTERP Prospective Prediction Record",
+  "type": "object",
+  "required": [
+    "prediction_id",
+    "claimant",
+    "timestamp",
+    "exact_wording",
+    "deadline",
+    "success_criterion",
+    "failure_criterion",
+    "resolution_source"
+  ],
+  "properties": {
+    "prediction_id": {
+      "type": "string"
+    },
+    "claimant": {
+      "type": "string"
+    },
+    "tradition_or_method": {
+      "type": "string"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "exact_wording": {
+      "type": "string"
+    },
+    "probability": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 1
+    },
+    "deadline": {
+      "type": "string"
+    },
+    "geographic_scope": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "success_criterion": {
+      "type": "string"
+    },
+    "failure_criterion": {
+      "type": "string"
+    },
+    "resolution_source": {
+      "type": "string"
+    },
+    "hash": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status": {
+      "enum": [
+        "open",
+        "resolved_hit",
+        "resolved_miss",
+        "void_predefined_reason"
+      ]
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

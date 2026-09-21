@@ -1,0 +1,7 @@
+import { AppShell } from "@/components/app-shell";
+import { StatCard } from "@/components/stat-card";
+import { staffStats } from "@/lib/demo-data";
+
+export default function StaffPage() {
+  return <AppShell mode="staff"><div className="dashboard"><header className="dashboardHeader"><div><span className="eyebrow">Staff workspace</span><h1>Operations dashboard</h1><p>People, gatherings, groups, communications, giving, content, and follow-up work.</p></div><button className="button small">Create</button></header><section className="statGrid">{staffStats.map(item => <StatCard key={item.label} {...item}/>)}</section><div className="dashboardGrid"><section className="panel"><div className="panelHeader"><div><span className="panelLabel">Work queue</span><h2>Needs attention</h2></div></div><div className="taskList"><div><span className="statusDot urgent"/><b>3 newcomer follow-ups</b><small>Due today</small></div><div><span className="statusDot"/><b>Approve Sunday announcement</b><small>Publishing workflow</small></div><div><span className="statusDot"/><b>Volunteer schedule incomplete</b><small>2 open roles</small></div></div></section><section className="panel"><span className="panelLabel">Next gathering</span><h2>Weekly Assembly</h2><p className="muted">Sunday · 10:30 AM</p><div className="metricLine"><span>RSVPs</span><strong>64</strong></div><div className="metricLine"><span>Volunteers scheduled</span><strong>11 / 13</strong></div><div className="metricLine"><span>First-time guests</span><strong>7</strong></div></section></div></div></AppShell>;
+}

@@ -1,0 +1,26 @@
+Domain,Gate,Status,Owner,Timing
+Identity,Legal name selected,OPEN,Founder,Before filing
+Governance,No statutory members confirmed,WORKING,Founder + counsel,Before filing
+Governance,At least 3 directors identified,OPEN,Founder,Before/at organization
+Governance,Target 5 formation directors identified,OPEN,Founder,Early formation
+Officers,Separate President and Secretary candidates,OPEN,Board recruitment,Organizational meeting
+Address,Registered office completed,OPEN,Founder,Before filing
+Address,Principal office completed,OPEN,Founder,Before filing
+Documents,Charter conformed to final facts,PARTIAL,Counsel,Before filing
+Documents,Bylaws conformed to final facts,PARTIAL,Counsel/Board,Organizational meeting
+Religious,v1.0 Constitution founder-stewardship adoption,READY,Founder,Now
+Religious,v1.0 Board recognition/ratification,BLOCKED,Board,After formation
+Integrity,Founder Covenant signed,READY,Founder,Now / ratify later
+Complaints,Independent complaint route active,OPEN,Founder,Before pilot
+Safeguarding,Adult-only pilot limits published,READY,Founder,Before pilot
+Safeguarding,Child-program system active,BLOCKED,Future safeguarding lead,Before children’s programming
+Finance,No personal account presented as corporate account,READY,Founder,Now
+Finance,Corporate banking controls,BLOCKED,Board/Treasurer,After formation
+Tax,Full Form 1023 dossier,PARTIAL,Founder/Board,After formation facts
+Tax,Three-year financial projections supported,OPEN,Board/finance,Before Form 1023
+Program,90-day Gathering Circle pilot,READY WITH GATES,Founder,Now after gates
+Program,Official House-in-Formation recognition,BLOCKED,Board/delegate,After formation + gates
+Ministry,Official commissioning,BLOCKED,Authorized process,After formation + formation/complaints
+Fundraising,Public donation program,BLOCKED/PENDING REVIEW,Board/counsel,After formation/status review
+Insurance,General liability / program coverage evaluated,OPEN,Board/founder,Before public operations scale
+Review,30/60/90 pilot reviews,READY,Pilot team,During pilot

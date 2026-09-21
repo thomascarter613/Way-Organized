@@ -1,0 +1,1359 @@
+.
+├── binders
+│   ├── CEP-Day-One-Execution-Binder.docx
+│   ├── CONST-COMP-001-Remaining-Constitutional-Instruments-Production-Binder.docx
+│   ├── FILING-001-IRS-Determination-Package-Production-Binder.docx
+│   ├── MINED-001-Ministry-and-Religious-Education-Layer-Production-Binder.docx
+│   ├── OPS-IMPL-001-Operational-Implementation-Manuals-Completion-Binder.docx
+│   ├── ORGCOMP-001-Organizational-Compliance-Layer-Production-Binder.docx
+│   └── RID-001-Religious-Identity-Layer-Production-Binder.docx
+├── Church
+│   ├── CH-005-Civil-Bylaws-BYL-001.docx
+│   ├── CH-006-Ecclesiastical-Governance-ECC-CON-001.docx
+│   ├── CH-007-Foundational-Statement-of-Beliefs.docx
+│   ├── CH-008-Formal-Doctrine.docx
+│   ├── CH-009-Code-of-Religious-Discipline.docx
+│   ├── CH-010-Order-of-Worship-and-Liturgical-Manual.docx
+│   ├── CH-011-Religious-Rites-and-Ordinances-Manual.docx
+│   ├── CH-012-Religious-History.docx
+│   ├── CH-013-Membership-Standard.docx
+│   ├── CH-014-Covenant-Membership-Covenant.docx
+│   ├── CH-015-Membership-Register-Standard.docx
+│   ├── CH-016-Attendance-Register-Standard.docx
+│   ├── CH-017-Congregational-Meeting-Records-Standard.docx
+│   ├── CH-018-Regular-Worship-Schedule.docx
+│   ├── CH-019-Worship-Bulletin-and-Program-Standard.docx
+│   ├── CH-020-Sermon-and-Teaching-Archive-Standard.docx
+│   ├── CH-021-Religious-Calendar-Framework.docx
+│   ├── CH-022-Recurring-Worship-Location-Use-Agreement.docx
+│   ├── CH-023-Worship-Site-Record.docx
+│   ├── CH-024-Ministerial-Offices-Standard.docx
+│   ├── CH-025-Ordination-and-Credentialing-Standard.docx
+│   ├── CH-026-Ministerial-Course-of-Study.docx
+│   ├── CH-027-Ordination-Procedure.docx
+│   ├── CH-028-Ministerial-Credentials.docx
+│   ├── CH-029-Ministerial-Personnel-Records.docx
+│   ├── CH-030-Religious-Literature-Corpus.docx
+│   ├── CH-031-Adult-Religious-Education-Program.docx
+│   ├── CH-032-Youth-Religious-Education-Program.docx
+│   ├── CH-033-Ministerial-Formation-Program.docx
+│   ├── CH-034-Activities-Narrative.docx
+│   ├── CH-035-Organizational-Chart.docx
+│   ├── CH-036-Governing-Body-Roster.docx
+│   ├── CH-037-Organizational-Minutes-and-Initial-Resolutions.docx
+│   ├── CH-038-Conflict-of-Interest-Policy.docx
+│   ├── CH-039-Compensation-Policy.docx
+│   ├── CH-040-Financial-Controls-Policy.docx
+│   ├── CH-041-Contribution-and-Offering-Procedures.docx
+│   ├── CH-042-Annual-Budget-and-Budget-Procedure.docx
+│   ├── CH-043-Financial-Statements-and-Reporting-Standard.docx
+│   ├── CH-044-Insider-and-Related-Party-Transaction-Record.docx
+│   ├── CH-045-Political-Campaign-Compliance-Policy.docx
+│   ├── CH-046-Lobbying-Policy.docx
+│   ├── CH-047-Private-Benefit-and-Inurement-Policy.docx
+│   ├── CH-048-Records-Retention-Policy.docx
+│   ├── CH-049-Form-1023-Working-Copy.docx
+│   ├── CH-050-Form-1023-Schedule-A-Churches-Working-Copy.docx
+│   ├── CH-051-Schedule-A-Evidence-Exhibits-and-Supplemental-Response-Assembly.docx
+│   ├── CH-051-Supplemental-Attachment-DRAFT.pdf
+│   ├── CH-052-Master-Exhibit-Index.docx
+│   ├── CH-053-IRS-Church-Characteristics-Matrix.docx
+│   └── CH-054-Church-Qualification-Narrative.docx
+├── community-platform
+│   ├── app
+│   │   ├── about
+│   │   │   └── page.tsx
+│   │   ├── admin
+│   │   │   └── page.tsx
+│   │   ├── api
+│   │   │   └── health
+│   │   │       └── route.ts
+│   │   ├── app
+│   │   │   ├── events
+│   │   │   │   └── page.tsx
+│   │   │   ├── giving
+│   │   │   │   └── page.tsx
+│   │   │   ├── groups
+│   │   │   │   └── page.tsx
+│   │   │   ├── learn
+│   │   │   │   └── page.tsx
+│   │   │   ├── layout.tsx
+│   │   │   └── page.tsx
+│   │   ├── auth
+│   │   │   └── callback
+│   │   │       └── route.ts
+│   │   ├── governance
+│   │   │   └── page.tsx
+│   │   ├── research
+│   │   │   └── page.tsx
+│   │   ├── sign-in
+│   │   │   └── page.tsx
+│   │   ├── staff
+│   │   │   └── page.tsx
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── components
+│   │   ├── app-shell.tsx
+│   │   ├── site-footer.tsx
+│   │   ├── site-header.tsx
+│   │   └── stat-card.tsx
+│   ├── lib
+│   │   ├── supabase
+│   │   │   ├── client.ts
+│   │   │   ├── env.ts
+│   │   │   ├── proxy.ts
+│   │   │   └── server.ts
+│   │   ├── demo-data.ts
+│   │   └── site.ts
+│   ├── public
+│   ├── supabase
+│   │   └── migrations
+│   │       └── 0001_foundation.sql
+│   ├── ARCHITECTURE.md
+│   ├── biome.json
+│   ├── bun.lock
+│   ├── next.config.ts
+│   ├── next-env.d.ts
+│   ├── package.json
+│   ├── proxy.ts
+│   ├── README.md
+│   └── tsconfig.json
+├── Congregation
+│   └── CONG-001-Congregational-Operations-Layer-Production-Binder.docx
+├── forms
+│   ├── 22_board_minutes_template.md
+│   ├── 23_complaint_intake_form.md
+│   ├── 24_safeguarding_incident_form.md
+│   ├── 25_mandated_reporting_quick_card_tn.md
+│   ├── 26_investigation_conflict_screen.md
+│   ├── 27_investigator_terms_reference_form.md
+│   ├── 28_evidence_log.csv
+│   ├── 29_interview_record_template.md
+│   ├── 30_findings_report_template.md
+│   ├── 31_discipline_notice_template.md
+│   ├── 32_appeal_form.md
+│   ├── 33_retaliation_report_form.md
+│   ├── 34_conflict_disclosure_form.md
+│   ├── 35_related_party_transaction_memo.md
+│   ├── 36_compensation_approval_memo.md
+│   ├── 37_policy_exception_register.csv
+│   └── 38_external_review_action_tracker.csv
+├── governance
+│   ├── 01_constitutional_integration_map.md
+│   ├── 02_model_charter_member.md
+│   ├── 03_model_charter_nonmember.md
+│   ├── 04_model_bylaws_common_core.md
+│   ├── 05_membership_variant_schedule.md
+│   ├── 06_nonmember_variant_schedule.md
+│   ├── 07_board_reserved_powers_schedule.md
+│   ├── 08_founder_covenant.md
+│   ├── 09_board_independence_standard.md
+│   ├── constitutional_governance_package_v0_2.docx
+│   └── constitutional_governance_package_v0_2.pdf
+├── HTERP
+│   ├── HTERP_v0.1
+│   │   ├── anchor_dossiers_001_006_007_008.md
+│   │   ├── case_registry.json
+│   │   ├── dossier_template.md
+│   │   ├── hypothesis_ledger.md
+│   │   ├── INDEX.md
+│   │   ├── master_evidence_triage.md
+│   │   ├── README.md
+│   │   ├── source_ledger.md
+│   │   └── wave1_findings.md
+│   ├── HTERP_v0.2
+│   │   ├── analysis
+│   │   │   ├── calibration_synthesis.md
+│   │   │   ├── contradiction_matrix.md
+│   │   │   └── dependency_analysis.md
+│   │   ├── blind
+│   │   │   ├── blinded_phenomenology_matrix.csv
+│   │   │   ├── blinded_phenomenology_matrix.md
+│   │   │   └── reveal_key.md
+│   │   ├── dossiers
+│   │   │   ├── HTE-001-mari.md
+│   │   │   ├── HTE-008-zarathustra.md
+│   │   │   ├── HTE-023-jesus.md
+│   │   │   ├── HTE-028-muhammad.md
+│   │   │   ├── HTE-045-046-experimental-mystical.md
+│   │   │   ├── HTE-047-neurological-controls.md
+│   │   │   └── HTE-048-fraud-controls.md
+│   │   ├── protocols
+│   │   │   ├── HTERP-AI-anomalous-information.md
+│   │   │   ├── HTERP-NEURO-neurological-control.md
+│   │   │   └── HTERP-PRED-prospective-prediction.md
+│   │   ├── anchor_dossiers_001_006_007_008.md
+│   │   ├── case_registry.json
+│   │   ├── dossier_template.md
+│   │   ├── hypothesis_ledger.md
+│   │   ├── hypothesis_ledger_v0.2.md
+│   │   ├── INDEX.md
+│   │   ├── master_evidence_triage.md
+│   │   ├── README.md
+│   │   ├── source_ledger.md
+│   │   ├── wave1_findings.md
+│   │   ├── WP-001-calibration-corpus.md
+│   │   └── WP-001-source-register.md
+│   ├── HTERP_v1.4
+│   │   ├── analysis
+│   │   │   ├── calibration_synthesis.md
+│   │   │   ├── contradiction_matrix.md
+│   │   │   ├── dependency_analysis.md
+│   │   │   ├── divine-name-genealogy-el-yhwh.md
+│   │   │   ├── preservation-system-matrix.md
+│   │   │   ├── revelation-divination-boundary.md
+│   │   │   ├── WP-002-contradiction-matrix.md
+│   │   │   ├── WP-002-cross-cultural-matrix.md
+│   │   │   ├── WP-002-dependency-analysis.md
+│   │   │   ├── WP-003-concept-genealogy.md
+│   │   │   ├── WP-004-agency-intermediary-taxonomy.md
+│   │   │   ├── WP-004-common-core-stress-test.md
+│   │   │   ├── WP-004-esoteric-access-taxonomy.md
+│   │   │   ├── WP-004-mystical-feature-matrix.csv
+│   │   │   ├── WP-004-voluntary-vs-spontaneous-matrix.md
+│   │   │   ├── WP-005-anomalous-information-ledger.md
+│   │   │   ├── WP-005-apparition-witness-topology.md
+│   │   │   ├── WP-005-joseph-smith-version-analysis.md
+│   │   │   ├── WP-005-modern-evidence-ladder.md
+│   │   │   ├── WP-006-anomalous-information-audit.md
+│   │   │   ├── WP-006-candidate-ethical-convergence.md
+│   │   │   ├── WP-006-constructive-theology-readiness.md
+│   │   │   ├── WP-006-contradiction-localization.md
+│   │   │   ├── WP-006-dependency-controlled-convergence.md
+│   │   │   ├── WP-006-encounter-state-clustering.md
+│   │   │   ├── WP-006-entity-identity-analysis.md
+│   │   │   ├── WP-006-evidence-weighted-source-architecture.md
+│   │   │   ├── WP-006-what-survives.md
+│   │   │   ├── WP-011-difficult-text-decisions.md
+│   │   │   ├── WP-012-difficult-text-decisions.md
+│   │   │   └── WP-013-evidence-update-rules.md
+│   │   ├── blind
+│   │   │   ├── blinded_phenomenology_matrix.csv
+│   │   │   ├── blinded_phenomenology_matrix.md
+│   │   │   └── reveal_key.md
+│   │   ├── constructive
+│   │   │   ├── amendment-process.md
+│   │   │   ├── authority-canon-architecture.md
+│   │   │   ├── belonging-membership-model.md
+│   │   │   ├── epistemological-constitution.md
+│   │   │   ├── ethical-covenant-v0.1.md
+│   │   │   ├── exoteric-depth-model.md
+│   │   │   ├── naming-deferred.md
+│   │   │   ├── open-theological-branches.md
+│   │   │   ├── provisional-liturgy.md
+│   │   │   ├── provisional-theology-v0.1.md
+│   │   │   ├── public-covenant.md
+│   │   │   ├── rule-of-practice-v0.1.md
+│   │   │   └── TRACE-interpretation-method.md
+│   │   ├── dossiers
+│   │   │   ├── HTE-001-mari.md
+│   │   │   ├── HTE-003-mesopotamian-sacred-dreams.md
+│   │   │   ├── HTE-004-mesopotamian-technical-divination.md
+│   │   │   ├── HTE-005-egyptian-dream-oracle.md
+│   │   │   ├── HTE-006-shang-oracle-bones.md
+│   │   │   ├── HTE-007-rigveda-rishis.md
+│   │   │   ├── HTE-008-zarathustra.md
+│   │   │   ├── HTE-009-greek-oracles.md
+│   │   │   ├── HTE-010-abraham-traditions.md
+│   │   │   ├── HTE-011-melchizedek-el-elyon.md
+│   │   │   ├── HTE-012-moses-sinai.md
+│   │   │   ├── HTE-013-early-israelite-prophecy.md
+│   │   │   ├── HTE-014-amos-hosea.md
+│   │   │   ├── HTE-015-isaiah.md
+│   │   │   ├── HTE-016-jeremiah.md
+│   │   │   ├── HTE-017-ezekiel.md
+│   │   │   ├── HTE-018-upanishadic-seers.md
+│   │   │   ├── HTE-019-buddha-awakening.md
+│   │   │   ├── HTE-020-mahavira-jain.md
+│   │   │   ├── HTE-021-china-heaven-ancestors.md
+│   │   │   ├── HTE-022-daoist-revelations.md
+│   │   │   ├── HTE-023-jesus.md
+│   │   │   ├── HTE-024-paul.md
+│   │   │   ├── HTE-025-early-christian-prophecy.md
+│   │   │   ├── HTE-026-revelation-john.md
+│   │   │   ├── HTE-027-hekhalot-merkavah.md
+│   │   │   ├── HTE-028-muhammad.md
+│   │   │   ├── HTE-029-early-islamic-mysticism.md
+│   │   │   ├── HTE-030-guru-nanak.md
+│   │   │   ├── HTE-031-yoruba-ifa.md
+│   │   │   ├── HTE-032-spirit-possession.md
+│   │   │   ├── HTE-033A-yolngu-wangarr.md
+│   │   │   ├── HTE-033B-nyikina-marlaloo-songline.md
+│   │   │   ├── HTE-034-maya-divination.md
+│   │   │   ├── HTE-035-siberian-shamanic-traditions.md
+│   │   │   ├── HTE-036-lakota-vision-traditions.md
+│   │   │   ├── HTE-037-teresa-avila.md
+│   │   │   ├── HTE-038-emanuel-swedenborg.md
+│   │   │   ├── HTE-039-spiritualism.md
+│   │   │   ├── HTE-040-joseph-smith.md
+│   │   │   ├── HTE-041-bahaullah.md
+│   │   │   ├── HTE-042-apparition-traditions.md
+│   │   │   ├── HTE-043-pentecostal-charismatic-prophecy.md
+│   │   │   ├── HTE-044-modern-channeling.md
+│   │   │   ├── HTE-045-046-experimental-mystical.md
+│   │   │   ├── HTE-047A-sleep-paralysis-controls.md
+│   │   │   ├── HTE-047B-bereavement-presence-controls.md
+│   │   │   ├── HTE-047-neurological-controls.md
+│   │   │   ├── HTE-048-fraud-controls.md
+│   │   │   ├── HTE-049-classical-yoga-samadhi.md
+│   │   │   ├── HTE-050-buddhist-cultivated-meditation.md
+│   │   │   └── HTE-051-experimental-mediumship.md
+│   │   ├── experiments
+│   │   │   ├── ADVERSARIAL-governance-charter.md
+│   │   │   ├── COMMON-ethics-safety.md
+│   │   │   ├── COMMON-preregistration-standard.md
+│   │   │   ├── COMMON-statistical-analysis-plan.md
+│   │   │   ├── EXP-001-mediumship-multisite.md
+│   │   │   ├── EXP-002-word-of-knowledge.md
+│   │   │   ├── EXP-003-channeling-hidden-target.md
+│   │   │   ├── EXP-004-prospective-prophecy-registry.md
+│   │   │   ├── prediction-record.schema.json
+│   │   │   ├── preregistration.schema.json
+│   │   │   └── RUN-READINESS-CHECKLIST.md
+│   │   ├── governance
+│   │   │   ├── governance-prototype-v0.1.md
+│   │   │   ├── safeguarding-anti-abuse-constitution.md
+│   │   │   └── teacher-guide-standard.md
+│   │   ├── practice
+│   │   │   ├── 30-day-reading-cycle.md
+│   │   │   ├── 30-day-rule-of-life.md
+│   │   │   ├── daily-prayer-office.md
+│   │   │   ├── family-child-practice.md
+│   │   │   ├── pilot-evaluation-form.md
+│   │   │   ├── provisional-rites.md
+│   │   │   └── weekly-sacred-gathering.md
+│   │   ├── protocols
+│   │   │   ├── HTERP-ADV-adversarial-replication-standard.md
+│   │   │   ├── HTERP-AI-anomalous-information.md
+│   │   │   ├── HTERP-MYST-mystical-comparison-protocol.md
+│   │   │   ├── HTERP-NEURO-neurological-control.md
+│   │   │   ├── HTERP-PRED-prospective-prediction.md
+│   │   │   └── HTERP-PRES-preservation-vector.md
+│   │   ├── reader
+│   │   │   ├── annotations
+│   │   │   │   └── pass-I
+│   │   │   │       ├── 01-genesis-1.md
+│   │   │   │       ├── 02-genesis-12.md
+│   │   │   │       ├── 03-genesis-14-melchizedek.md
+│   │   │   │       ├── 04-exodus-3.md
+│   │   │   │       ├── 05-deuteronomy-6.md
+│   │   │   │       ├── 06-deuteronomy-32.md
+│   │   │   │       ├── 07-amos-5.md
+│   │   │   │       ├── 08-isaiah-6.md
+│   │   │   │       ├── 09-jeremiah-7.md
+│   │   │   │       ├── 10-ezekiel-1-3.md
+│   │   │   │       ├── 11-mark-1.md
+│   │   │   │       ├── 12-matthew-5-7.md
+│   │   │   │       ├── 13-kingdom-parables.md
+│   │   │   │       ├── 14-passion-resurrection-comparison.md
+│   │   │   │       ├── 15-quran-1.md
+│   │   │   │       ├── 16-quran-96.md
+│   │   │   │       ├── 17-quran-112.md
+│   │   │   │       ├── 18-quran-2-abraham.md
+│   │   │   │       ├── 19-quran-19.md
+│   │   │   │       ├── 20-gathas-yasna-30.md
+│   │   │   │       ├── 21-guru-nanak-japji.md
+│   │   │   │       ├── 22-early-buddhist-sample.md
+│   │   │   │       └── INDEX.md
+│   │   │   ├── difficult-texts
+│   │   │   │   ├── pass-I
+│   │   │   │   │   ├── 01-torah-slavery.md
+│   │   │   │   │   ├── 02-herem-conquest.md
+│   │   │   │   │   ├── 03-akedah-genesis-22.md
+│   │   │   │   │   ├── 04-exodus-plagues-firstborn.md
+│   │   │   │   │   ├── 05-prophetic-apocalyptic-violence.md
+│   │   │   │   │   ├── 06-jesus-gehenna-judgment.md
+│   │   │   │   │   ├── 07-jesus-exclusivity.md
+│   │   │   │   │   ├── 08-quran-warfare.md
+│   │   │   │   │   ├── 09-quran-4-34-gender.md
+│   │   │   │   │   ├── 10-quran-pluralism-exclusivity.md
+│   │   │   │   │   ├── 11-apostasy-hadith-law.md
+│   │   │   │   │   ├── 12-buddhist-karma-gender.md
+│   │   │   │   │   └── INDEX.md
+│   │   │   │   └── pass-II
+│   │   │   │       ├── 01-torah-sexuality-purity.md
+│   │   │   │       ├── 02-biblical-capital-punishment.md
+│   │   │   │       ├── 03-prophetic-nationalism-nations.md
+│   │   │   │       ├── 04-paul-slavery-household.md
+│   │   │   │       ├── 05-early-christian-anti-judaism.md
+│   │   │   │       ├── 06-quran-slavery-concubinage.md
+│   │   │   │       ├── 07-quran-legal-punishments.md
+│   │   │   │       ├── 08-hadith-authority.md
+│   │   │   │       ├── 09-zoroastrian-purity-dualism.md
+│   │   │   │       ├── 10-sikh-martial-development.md
+│   │   │   │       ├── 11-buddhist-rebirth-cosmology.md
+│   │   │   │       ├── 12-contemplative-supernormal-powers.md
+│   │   │   │       └── INDEX.md
+│   │   │   ├── 00-reader-method.md
+│   │   │   ├── 01-torah-reader-map.md
+│   │   │   ├── 02-prophets-reader-map.md
+│   │   │   ├── 03-jesus-witness-reader-map.md
+│   │   │   ├── 04-quran-muhammad-reader-map.md
+│   │   │   ├── 05-gathas-reader-map.md
+│   │   │   ├── 06-sikh-reader-map.md
+│   │   │   ├── 07-buddhist-reader-map.md
+│   │   │   ├── 08-comparative-wisdom-appendix.md
+│   │   │   ├── 09-cross-source-topic-map.md
+│   │   │   ├── 10-difficult-text-register.md
+│   │   │   ├── 11-key-term-lexicon.md
+│   │   │   └── ANNOTATION-TEMPLATE.md
+│   │   ├── anchor_dossiers_001_006_007_008.md
+│   │   ├── case_registry.json
+│   │   ├── dossier_template.md
+│   │   ├── hypothesis_ledger.md
+│   │   ├── hypothesis_ledger_v0.2.md
+│   │   ├── hypothesis_ledger_v0.3.md
+│   │   ├── hypothesis_ledger_v0.4.md
+│   │   ├── hypothesis_ledger_v0.5.md
+│   │   ├── hypothesis_ledger_v0.6.md
+│   │   ├── hypothesis_ledger_v0.7.md
+│   │   ├── INDEX.md
+│   │   ├── MANIFEST.txt
+│   │   ├── master_evidence_triage.md
+│   │   ├── NAMING-STUDY.md
+│   │   ├── PROJECT-STATUS.md
+│   │   ├── PROTO-CANON-STATUS.md
+│   │   ├── README.md
+│   │   ├── RESEARCH-CONSTITUTION.md
+│   │   ├── source_ledger.md
+│   │   ├── wave1_findings.md
+│   │   ├── WORK-QUEUE.md
+│   │   ├── WP-001-calibration-corpus.md
+│   │   ├── WP-001-source-register.md
+│   │   ├── WP-002-comparative-anchors.md
+│   │   ├── WP-002-source-register.md
+│   │   ├── WP-003-ancient-background-and-genealogy.md
+│   │   ├── WP-003-source-register.md
+│   │   ├── WP-004-mystical-and-intermediary-traditions.md
+│   │   ├── WP-004-source-register.md
+│   │   ├── WP-005-modern-high-documentation.md
+│   │   ├── WP-005-source-register.md
+│   │   ├── WP-006-first-major-synthesis.md
+│   │   ├── WP-006-source-note.md
+│   │   ├── WP-007-provisional-constructive-framework.md
+│   │   ├── WP-007-source-note.md
+│   │   ├── WP-008-practice-prototype-community-architecture.md
+│   │   ├── WP-009-source-reader-proto-canon.md
+│   │   ├── WP-010-proto-canon-annotation-pass-I.md
+│   │   ├── WP-010-source-register.md
+│   │   ├── WP-011-difficult-text-analysis-I.md
+│   │   ├── WP-011-source-register.md
+│   │   ├── WP-012-difficult-text-analysis-II.md
+│   │   ├── WP-012-source-register.md
+│   │   └── WP-013-adversarial-experiment-designs.md
+│   ├── HTERP_Pilot_Workbook_v1.0.docx
+│   ├── HTERP_Pilot_Workbook_v1.0.pdf
+│   └── HTERP_Prospective_Registry_v1.0.xlsx
+├── institution
+│   ├── 00-control
+│   │   ├── adoption-register
+│   │   ├── manifests
+│   │   │   ├── MIGRATION-NOTE.md
+│   │   │   ├── REPOSITORY-TREE.txt
+│   │   │   └── SHA256SUMS.txt
+│   │   ├── releases
+│   │   ├── Activation-Control-Workbook.xlsx
+│   │   ├── ACT-RUN-001-Institutional-Activation-Runbook.docx
+│   │   ├── ADOPT-001-Founding-Adoption-and-Activation-Register.docx
+│   │   ├── ORG-CONST-001-Organization-Constants-and-Institutional-Identity-Register.docx
+│   │   ├── org_constants.yaml
+│   │   ├── REC-ID-001-Institutional-Identifier-and-Record-Numbering-Standard.docx
+│   │   ├── record_series.yaml
+│   │   ├── REPO-001-Canonical-Institutional-Repository-Standard.docx
+│   │   └── repository_manifest.json
+│   ├── 01-formation
+│   │   ├── charter
+│   │   ├── ein
+│   │   ├── organizational-actions
+│   │   │   └── BOARD-ACT-001-Initial-Board-Organizational-Actions-Packet.docx
+│   │   └── state-filings
+│   ├── 02-constitutional
+│   │   ├── ACCOUNT-001
+│   │   │   └── 0.1.0
+│   │   ├── AFF-001
+│   │   │   └── 0.1.0
+│   │   │       └── AFF-001-Affiliation-and-Disaffiliation-Code.docx
+│   │   ├── BYL-001
+│   │   │   └── 0.1.0
+│   │   │       └── CH-005-Civil-Bylaws-BYL-001.docx
+│   │   ├── CONST-GUARD-001
+│   │   │   └── 0.1.0
+│   │   ├── DISC-001
+│   │   │   └── 0.1.0
+│   │   ├── DOC-001
+│   │   │   └── 0.1.0
+│   │   │       └── DOC-001-Doctrine-and-Authoritative-Teaching-Code.docx
+│   │   ├── ECC-CON-001
+│   │   │   └── 0.1.0
+│   │   │       └── CH-006-Ecclesiastical-Governance-ECC-CON-001.docx
+│   │   ├── ECC-COUNCIL-001
+│   │   │   └── 0.1.0
+│   │   ├── FIN-001
+│   │   │   └── 0.1.0
+│   │   │       └── FIN-001-Financial-Governance-Framework.md
+│   │   ├── FOUND-TRANS-001
+│   │   │   └── 0.1.0
+│   │   │       └── FOUND-TRANS-001-Founding-Transition-Schedule.docx
+│   │   ├── GOV-PROC-001
+│   │   │   └── 0.1.0
+│   │   │       └── GOV-PROC-001-Governance-Procedure-Code.docx
+│   │   ├── JUR-001
+│   │   │   └── 0.1.0
+│   │   │       └── JUR-001-Civil-Ecclesiastical-Jurisdiction-Code.docx
+│   │   ├── LOCAL-001
+│   │   │   └── 0.1.0
+│   │   │       └── LOCAL-001-Local-Community-Constitutional-Framework.docx
+│   │   ├── MEM-001
+│   │   │   └── 0.1.0
+│   │   │       └── MEM-001-Religious-Membership-Framework.md
+│   │   ├── MIN-001
+│   │   │   └── 0.1.0
+│   │   │       └── MIN-001-Ministry-and-Credentialing-Framework.md
+│   │   ├── REL-CON-001
+│   │   │   └── 0.1.0
+│   │   │       └── REL-CON-001-Foundational-Religious-Constitution.md
+│   │   ├── SAFE-001
+│   │   │   └── 0.1.0
+│   │   │       └── SAFE-001-Safeguarding-and-Accountability-Framework.docx
+│   │   └── SUCC-001
+│   │       └── 0.1.0
+│   │           └── SUCC-001-Leadership-Succession-Code.docx
+│   ├── 03-doctrine-and-religious-life
+│   │   ├── beliefs
+│   │   │   └── CH-007-Foundational-Statement-of-Beliefs.docx
+│   │   ├── doctrine
+│   │   │   └── CH-008-Formal-Doctrine.docx
+│   │   ├── history
+│   │   │   └── CH-012-Religious-History.docx
+│   │   ├── rites
+│   │   │   └── CH-011-Religious-Rites-and-Ordinances-Manual.docx
+│   │   ├── teaching
+│   │   └── worship
+│   │       └── CH-010-Order-of-Worship-and-Liturgical-Manual.docx
+│   ├── 04-governance
+│   │   ├── board
+│   │   │   ├── minutes
+│   │   │   └── resolutions
+│   │   ├── ccg
+│   │   ├── cma
+│   │   │   ├── minutes
+│   │   │   └── CMA-001-Covenant-Member-Assembly-Charter.md
+│   │   ├── decisions
+│   │   ├── eac
+│   │   └── ecclesiastical-council
+│   │       ├── decisions
+│   │       ├── founding
+│   │       │   └── EC-FOUND-001-Founding-Ecclesiastical-Adoption-Instrument.docx
+│   │       └── minutes
+│   ├── 05-operations
+│   │   ├── affiliations
+│   │   ├── compliance
+│   │   │   ├── CH-034-Activities-Narrative.docx
+│   │   │   ├── CH-035-Organizational-Chart.docx
+│   │   │   ├── CH-036-Governing-Body-Roster.docx
+│   │   │   ├── CH-037-Organizational-Minutes-and-Initial-Resolutions.docx
+│   │   │   ├── CH-038-Conflict-of-Interest-Policy.docx
+│   │   │   ├── CH-039-Compensation-Policy.docx
+│   │   │   ├── CH-040-Financial-Controls-Policy.docx
+│   │   │   ├── CH-041-Contribution-and-Offering-Procedures.docx
+│   │   │   ├── CH-042-Annual-Budget-and-Budget-Procedure.docx
+│   │   │   ├── CH-043-Financial-Statements-and-Reporting-Standard.docx
+│   │   │   ├── CH-044-Insider-and-Related-Party-Transaction-Record.docx
+│   │   │   ├── CH-045-Political-Campaign-Compliance-Policy.docx
+│   │   │   ├── CH-046-Lobbying-Policy.docx
+│   │   │   ├── CH-047-Private-Benefit-and-Inurement-Policy.docx
+│   │   │   ├── CH-048-Records-Retention-Policy.docx
+│   │   │   └── Organizational-Compliance-Registers.xlsx
+│   │   ├── discipline
+│   │   │   └── CH-009-Code-of-Religious-Discipline.docx
+│   │   ├── education
+│   │   ├── facilities
+│   │   ├── finance
+│   │   ├── local-communities
+│   │   ├── membership
+│   │   │   ├── CH-013-Membership-Standard.docx
+│   │   │   ├── CH-014-Covenant-Membership-Covenant.docx
+│   │   │   ├── CH-015-Membership-Register-Standard.docx
+│   │   │   ├── CH-016-Attendance-Register-Standard.docx
+│   │   │   ├── CH-017-Congregational-Meeting-Records-Standard.docx
+│   │   │   ├── CH-018-Regular-Worship-Schedule.docx
+│   │   │   ├── CH-019-Worship-Bulletin-and-Program-Standard.docx
+│   │   │   ├── CH-020-Sermon-and-Teaching-Archive-Standard.docx
+│   │   │   ├── CH-021-Religious-Calendar-Framework.docx
+│   │   │   ├── CH-022-Recurring-Worship-Location-Use-Agreement.docx
+│   │   │   ├── CH-023-Worship-Site-Record.docx
+│   │   │   └── Congregational-Operations-Registers.xlsx
+│   │   ├── ministry
+│   │   │   ├── CH-024-Ministerial-Offices-Standard.docx
+│   │   │   ├── CH-025-Ordination-and-Credentialing-Standard.docx
+│   │   │   ├── CH-026-Ministerial-Course-of-Study.docx
+│   │   │   ├── CH-027-Ordination-Procedure.docx
+│   │   │   ├── CH-028-Ministerial-Credentials.docx
+│   │   │   ├── CH-029-Ministerial-Personnel-Records.docx
+│   │   │   ├── CH-030-Religious-Literature-Corpus.docx
+│   │   │   ├── CH-031-Adult-Religious-Education-Program.docx
+│   │   │   ├── CH-032-Youth-Religious-Education-Program.docx
+│   │   │   ├── CH-033-Ministerial-Formation-Program.docx
+│   │   │   └── Ministry-and-Education-Registers.xlsx
+│   │   ├── safeguarding
+│   │   └── worship
+│   ├── 06-templates
+│   │   ├── discipline
+│   │   │   ├── DISC-APL-DEC-001-Appeal-Decision.docx
+│   │   │   ├── DISC-APP-001-Appeal.docx
+│   │   │   ├── DISC-AUTH-001-Case-Authority-Map.docx
+│   │   │   ├── DISC-CHG-001-Statement-of-Charges.docx
+│   │   │   ├── DISC-CLOSE-001-Case-Closure.docx
+│   │   │   ├── DISC-FIND-001-Findings-and-Decision.docx
+│   │   │   ├── DISC-HEAR-001-Hearing-Record.docx
+│   │   │   ├── DISC-INT-001-Complaint-Intake-Record.docx
+│   │   │   ├── DISC-INV-001-Investigation-Plan.docx
+│   │   │   └── DISC-SAN-001-Sanction-Remedy-Order.docx
+│   │   ├── doctrine
+│   │   │   ├── DOC-CLS-001-Classification-Decision.docx
+│   │   │   ├── DOC-DEC-001-Doctrine-Interpretation-Decision.docx
+│   │   │   ├── DOC-DKT-001-Doctrine-Docket-Intake.docx
+│   │   │   ├── DOC-MIN-001-Minority-Dissenting-Report.docx
+│   │   │   ├── DOC-SRC-001-Source-Dossier.docx
+│   │   │   ├── DOC-SUP-001-Supersession-Correction-Record.docx
+│   │   │   └── DOC-TEACH-001-Teaching-Classification-Record.docx
+│   │   ├── finance
+│   │   │   ├── FIN-COUNT-001-Offering-Cash-Count-Sheet.docx
+│   │   │   ├── FIN-GIFT-001F-Gift-Acceptance-Review.docx
+│   │   │   ├── FIN-REC-001-Bank-Reconciliation-Review.docx
+│   │   │   ├── FIN-REQ-001-Purchase-Payment-Request.docx
+│   │   │   └── FIN-RPT-001-Financial-Exception-Report.docx
+│   │   ├── governance
+│   │   │   ├── GOV-AGD-001-Agenda.docx
+│   │   │   ├── GOV-DEC-001-Decision-Resolution.docx
+│   │   │   ├── GOV-EMG-001-Emergency-Declaration.docx
+│   │   │   ├── GOV-NOT-001-Meeting-Notice.docx
+│   │   │   ├── GOV-REC-001-Conflict-Recusal-Record.docx
+│   │   │   ├── GOV-RECOV-001-Institutional-Recovery-Plan.docx
+│   │   │   └── GOV-VAL-001-Governance-Act-Validity-Review.docx
+│   │   ├── local-affiliation
+│   │   │   ├── AFF-DEC-001-Affiliation-Decision.docx
+│   │   │   ├── AFF-DIS-001-Disaffiliation-Implementation-Record.docx
+│   │   │   ├── AFF-REV-001-Affiliation-Review-Docket.docx
+│   │   │   ├── LOCAL-APP-001-Local-Community-Recognition-Application.docx
+│   │   │   ├── LOCAL-INT-001-Local-Intervention-Order.docx
+│   │   │   └── LOCAL-REV-001-Local-Community-Annual-Review.docx
+│   │   ├── manuals
+│   │   │   ├── DISC-PROC-001-Disciplinary-Procedure-Manual-and-Forms.docx
+│   │   │   ├── DOC-OPS-001-Doctrine-Docket-and-Teaching-Classification-Procedures.docx
+│   │   │   ├── FIN-POL-001-Financial-Policies-and-Procedures-Manual.docx
+│   │   │   ├── GOV-FORMS-001-Governance-Forms-and-Decision-Records-Manual.docx
+│   │   │   ├── LOCAL-AFF-OPS-001-Local-Community-and-Affiliation-Implementation-Manual.docx
+│   │   │   ├── MIN-OPS-001-Ministerial-Credentialing-Procedures-and-Forms-Manual.docx
+│   │   │   ├── OPS-IMPL-001-Operational-Implementation-Manuals-Completion-Binder.docx
+│   │   │   ├── SAFE-OPS-001-Safeguarding-Procedures-and-Forms-Manual.docx
+│   │   │   └── SUCC-OPS-001-Leadership-Succession-Procedures-and-Transition-Forms.docx
+│   │   ├── ministry
+│   │   │   ├── MIN-APP-001-Candidate-Application.docx
+│   │   │   ├── MIN-CRED-001F-Credential-Decision.docx
+│   │   │   ├── MIN-EQ-001-Prior-Learning-Equivalency.docx
+│   │   │   ├── MIN-EXAM-F-001-Examination-Record.docx
+│   │   │   ├── MIN-PLAN-001-Formation-Plan.docx
+│   │   │   ├── MIN-REST-F-001-Restoration-Decision.docx
+│   │   │   ├── MIN-REV-F-001-Annual-Periodic-Review.docx
+│   │   │   └── MIN-VER-F-001-Good-Standing-Verification.docx
+│   │   ├── safeguarding
+│   │   │   ├── SAFE-AR-001-Anti-Retaliation-Notice.docx
+│   │   │   ├── SAFE-EP-001-Evidence-Preservation-Notice.docx
+│   │   │   ├── SAFE-INV-001-Investigation-Authorization.docx
+│   │   │   ├── SAFE-IR-001-Incident-Report.docx
+│   │   │   ├── SAFE-PA-001-Protective-Action-Order.docx
+│   │   │   ├── SAFE-REV-001-Annual-Safeguarding-Review.docx
+│   │   │   └── SAFE-TRI-001-Immediate-Risk-Triage.docx
+│   │   ├── succession
+│   │   │   ├── SUC-COI-001-Succession-Conflict-Record.docx
+│   │   │   ├── SUC-INS-001-Installation-Record.docx
+│   │   │   ├── SUC-INT-001-Interim-Appointment.docx
+│   │   │   ├── SUC-SEL-001-Selection-Docket.docx
+│   │   │   ├── SUC-TRN-001-Transition-Checklist.docx
+│   │   │   └── SUC-VAC-001-Vacancy-Unavailability-Declaration.docx
+│   │   ├── Operational-Template-Control-Workbook.xlsx
+│   │   └── TPL-SYS-001-Operational-Template-System-Binder.docx
+│   ├── 07-records
+│   │   ├── attendance
+│   │   ├── credentials
+│   │   ├── discipline
+│   │   ├── financial
+│   │   │   ├── related-parties
+│   │   │   └── reports
+│   │   ├── membership
+│   │   ├── rites
+│   │   ├── safeguarding
+│   │   ├── services
+│   │   └── teaching
+│   ├── 08-evidence
+│   │   ├── church-characteristics
+│   │   ├── exhibits
+│   │   ├── facilities
+│   │   ├── publications
+│   │   └── worship
+│   ├── 09-tax-and-regulatory
+│   │   ├── form-1023
+│   │   │   ├── CH-049-Form-1023-Working-Copy.docx
+│   │   │   ├── CH-051-Schedule-A-Evidence-Exhibits-and-Supplemental-Response-Assembly.docx
+│   │   │   ├── CH-051-Supplemental-Attachment-DRAFT.pdf
+│   │   │   ├── CH-052-Master-Exhibit-Index.docx
+│   │   │   ├── CH-053-IRS-Church-Characteristics-Matrix.docx
+│   │   │   └── CH-054-Church-Qualification-Narrative.docx
+│   │   ├── irs-correspondence
+│   │   ├── schedule-a
+│   │   │   └── CH-050-Form-1023-Schedule-A-Churches-Working-Copy.docx
+│   │   └── state-compliance
+│   ├── 99-archive
+│   │   ├── historical-drafts
+│   │   │   └── production-binders
+│   │   │       ├── CEP-Day-One-Execution-Binder.docx
+│   │   │       ├── CONG-001-Congregational-Operations-Layer-Production-Binder.docx
+│   │   │       ├── CONST-COMP-001-Remaining-Constitutional-Instruments-Production-Binder.docx
+│   │   │       ├── FILING-001-IRS-Determination-Package-Production-Binder.docx
+│   │   │       ├── MINED-001-Ministry-and-Religious-Education-Layer-Production-Binder.docx
+│   │   │       ├── OPS-IMPL-001-Operational-Implementation-Manuals-Completion-Binder.docx
+│   │   │       ├── ORGCOMP-001-Organizational-Compliance-Layer-Production-Binder.docx
+│   │   │       └── RID-001-Religious-Identity-Layer-Production-Binder.docx
+│   │   ├── superseded
+│   │   └── withdrawn
+│   ├── scripts
+│   │   └── scaffold_institution.py
+│   └── README.md
+├── institutional_integrity
+│   ├── institutional_integrity_v0_2_release
+│   │   ├── modular_source
+│   │   │   ├── forms
+│   │   │   │   ├── 22_board_minutes_template.md
+│   │   │   │   ├── 23_complaint_intake_form.md
+│   │   │   │   ├── 24_safeguarding_incident_form.md
+│   │   │   │   ├── 25_mandated_reporting_quick_card_tn.md
+│   │   │   │   ├── 26_investigation_conflict_screen.md
+│   │   │   │   ├── 27_investigator_terms_reference_form.md
+│   │   │   │   ├── 28_evidence_log.csv
+│   │   │   │   ├── 29_interview_record_template.md
+│   │   │   │   ├── 30_findings_report_template.md
+│   │   │   │   ├── 31_discipline_notice_template.md
+│   │   │   │   ├── 32_appeal_form.md
+│   │   │   │   ├── 33_retaliation_report_form.md
+│   │   │   │   ├── 34_conflict_disclosure_form.md
+│   │   │   │   ├── 35_related_party_transaction_memo.md
+│   │   │   │   ├── 36_compensation_approval_memo.md
+│   │   │   │   ├── 37_policy_exception_register.csv
+│   │   │   │   └── 38_external_review_action_tracker.csv
+│   │   │   ├── governance
+│   │   │   │   ├── 01_constitutional_integration_map.md
+│   │   │   │   ├── 02_model_charter_member.md
+│   │   │   │   ├── 03_model_charter_nonmember.md
+│   │   │   │   ├── 04_model_bylaws_common_core.md
+│   │   │   │   ├── 05_membership_variant_schedule.md
+│   │   │   │   ├── 06_nonmember_variant_schedule.md
+│   │   │   │   ├── 07_board_reserved_powers_schedule.md
+│   │   │   │   ├── 08_founder_covenant.md
+│   │   │   │   └── 09_board_independence_standard.md
+│   │   │   ├── operations
+│   │   │   │   ├── 14_complaints_whistleblower_sop.md
+│   │   │   │   ├── 15_investigation_protocol.md
+│   │   │   │   ├── 16_discipline_appeals_sop.md
+│   │   │   │   ├── 17_exit_nonretaliation_sop.md
+│   │   │   │   ├── 20_external_integrity_review_terms.md
+│   │   │   │   ├── 21_annual_integrity_certification.md
+│   │   │   │   └── 39_implementation_queue.md
+│   │   │   ├── policies
+│   │   │   │   ├── 10_conflict_related_party_policy.md
+│   │   │   │   ├── 11_compensation_approval_sop.md
+│   │   │   │   ├── 12_financial_controls_sop.md
+│   │   │   │   ├── 13_safeguarding_policy_tn.md
+│   │   │   │   ├── 18_pastoral_ethics_code.md
+│   │   │   │   └── 19_revelation_doctrine_protocol.md
+│   │   │   ├── references
+│   │   │   │   ├── 40_legal_source_notes.md
+│   │   │   │   └── institutional_integrity_framework_v0_1.md
+│   │   │   ├── 00_README.md
+│   │   │   ├── 41_CHANGELOG.md
+│   │   │   └── FILE_INVENTORY.md
+│   │   ├── constitutional_governance_package_v0_2.docx
+│   │   ├── constitutional_governance_package_v0_2.pdf
+│   │   ├── day_one_integrity_operations_manual_v0_2.docx
+│   │   ├── day_one_integrity_operations_manual_v0_2.pdf
+│   │   ├── institutional_integrity_dashboard_v0_2.xlsx
+│   │   └── RELEASE_MANIFEST.txt
+│   ├── institutional_integrity_v0_3
+│   │   ├── compliance
+│   │   │   ├── 61_compliance_calendar.md
+│   │   │   ├── 62_launch_readiness_gate.md
+│   │   │   ├── 63_public_transparency_register.md
+│   │   │   └── 69_board_annual_cycle.md
+│   │   ├── forms
+│   │   │   ├── 22_board_minutes_template.md
+│   │   │   ├── 23_complaint_intake_form.md
+│   │   │   ├── 24_safeguarding_incident_form.md
+│   │   │   ├── 25_mandated_reporting_quick_card_tn.md
+│   │   │   ├── 26_investigation_conflict_screen.md
+│   │   │   ├── 27_investigator_terms_reference_form.md
+│   │   │   ├── 28_evidence_log.csv
+│   │   │   ├── 29_interview_record_template.md
+│   │   │   ├── 30_findings_report_template.md
+│   │   │   ├── 31_discipline_notice_template.md
+│   │   │   ├── 32_appeal_form.md
+│   │   │   ├── 33_retaliation_report_form.md
+│   │   │   ├── 34_conflict_disclosure_form.md
+│   │   │   ├── 35_related_party_transaction_memo.md
+│   │   │   ├── 36_compensation_approval_memo.md
+│   │   │   ├── 37_policy_exception_register.csv
+│   │   │   └── 38_external_review_action_tracker.csv
+│   │   ├── founding
+│   │   │   ├── 43_filing_decision_gate.md
+│   │   │   ├── 44_incorporator_action.md
+│   │   │   ├── 45_organizational_meeting_agenda.md
+│   │   │   ├── 46_organizational_resolutions.md
+│   │   │   ├── 47_unanimous_board_written_consent.md
+│   │   │   ├── 48_director_acceptance.md
+│   │   │   ├── 49_officer_acceptance.md
+│   │   │   ├── 50_committee_charters.md
+│   │   │   ├── 51_banking_resolution.md
+│   │   │   ├── 52_tax_and_filing_resolutions.md
+│   │   │   ├── 53_donation_receipt_standard.md
+│   │   │   └── 54_first_90_day_activation_plan.md
+│   │   ├── governance
+│   │   │   ├── 01_constitutional_integration_map.md
+│   │   │   ├── 02_model_charter_member.md
+│   │   │   ├── 03_model_charter_nonmember.md
+│   │   │   ├── 04_model_bylaws_common_core.md
+│   │   │   ├── 05_membership_variant_schedule.md
+│   │   │   ├── 06_nonmember_variant_schedule.md
+│   │   │   ├── 07_board_reserved_powers_schedule.md
+│   │   │   ├── 08_founder_covenant.md
+│   │   │   └── 09_board_independence_standard.md
+│   │   ├── operations
+│   │   │   ├── 14_complaints_whistleblower_sop.md
+│   │   │   ├── 15_investigation_protocol.md
+│   │   │   ├── 16_discipline_appeals_sop.md
+│   │   │   ├── 17_exit_nonretaliation_sop.md
+│   │   │   ├── 20_external_integrity_review_terms.md
+│   │   │   ├── 21_annual_integrity_certification.md
+│   │   │   └── 39_implementation_queue.md
+│   │   ├── policies
+│   │   │   ├── 10_conflict_related_party_policy.md
+│   │   │   ├── 11_compensation_approval_sop.md
+│   │   │   ├── 12_financial_controls_sop.md
+│   │   │   ├── 13_safeguarding_policy_tn.md
+│   │   │   ├── 18_pastoral_ethics_code.md
+│   │   │   └── 19_revelation_doctrine_protocol.md
+│   │   ├── recordbook
+│   │   │   ├── 55_record_book_index.md
+│   │   │   ├── 56_master_document_register.md
+│   │   │   ├── 57_records_retention_schedule.md
+│   │   │   ├── 58_minutes_and_resolution_register.md
+│   │   │   ├── 59_officer_director_register.md
+│   │   │   ├── 60_authority_and_access_register.md
+│   │   │   └── 68_records_room_setup.md
+│   │   ├── references
+│   │   │   ├── 40_legal_source_notes.md
+│   │   │   └── institutional_integrity_framework_v0_1.md
+│   │   ├── references_v03
+│   │   │   └── 67_current_legal_source_notes.md
+│   │   ├── tax
+│   │   │   ├── 64_irs_1023_preparation_dossier.md
+│   │   │   ├── 65_church_classification_readiness.md
+│   │   │   └── 66_tax_exemption_evidence_index.md
+│   │   ├── 00_README.md
+│   │   ├── 41_CHANGELOG.md
+│   │   ├── 42_V0_3_README.md
+│   │   ├── FILE_INVENTORY.md
+│   │   └── FILE_INVENTORY_V0_3.md
+│   ├── institutional_integrity_v0_3_release
+│   │   ├── 01_current_baseline
+│   │   │   ├── constitutional_governance_package_v0_2.docx
+│   │   │   ├── constitutional_governance_package_v0_2.pdf
+│   │   │   ├── day_one_integrity_operations_manual_v0_2.docx
+│   │   │   └── day_one_integrity_operations_manual_v0_2.pdf
+│   │   ├── 02_founding_transaction
+│   │   │   ├── corporate_record_book_and_compliance_binder_v0_3.docx
+│   │   │   ├── corporate_record_book_and_compliance_binder_v0_3.pdf
+│   │   │   ├── FILING_DECISION_GATE.md
+│   │   │   ├── founding_board_adoption_packet_v0_3.docx
+│   │   │   └── founding_board_adoption_packet_v0_3.pdf
+│   │   ├── 03_operations
+│   │   │   └── institutional_integrity_dashboard_v0_2.xlsx
+│   │   ├── 04_sources
+│   │   │   ├── FILE_INVENTORY_V0_3.md
+│   │   │   └── institutional_integrity_v0_3_source_pack.zip
+│   │   └── README_v0_3.md
+│   ├── institutional_integrity_v0_4
+│   │   ├── board_recruitment
+│   │   │   ├── 74_founding_board_strategy.md
+│   │   │   ├── 75_director_role_description.md
+│   │   │   ├── 76_officer_profiles.md
+│   │   │   ├── 77_candidate_screening_questionnaire.md
+│   │   │   ├── 78_board_invitation_letter.md
+│   │   │   ├── 79_board_interview_guide.md
+│   │   │   └── 80_candidate_pipeline.csv
+│   │   ├── compliance
+│   │   │   ├── 61_compliance_calendar.md
+│   │   │   ├── 62_launch_readiness_gate.md
+│   │   │   ├── 63_public_transparency_register.md
+│   │   │   ├── 69_board_annual_cycle.md
+│   │   │   └── 90_tennessee_prefiling_checklist.md
+│   │   ├── decision_records
+│   │   │   ├── 71_selected_baseline_v0_4.md
+│   │   │   ├── 86_open_decisions_register.md
+│   │   │   ├── 87_next_execution_queue.md
+│   │   │   └── 94_human_input_boundary.md
+│   │   ├── forms
+│   │   │   ├── 22_board_minutes_template.md
+│   │   │   ├── 23_complaint_intake_form.md
+│   │   │   ├── 24_safeguarding_incident_form.md
+│   │   │   ├── 25_mandated_reporting_quick_card_tn.md
+│   │   │   ├── 26_investigation_conflict_screen.md
+│   │   │   ├── 27_investigator_terms_reference_form.md
+│   │   │   ├── 28_evidence_log.csv
+│   │   │   ├── 29_interview_record_template.md
+│   │   │   ├── 30_findings_report_template.md
+│   │   │   ├── 31_discipline_notice_template.md
+│   │   │   ├── 32_appeal_form.md
+│   │   │   ├── 33_retaliation_report_form.md
+│   │   │   ├── 34_conflict_disclosure_form.md
+│   │   │   ├── 35_related_party_transaction_memo.md
+│   │   │   ├── 36_compensation_approval_memo.md
+│   │   │   ├── 37_policy_exception_register.csv
+│   │   │   ├── 38_external_review_action_tracker.csv
+│   │   │   └── 92_intellectual_property_schedule.md
+│   │   ├── founding
+│   │   │   ├── 43_filing_decision_gate.md
+│   │   │   ├── 44_incorporator_action.md
+│   │   │   ├── 45_organizational_meeting_agenda.md
+│   │   │   ├── 46_organizational_resolutions.md
+│   │   │   ├── 47_unanimous_board_written_consent.md
+│   │   │   ├── 48_director_acceptance.md
+│   │   │   ├── 49_officer_acceptance.md
+│   │   │   ├── 50_committee_charters.md
+│   │   │   ├── 51_banking_resolution.md
+│   │   │   ├── 52_tax_and_filing_resolutions.md
+│   │   │   ├── 53_donation_receipt_standard.md
+│   │   │   └── 54_first_90_day_activation_plan.md
+│   │   ├── governance
+│   │   │   ├── 01_constitutional_integration_map.md
+│   │   │   ├── 02_model_charter_member.md
+│   │   │   ├── 03_model_charter_nonmember.md
+│   │   │   ├── 04_model_bylaws_common_core.md
+│   │   │   ├── 05_membership_variant_schedule.md
+│   │   │   ├── 06_nonmember_variant_schedule.md
+│   │   │   ├── 07_board_reserved_powers_schedule.md
+│   │   │   ├── 08_founder_covenant.md
+│   │   │   └── 09_board_independence_standard.md
+│   │   ├── identity
+│   │   │   ├── 72_identity_and_naming_architecture.md
+│   │   │   ├── 73_name_candidate_matrix.md
+│   │   │   └── 89_final_name_clearance_checklist.md
+│   │   ├── operations
+│   │   │   ├── 14_complaints_whistleblower_sop.md
+│   │   │   ├── 15_investigation_protocol.md
+│   │   │   ├── 16_discipline_appeals_sop.md
+│   │   │   ├── 17_exit_nonretaliation_sop.md
+│   │   │   ├── 20_external_integrity_review_terms.md
+│   │   │   ├── 21_annual_integrity_certification.md
+│   │   │   └── 39_implementation_queue.md
+│   │   ├── policies
+│   │   │   ├── 10_conflict_related_party_policy.md
+│   │   │   ├── 11_compensation_approval_sop.md
+│   │   │   ├── 12_financial_controls_sop.md
+│   │   │   ├── 13_safeguarding_policy_tn.md
+│   │   │   ├── 18_pastoral_ethics_code.md
+│   │   │   ├── 19_revelation_doctrine_protocol.md
+│   │   │   └── 91_charitable_assistance_sop.md
+│   │   ├── recordbook
+│   │   │   ├── 55_record_book_index.md
+│   │   │   ├── 56_master_document_register.md
+│   │   │   ├── 57_records_retention_schedule.md
+│   │   │   ├── 58_minutes_and_resolution_register.md
+│   │   │   ├── 59_officer_director_register.md
+│   │   │   ├── 60_authority_and_access_register.md
+│   │   │   └── 68_records_room_setup.md
+│   │   ├── references
+│   │   │   ├── 40_legal_source_notes.md
+│   │   │   └── institutional_integrity_framework_v0_1.md
+│   │   ├── references_v03
+│   │   │   └── 67_current_legal_source_notes.md
+│   │   ├── references_v04
+│   │   │   └── 88_current_source_notes_v0_4.md
+│   │   ├── tax
+│   │   │   ├── 64_irs_1023_preparation_dossier.md
+│   │   │   ├── 65_church_classification_readiness.md
+│   │   │   └── 66_tax_exemption_evidence_index.md
+│   │   ├── tax_v04
+│   │   │   ├── 81_public_charity_classification_memo.md
+│   │   │   ├── 82_form_1023_activity_narrative_draft.md
+│   │   │   ├── 83_form_1023_issue_spotter.md
+│   │   │   ├── 84_founder_role_and_compensation_memo.md
+│   │   │   ├── 85_tax_application_evidence_index.md
+│   │   │   └── form_1023_three_year_financial_projection_v0_4.xlsx
+│   │   ├── 00_README.md
+│   │   ├── 41_CHANGELOG.md
+│   │   ├── 42_V0_3_README.md
+│   │   ├── 70_V0_4_README.md
+│   │   ├── FILE_INVENTORY.md
+│   │   ├── FILE_INVENTORY_V0_3.md
+│   │   └── FILE_INVENTORY_V0_4.md
+│   ├── institutional_integrity_v0_4_release
+│   │   ├── 01_identity
+│   │   │   ├── identity_and_naming_workbook_v0_4.docx
+│   │   │   └── identity_and_naming_workbook_v0_4.pdf
+│   │   ├── 02_board
+│   │   │   ├── founding_board_recruitment_kit_v0_4.docx
+│   │   │   └── founding_board_recruitment_kit_v0_4.pdf
+│   │   ├── 03_tax
+│   │   │   ├── federal_tax_exemption_development_dossier_v0_4.docx
+│   │   │   ├── federal_tax_exemption_development_dossier_v0_4.pdf
+│   │   │   └── form_1023_three_year_financial_projection_v0_4.xlsx
+│   │   ├── 04_prefiling
+│   │   │   ├── pre_filing_execution_supplement_v0_4.docx
+│   │   │   └── pre_filing_execution_supplement_v0_4.pdf
+│   │   ├── 05_source
+│   │   │   └── institutional_integrity_v0_4_source_pack.zip
+│   │   ├── 06_prior_baseline
+│   │   │   ├── corporate_record_book_and_compliance_binder_v0_3.docx
+│   │   │   ├── corporate_record_book_and_compliance_binder_v0_3.pdf
+│   │   │   ├── founding_board_adoption_packet_v0_3.docx
+│   │   │   └── founding_board_adoption_packet_v0_3.pdf
+│   │   └── README_v0_4.md
+│   ├── institutional_integrity_dashboard_v0_2.xlsx
+│   ├── institutional_integrity_framework.docx
+│   ├── institutional_integrity_framework.md
+│   └── institutional_integrity_framework.pdf
+├── manuals
+│   ├── day_one_integrity_operations_manual_v0_2.docx
+│   └── day_one_integrity_operations_manual_v0_2.pdf
+├── Notes
+│   ├── 0001.md
+│   ├── 12-month-church-establishment-program.md
+│   ├── 12-month-church-establishment-program-notes.md
+│   ├── Anti-Cult-Measures.md
+│   ├── Church.md
+│   ├── Church-mvp.md
+│   ├── Church-ops-layes-notes.md
+│   ├── Church-Religious-Identity-Layer-Pack-notes.md
+│   ├── day-one-production-batch-notes.md
+│   ├── HTERP-description.md
+│   ├── HTERP.md
+│   ├── HTERP-next.md
+│   ├── HTERP-v0.2.md
+│   ├── HTERP-v1.4.md
+│   ├── institutional_integrity_dashboard_v0_3.md
+│   ├── IRS-package-notes.md
+│   ├── MinRED-notes.md
+│   ├── Naming.md
+│   ├── org-comp-notes.md
+│   ├── prc-phase-iia.md
+│   ├── rel-0001.md
+│   ├── remaining-docs.md
+│   ├── testing.md
+│   ├── v0.4-notes.md
+│   ├── Website.md
+│   └── Website-notes.md
+├── operations
+│   ├── templates
+│   │   ├── 01-Discipline
+│   │   │   ├── DISC-APL-DEC-001-Appeal-Decision.docx
+│   │   │   ├── DISC-APP-001-Appeal.docx
+│   │   │   ├── DISC-AUTH-001-Case-Authority-Map.docx
+│   │   │   ├── DISC-CHG-001-Statement-of-Charges.docx
+│   │   │   ├── DISC-CLOSE-001-Case-Closure.docx
+│   │   │   ├── DISC-FIND-001-Findings-and-Decision.docx
+│   │   │   ├── DISC-HEAR-001-Hearing-Record.docx
+│   │   │   ├── DISC-INT-001-Complaint-Intake-Record.docx
+│   │   │   ├── DISC-INV-001-Investigation-Plan.docx
+│   │   │   └── DISC-SAN-001-Sanction-Remedy-Order.docx
+│   │   ├── 02-Doctrine
+│   │   │   ├── DOC-CLS-001-Classification-Decision.docx
+│   │   │   ├── DOC-DEC-001-Doctrine-Interpretation-Decision.docx
+│   │   │   ├── DOC-DKT-001-Doctrine-Docket-Intake.docx
+│   │   │   ├── DOC-MIN-001-Minority-Dissenting-Report.docx
+│   │   │   ├── DOC-SRC-001-Source-Dossier.docx
+│   │   │   ├── DOC-SUP-001-Supersession-Correction-Record.docx
+│   │   │   └── DOC-TEACH-001-Teaching-Classification-Record.docx
+│   │   ├── 03-Finance
+│   │   │   ├── FIN-COUNT-001-Offering-Cash-Count-Sheet.docx
+│   │   │   ├── FIN-GIFT-001F-Gift-Acceptance-Review.docx
+│   │   │   ├── FIN-REC-001-Bank-Reconciliation-Review.docx
+│   │   │   ├── FIN-REQ-001-Purchase-Payment-Request.docx
+│   │   │   └── FIN-RPT-001-Financial-Exception-Report.docx
+│   │   ├── 04-Governance
+│   │   │   ├── GOV-AGD-001-Agenda.docx
+│   │   │   ├── GOV-DEC-001-Decision-Resolution.docx
+│   │   │   ├── GOV-EMG-001-Emergency-Declaration.docx
+│   │   │   ├── GOV-NOT-001-Meeting-Notice.docx
+│   │   │   ├── GOV-REC-001-Conflict-Recusal-Record.docx
+│   │   │   ├── GOV-RECOV-001-Institutional-Recovery-Plan.docx
+│   │   │   └── GOV-VAL-001-Governance-Act-Validity-Review.docx
+│   │   ├── 05-Local-and-Affiliation
+│   │   │   ├── AFF-DEC-001-Affiliation-Decision.docx
+│   │   │   ├── AFF-DIS-001-Disaffiliation-Implementation-Record.docx
+│   │   │   ├── AFF-REV-001-Affiliation-Review-Docket.docx
+│   │   │   ├── LOCAL-APP-001-Local-Community-Recognition-Application.docx
+│   │   │   ├── LOCAL-INT-001-Local-Intervention-Order.docx
+│   │   │   └── LOCAL-REV-001-Local-Community-Annual-Review.docx
+│   │   ├── 06-Ministry
+│   │   │   ├── MIN-APP-001-Candidate-Application.docx
+│   │   │   ├── MIN-CRED-001F-Credential-Decision.docx
+│   │   │   ├── MIN-EQ-001-Prior-Learning-Equivalency.docx
+│   │   │   ├── MIN-EXAM-F-001-Examination-Record.docx
+│   │   │   ├── MIN-PLAN-001-Formation-Plan.docx
+│   │   │   ├── MIN-REST-F-001-Restoration-Decision.docx
+│   │   │   ├── MIN-REV-F-001-Annual-Periodic-Review.docx
+│   │   │   └── MIN-VER-F-001-Good-Standing-Verification.docx
+│   │   ├── 07-Safeguarding
+│   │   │   ├── SAFE-AR-001-Anti-Retaliation-Notice.docx
+│   │   │   ├── SAFE-EP-001-Evidence-Preservation-Notice.docx
+│   │   │   ├── SAFE-INV-001-Investigation-Authorization.docx
+│   │   │   ├── SAFE-IR-001-Incident-Report.docx
+│   │   │   ├── SAFE-PA-001-Protective-Action-Order.docx
+│   │   │   ├── SAFE-REV-001-Annual-Safeguarding-Review.docx
+│   │   │   └── SAFE-TRI-001-Immediate-Risk-Triage.docx
+│   │   ├── 08-Succession
+│   │   │   ├── SUC-COI-001-Succession-Conflict-Record.docx
+│   │   │   ├── SUC-INS-001-Installation-Record.docx
+│   │   │   ├── SUC-INT-001-Interim-Appointment.docx
+│   │   │   ├── SUC-SEL-001-Selection-Docket.docx
+│   │   │   ├── SUC-TRN-001-Transition-Checklist.docx
+│   │   │   └── SUC-VAC-001-Vacancy-Unavailability-Declaration.docx
+│   │   ├── Operational-Template-Control-Workbook.xlsx
+│   │   └── TPL-SYS-001-Operational-Template-System-Binder.docx
+│   ├── 14_complaints_whistleblower_sop.md
+│   ├── 15_investigation_protocol.md
+│   ├── 16_discipline_appeals_sop.md
+│   ├── 17_exit_nonretaliation_sop.md
+│   ├── 20_external_integrity_review_terms.md
+│   ├── 21_annual_integrity_certification.md
+│   └── 39_implementation_queue.md
+├── policies
+│   ├── 00-README.md
+│   ├── 01-article-i-constitutional-principles.md
+│   ├── 02-article-ii-member-and-participant-bill-of-rights.md
+│   ├── 03-article-iii-founder-and-leadership-limitations.md
+│   ├── 04-article-iv-governing-board-independence.md
+│   ├── 05-article-v-freedom-of-conscience-and-anti-coercion-covenant.md
+│   ├── 06-article-vi-epistemic-integrity-revelation-and-doctrine.md
+│   ├── 07-article-vii-financial-integrity-and-stewardship.md
+│   ├── 08-article-viii-safeguarding-children-and-vulnerable-persons.md
+│   ├── 09-article-ix-pastoral-and-spiritual-care-ethics.md
+│   ├── 10-article-x-complaints-whistleblowing-and-non-retaliation.md
+│   ├── 10_conflict_related_party_policy.md
+│   ├── 11-article-xi-independent-investigation-protocol.md
+│   ├── 11_compensation_approval_sop.md
+│   ├── 12-article-xii-discipline-removal-and-appeals.md
+│   ├── 12_financial_controls_sop.md
+│   ├── 13-article-xiii-exit-disaffiliation-and-former-member-relations.md
+│   ├── 13_safeguarding_policy_tn.md
+│   ├── 14-article-xiv-housing-employment-education-and-community-separation.md
+│   ├── 15-article-xv-transparency-and-public-accountability.md
+│   ├── 16-article-xvi-external-institutional-integrity-review.md
+│   ├── 17-article-xvii-entrenchment-and-amendment.md
+│   ├── 18-article-xviii-implementation-measurement-and-enforcement.md
+│   ├── 18_pastoral_ethics_code.md
+│   ├── 19-adoption-roadmap.md
+│   ├── 19_revelation_doctrine_protocol.md
+│   ├── 20-board-adoption-resolution.md
+│   └── 21-source-notes.md
+├── references
+│   ├── 40_legal_source_notes.md
+│   └── institutional_integrity_framework_v0_1.md
+├── reference_v0.8
+│   ├── foundational_theology_research_dossiers_volume_i_v0_8.docx
+│   ├── foundational_theology_research_dossiers_volume_i_v0_8.pdf
+│   ├── provisional_theological_baseline_v0_8.docx
+│   ├── provisional_theological_baseline_v0_8.pdf
+│   ├── theological_research_method_and_library_of_witnesses_v0_8.docx
+│   └── theological_research_method_and_library_of_witnesses_v0_8.pdf
+├── release
+│   ├── references_v1_0
+│   │   ├── companion_handbook_v1_0.docx
+│   │   ├── companion_handbook_v1_0.pdf
+│   │   ├── constitution_of_the_way_v1_0.docx
+│   │   ├── constitution_of_the_way_v1_0.pdf
+│   │   ├── teaching_and_practice_baseline_v1_0.docx
+│   │   └── teaching_and_practice_baseline_v1_0.pdf
+│   ├── source
+│   │   ├── corporate_interface_schedule_v1_1.md
+│   │   ├── decision_register_v1_1.md
+│   │   ├── founder_stewardship_declaration_v1_1.md
+│   │   ├── future_board_ratification_resolution_v1_1.md
+│   │   ├── organizational_instantiation_v1_1.json
+│   │   ├── organizational_readiness_matrix_v1_1.csv
+│   │   └── pilot_launch_checklist_v1_1.md
+│   ├── adoption_and_organizational_instantiation_packet_v1_1.docx
+│   ├── adoption_and_organizational_instantiation_packet_v1_1.pdf
+│   ├── founding_gathering_90_day_pilot_field_guide_v1_1.docx
+│   ├── founding_gathering_90_day_pilot_field_guide_v1_1.pdf
+│   └── README_RELEASE.md
+├── release_v1_0
+│   ├── source
+│   │   ├── adoption_and_review_protocol_v1_0.md
+│   │   ├── companion_handbook_v1_0.md
+│   │   ├── constitutional_crosswalk_v1_0.csv
+│   │   ├── constitution_of_the_way_v1_0.md
+│   │   ├── decision_register_v1_0.md
+│   │   ├── teaching_and_practice_baseline_v1_0.md
+│   │   ├── teaching_status_register_v1_0.csv
+│   │   └── way_foundational_synthesis_v1_0.json
+│   ├── companion_handbook_v1_0.docx
+│   ├── companion_handbook_v1_0.pdf
+│   ├── constitution_of_the_way_v1_0.docx
+│   ├── constitution_of_the_way_v1_0.pdf
+│   ├── README_RELEASE.md
+│   ├── teaching_and_practice_baseline_v1_0.docx
+│   └── teaching_and_practice_baseline_v1_0.pdf
+├── release_v1_2
+│   ├── reference_v1_0
+│   │   ├── companion_handbook_v1_0.docx
+│   │   ├── constitution_of_the_way_v1_0.docx
+│   │   └── teaching_and_practice_baseline_v1_0.docx
+│   ├── reference_v1_1
+│   │   ├── adoption_and_organizational_instantiation_packet_v1_1.docx
+│   │   └── founding_gathering_90_day_pilot_field_guide_v1_1.docx
+│   ├── v1_2
+│   │   ├── director_candidate_tracker_v1_2.csv
+│   │   ├── ein_banking_federal_exemption_and_compliance_execution_packet_v1_2.docx
+│   │   ├── ein_banking_federal_exemption_and_compliance_execution_packet_v1_2.pdf
+│   │   ├── execution_sequence_v1_2.md
+│   │   ├── filing_readiness_register_v1_2.csv
+│   │   ├── filing_ready_incorporation_and_board_execution_packet_v1_2.docx
+│   │   ├── filing_ready_incorporation_and_board_execution_packet_v1_2.pdf
+│   │   ├── founding_director_recruitment_and_acceptance_kit_v1_2.docx
+│   │   ├── founding_director_recruitment_and_acceptance_kit_v1_2.pdf
+│   │   ├── name_clearance_record_v1_2.md
+│   │   └── organizational_instantiation_v1_2.json
+│   └── README_RELEASE.md
+├── source
+│   ├── dossiers
+│   │   ├── tq_001_god_ultimate_reality.md
+│   │   ├── tq_002_revelation_prophecy.md
+│   │   ├── tq_003_jesus_christology.md
+│   │   ├── tq_004_muhammad_qur_anic_revelation.md
+│   │   ├── tq_005_buddha_awakening_non_self.md
+│   │   ├── tq_006_scripture_canon_authority.md
+│   │   └── tq_007_human_condition_soul_consciousness.md
+│   ├── 00_README.md
+│   ├── 01_research_method_and_library_architecture.md
+│   ├── 01_theological_method.md
+│   ├── 01_the_whole_what_the_way_is_and_is_not.md
+│   ├── 02_human_lifecycle_of_the_way.md
+│   ├── 02_practice_framework.md
+│   ├── 03_sacred_source_methodology.md
+│   ├── 03_the_companion_pathway_and_companion_commitment.md
+│   ├── 04_ethics_framework.md
+│   ├── 04_the_assembly_religious_community_architecture.md
+│   ├── 05_holy_time.md
+│   ├── 05_house_of_prayer_operating_model.md
+│   ├── 06_children_and_family.md
+│   ├── 06_gatherings_and_religious_practice_framework.md
+│   ├── 07_minister_formation.md
+│   ├── 07_rule_of_life_framework.md
+│   ├── 08_ministry_roles,_commissioning,_and_accountabilit.md
+│   ├── 08_rites_status.md
+│   ├── 09_epistemic_integrity_encounter_to_doctrine.md
+│   ├── 09_implementation_sequence.md
+│   ├── 10_comparative_source_notes.md
+│   ├── 10_provisional_theological_baseline.md
+│   ├── 10_transmission,_succession,_and_the_founder-exit_t.md
+│   ├── 11_source_notes.md
+│   ├── 11_the_human_lifecycle_in_one_view.md
+│   ├── 12_decision_register.md
+│   ├── 12_v0.6_implementation_sequence.md
+│   ├── 13_forms_and_templates.md
+│   ├── 14_decision_register.md
+│   ├── adoption_and_review_protocol_v1_0.md
+│   ├── build_v12.py
+│   ├── companion_handbook_v1_0.md
+│   ├── constitutional_crosswalk_v1_0.csv
+│   ├── constitution_of_the_way_v1_0.md
+│   ├── decision_register_v1_0.md
+│   ├── director_candidate_tracker_v1_2.csv
+│   ├── execution_sequence_v1_2.md
+│   ├── filing_readiness_register_v1_2.csv
+│   ├── formation_curriculum_map_v0_7.csv
+│   ├── human_lifecycle_v0_6.csv
+│   ├── library_of_witnesses_register_v0_8.csv
+│   ├── name_clearance_record_v1_2.md
+│   ├── organizational_instantiation_v1_2.json
+│   ├── provisional_theological_baseline_v0_8.csv
+│   ├── research_claims_register_v0_8.csv
+│   ├── teaching_and_practice_baseline_v1_0.md
+│   ├── teaching_status_register_v1_0.csv
+│   ├── theological_questions_register_v0_7.csv
+│   ├── theological_research_v0_8.json
+│   ├── way_community_architecture_v0_6.json
+│   ├── way_community_architecture_v0_6.md
+│   ├── way_foundational_synthesis_v1_0.json
+│   ├── way_theology_practice_formation_architecture_v0_7.md
+│   └── way_theology_practice_formation_v0_7.json
+├── v0.9
+│   ├── source
+│   │   ├── decision_register_v0_9.md
+│   │   ├── library_of_witnesses_additions_v0_9.csv
+│   │   ├── provisional_baseline_register_v0_9.csv
+│   │   ├── theological_research_volume_ii_v0_9.json
+│   │   └── volume_ii_dossier_register_v0_9.csv
+│   ├── provisional_ethical_eschatological_baseline_v0_9.docx
+│   ├── provisional_ethical_eschatological_baseline_v0_9.pdf
+│   ├── README_RELEASE.md
+│   ├── sacred_time_family_ministry_interreligious_framework_v0_9.docx
+│   ├── sacred_time_family_ministry_interreligious_framework_v0_9.pdf
+│   ├── theological_research_dossiers_volume_ii_v0_9.docx
+│   ├── theological_research_dossiers_volume_ii_v0_9.pdf
+│   └── way_theological_research_v0_9_source_pack.zip
+├── 00_README.md
+├── 41_CHANGELOG.md
+├── AFF-001-Affiliation-and-Disaffiliation-Code.docx
+├── Church-Operations-Registers.xlsx
+├── companion_formation_curriculum_v0_7.docx
+├── companion_formation_curriculum_v0_7.pdf
+├── Congregational-Operations-Registers.xlsx
+├── DISC-PROC-001-Disciplinary-Procedure-Manual-and-Forms.docx
+├── DOC-001-Doctrine-and-Authoritative-Teaching-Code.docx
+├── DOC-OPS-001-Doctrine-Docket-and-Teaching-Classification-Procedures.docx
+├── FILE_INVENTORY.md
+├── FIN-POL-001-Financial-Policies-and-Procedures-Manual.docx
+├── foundational_theology_research_dossiers_volume_i_v0_8.docx
+├── foundational_theology_research_dossiers_volume_i_v0_8.pdf
+├── FOUND-TRANS-001-Founding-Transition-Schedule.docx
+├── generate_v10.py
+├── GOV-FORMS-001-Governance-Forms-and-Decision-Records-Manual.docx
+├── GOV-PROC-001-Governance-Procedure-Code.docx
+├── JUR-001-Civil-Ecclesiastical-Jurisdiction-Code.docx
+├── LOCAL-001-Local-Community-Constitutional-Framework.docx
+├── LOCAL-AFF-OPS-001-Local-Community-and-Affiliation-Implementation-Manual.docx
+├── MANIFEST-SHA256.txt
+├── Ministry-and-Education-Registers.xlsx
+├── MIN-OPS-001-Ministerial-Credentialing-Procedures-and-Forms-Manual.docx
+├── native_religious_lexicon_v0_5.csv
+├── native_religious_lexicon_v0_5.docx
+├── native_religious_lexicon_v0_5.json
+├── native_religious_lexicon_v0_5.pdf
+├── native_religious_lexicon_v0_5_README.md
+├── Organizational-Compliance-Registers.xlsx
+├── prayer_gatherings_and_rites_book_v0_7.docx
+├── prayer_gatherings_and_rites_book_v0_7.pdf
+├── provisional_theological_baseline_v0_8.docx
+├── provisional_theological_baseline_v0_8.pdf
+├── README-Church-IRS-Determination-Package-Draft.txt
+├── README-Church-Religious-Identity-Layer-Pack.txt
+├── README_RELEASE.md
+├── README.txt
+├── SAFE-001-Safeguarding-and-Accountability-Framework.docx
+├── SAFE-OPS-001-Safeguarding-Procedures-and-Forms-Manual.docx
+├── SHA256SUMS.txt
+├── SUCC-001-Leadership-Succession-Code.docx
+├── SUCC-OPS-001-Leadership-Succession-Procedures-and-Transition-Forms.docx
+├── theological_research_method_and_library_of_witnesses_v0_8.docx
+├── theological_research_method_and_library_of_witnesses_v0_8.pdf
+├── way_community_architecture_v0_6.docx
+├── way_community_architecture_v0_6.pdf
+├── way_community_forms_and_templates_v0_6.docx
+├── way_community_forms_and_templates_v0_6.pdf
+├── way_theology_practice_formation_architecture_v0_7.docx
+├── way_theology_practice_formation_architecture_v0_7.pdf
+└── way-tree
+
+244 directories, 1113 files

@@ -1,0 +1,25 @@
+{
+  "version": "1.2",
+  "date": "2026-09-21",
+  "working_legal_name": "UNDECIDED Inc.",
+  "working_public_name": "UNDECIDED",
+  "corporate_model": "Tennessee public benefit religious nonprofit; no statutory members at formation (working decision)",
+  "fiscal_year_end": "December 31",
+  "founder_role": "Founder; intended President/Executive Director subject to Board appointment",
+  "current_directors": [
+    "Thomas Carter"
+  ],
+  "open_gates": [
+    "legal name",
+    "2+ additional directors",
+    "Secretary other than President",
+    "registered office",
+    "principal office",
+    "final counsel review"
+  ],
+  "documents": [
+    "filing_ready_incorporation_and_board_execution_packet_v1_2.docx",
+    "founding_director_recruitment_and_acceptance_kit_v1_2.docx",
+    "ein_banking_federal_exemption_and_compliance_execution_packet_v1_2.docx"
+  ]
+}

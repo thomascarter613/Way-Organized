@@ -1,0 +1,13 @@
+witness_id,tradition,source,date_or_period,genre,layer,principal_use,assembly_status
+LOW-JW-001,Jewish/Biblical,Deuteronomy 6:4-5,ancient Israel / textual layers,scripture,P1/P2,divine unity; devotion,Study witness
+LOW-JW-002,Jewish/Biblical,Genesis 1:27,ancient Israel / textual layers,scripture,P1/P2,human dignity/image of God,Study witness
+LOW-JC-001,Early Christian,Pauline letters,c. 50s CE,letters,P1/P2,earliest extant Christian belief/practice,Study witness
+LOW-JC-002,Early Christian,Synoptic Gospels,"1st century CE, later than Paul",narrative/theological biography,P2,Jesus traditions; historical reconstruction,Study witness
+LOW-JC-003,Early Christian,Gospel of John,late 1st century CE broadly,narrative/theological Gospel,P2,Johannine Christology and tradition,Study witness
+LOW-IM-001,Islamic,Qur'an,early 7th century CE proclamation; early written transmission,scripture/recitation,P1/P2,Muhammad proclamation; Islamic theology,Study witness
+LOW-IM-002,Islamic,Sira traditions,8th-9th century literary witnesses to earlier traditions,biography,P3,Muhammad biography/reception,Study witness
+LOW-IM-003,Islamic,Hadith corpora,primarily later compilation of report traditions,report collections,P3,"law, piety, biography; report-specific analysis",Study witness
+LOW-BD-001,Early Buddhist,Nikayas / Agamas,early Buddhist strata preserved in multiple lineages,discourses,P1/P2,early Buddhist teaching reconstruction,Study witness
+LOW-BD-002,Early Buddhist,Vinaya traditions,early Buddhist strata with later layers,discipline/narrative,P1/P2,institutional and biographical memory,Study witness
+LOW-SK-001,Sikh,Guru Granth Sahib,compiled in Sikh tradition 1604; later final recension/traditional Guruship,scripture/hymnody,P1/P2/P3,Sikh theology/devotion,Study witness
+LOW-PH-001,Comparative Philosophy,SEP God and Other Ultimates,2021-current,philosophical reference,PH,models of ultimacy,Research aid

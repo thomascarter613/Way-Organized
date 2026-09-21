@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "date": "2026-09-20",
+  "identity": {
+    "path": "the Way",
+    "person": "Companion",
+    "community": "the Assembly",
+    "local": "House of Prayer"
+  },
+  "entrenched_principles": [
+    "conscience",
+    "voluntary participation",
+    "safe exit",
+    "non-retaliation",
+    "safeguarding",
+    "no infallible living authority",
+    "no founder supremacy",
+    "financial integrity",
+    "due process",
+    "religious/civil authority distinction"
+  ],
+  "epistemic_chain": [
+    "Encounter",
+    "Testimony",
+    "Interpretation",
+    "Teaching",
+    "Doctrine"
+  ],
+  "confidence_states": [
+    "Established",
+    "Well-Supported",
+    "Provisional",
+    "Permitted Interpretation",
+    "Open Question",
+    "Rejected as Harmful or Unsupported"
+  ],
+  "sevenfold_practice": [
+    "Attention",
+    "Prayer",
+    "Study",
+    "Discernment",
+    "Ethical Practice",
+    "Service",
+    "Companionship"
+  ],
+  "documents": [
+    "Constitution of the Way",
+    "Teaching & Practice Baseline",
+    "Companion Handbook"
+  ]
+}

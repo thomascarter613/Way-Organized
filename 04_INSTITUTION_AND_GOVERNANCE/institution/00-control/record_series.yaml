@@ -1,0 +1,22 @@
+# REC-ID-001 machine-readable seed.
+# Allocate IDs contemporaneously. Never recycle identifiers.
+series:
+  BOARD-MIN: {pattern: "BOARD-MIN-YYYY-NNNN", next: 1, custodian: "Secretary"}
+  BOARD-RES: {pattern: "BOARD-RES-YYYY-NNNN", next: 1, custodian: "Secretary"}
+  EC-MIN: {pattern: "EC-MIN-YYYY-NNNN", next: 1, custodian: "EC Recorder"}
+  EC-DEC: {pattern: "EC-DEC-YYYY-NNNN", next: 1, custodian: "EC Recorder"}
+  CMA-MIN: {pattern: "CMA-MIN-YYYY-NNNN", next: 1, custodian: "CMA Recorder"}
+  GOV-DEC: {pattern: "GOV-DEC-YYYY-NNNN", next: 1, custodian: "Records Custodian"}
+  SR: {pattern: "SR-YYYY-NNNN", next: 1, custodian: "Worship Records Custodian"}
+  ATT: {pattern: "ATT-YYYY-NNNN", next: 1, custodian: "Attendance Custodian"}
+  TA: {pattern: "TA-YYYY-NNNN", next: 1, custodian: "Teaching Archivist"}
+  RR: {pattern: "RR-YYYY-NNNN", next: 1, custodian: "Religious Records Custodian"}
+  MEM: {pattern: "MEM-YYYY-NNNN", next: 1, custodian: "Membership Registrar"}
+  MIN-CRED: {pattern: "MIN-CRED-YYYY-NNNN", next: 1, custodian: "Credential Registrar"}
+  SAFE: {pattern: "SAFE-YYYY-NNNN", next: 1, custodian: "Safeguarding Custodian"}
+  DISC: {pattern: "DISC-YYYY-NNNN", next: 1, custodian: "Discipline Records Custodian"}
+  FIN-TXN: {pattern: "FIN-TXN-YYYY-NNNN", next: 1, custodian: "Treasurer"}
+  FIN-RPT: {pattern: "FIN-RPT-YYYY-NNNN", next: 1, custodian: "Treasurer"}
+  EVD: {pattern: "EVD-YYYY-NNNN", next: 1, custodian: "Records Custodian"}
+  CORR-IRS: {pattern: "CORR-IRS-YYYY-NNNN", next: 1, custodian: "Secretary/Treasurer"}
+  ADOPT: {pattern: "ADOPT-YYYY-NNNN", next: 1, custodian: "Records Custodian"}

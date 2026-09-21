@@ -1,0 +1,1022 @@
+{
+  "version": "0.8",
+  "date": "September 19, 2026",
+  "evidence_layers": [
+    [
+      "P1",
+      "Primary / near-primary witness",
+      "Earliest available text, inscription, artifact, or testimony sufficiently close to the relevant period or event. Proximity raises evidentiary value but does not make the witness infallible."
+    ],
+    [
+      "P2",
+      "Early community witness",
+      "Early texts and practices showing how a community remembered, interpreted, or ritualized a claim."
+    ],
+    [
+      "P3",
+      "Later traditional witness",
+      "Later commentary, biography, creed, hagiography, legal tradition, or institutional interpretation. Strong for reception history; variable for reconstructing origins."
+    ],
+    [
+      "H",
+      "External historical / material evidence",
+      "Independent literary sources, archaeology, epigraphy, manuscript evidence, social history, linguistics, and related disciplines."
+    ],
+    [
+      "PH",
+      "Philosophical analysis",
+      "Conceptual coherence, arguments, counterarguments, explanatory scope, and alternative metaphysical models."
+    ],
+    [
+      "EX",
+      "Experiential / phenomenological testimony",
+      "Reported religious, mystical, contemplative, moral, or transformative experience. Evidence that an experience was reported or occurred as experience is not identical to proof of its theological interpretation."
+    ],
+    [
+      "PR",
+      "Practice evidence",
+      "Observed effects, reproducibility where meaningful, ethical fruit, harms, and community outcomes. Practical benefit does not by itself prove a metaphysical explanation."
+    ]
+  ],
+  "claim_taxonomy": [
+    [
+      "Historical",
+      "What probably happened in time and place?",
+      "Ancient-source criticism, archaeology, external attestation, contextual plausibility."
+    ],
+    [
+      "Textual",
+      "What does a source say, and how was it transmitted?",
+      "Manuscripts, philology, redaction, genre, textual criticism."
+    ],
+    [
+      "Phenomenological",
+      "What was experienced or reported?",
+      "First-person testimony, comparative phenomenology, psychology; interpretation held separate."
+    ],
+    [
+      "Metaphysical",
+      "What ultimately exists?",
+      "Philosophical argument, coherence, explanatory power; history alone cannot settle it."
+    ],
+    [
+      "Theological",
+      "What does a tradition claim about God, revelation, salvation, etc.?",
+      "Primary sacred sources, doctrinal history, internal reasoning; distinguish description from endorsement."
+    ],
+    [
+      "Ethical",
+      "What ought persons or communities do?",
+      "Moral reasoning, consequences, rights, virtue, duties, human flourishing, tradition."
+    ],
+    [
+      "Institutional",
+      "What authority should the Assembly grant a belief, source, or person?",
+      "Governance, rights impact, evidence quality, mission fit, anti-coercion controls."
+    ]
+  ],
+  "confidence_states": [
+    [
+      "Established",
+      "Strong evidence and broad responsible agreement for the defined claim; revision remains possible."
+    ],
+    [
+      "Well-Supported",
+      "Substantial evidence favors the claim, but meaningful uncertainty or dispute remains."
+    ],
+    [
+      "Provisional",
+      "Plausible working conclusion useful for practice or further inquiry, explicitly subject to revision."
+    ],
+    [
+      "Permitted Interpretation",
+      "A coherent interpretation Companions may hold, but the Assembly does not teach it as the best-established conclusion."
+    ],
+    [
+      "Open Question",
+      "Available evidence does not justify an Assembly conclusion."
+    ],
+    [
+      "Rejected as Harmful or Unsupported",
+      "Either evidentially untenable for the defined claim, or institutionally impermissible because the proposed use violates rights/safeguards. The reason must be stated."
+    ]
+  ],
+  "dossiers": [
+    {
+      "id": "TQ-001",
+      "title": "God / Ultimate Reality",
+      "question": "What, if anything, is ultimately real in the religious sense, and what may responsibly be said about God or the Divine?",
+      "summary": "The evidence supports neither a premature equation of all religious ultimates nor a premature dismissal of them. Jewish and Islamic witnesses emphatically affirm divine unity; Sikh tradition likewise centers one God; Upanishadic traditions develop models of Brahman and self; Buddhist traditions are not organized around a creator God and instead analyze suffering, impermanence, non-self, dependent arising, and liberation. Philosophy of religion itself now treats 'God and other ultimates' as a plural conceptual landscape rather than one uniform idea.",
+      "witnesses": [
+        [
+          "Jewish biblical witness",
+          "Deuteronomy 6:4-5; Exodus 3:14-15",
+          "Unity/uniqueness of YHWH; covenantal love; divine naming remains interpretively rich."
+        ],
+        [
+          "Qur'anic witness",
+          "Qur'an 112; 4:171",
+          "God is one, incomparable, not begotten or begetting; Jesus is not a second deity within Qur'anic theology."
+        ],
+        [
+          "Sikh witness",
+          "Mool Mantar and Sikh teaching tradition",
+          "One, creator, timeless, self-existent divine reality; ego is an obstacle to truthful living."
+        ],
+        [
+          "Upanishadic witness",
+          "Principal Upanishadic traditions",
+          "Multiple formulations of Brahman, Atman, nonduality, and ultimate reality; not reducible to one simple doctrine."
+        ],
+        [
+          "Buddhist witness",
+          "Early Buddhist discourses",
+          "Liberation is framed without dependence on a creator-God doctrine; later Buddhist schools develop additional concepts such as emptiness and Buddha-nature."
+        ],
+        [
+          "Philosophical witness",
+          "Contemporary philosophy of religion",
+          "Distinguishes personal-God models, ground-of-being models, nondual ultimates, and non-theistic ultimates; also evaluates naturalism and skepticism."
+        ]
+      ],
+      "findings": [
+        [
+          "Religious traditions make materially different ultimate-reality claims.",
+          "Established",
+          "This diversity must not be erased by saying all traditions teach the same thing."
+        ],
+        [
+          "Monotheistic unity is central to Jewish, Islamic, and Sikh witnesses, though their further descriptions differ.",
+          "Established",
+          "Descriptive claim about source traditions, not an Assembly metaphysical verdict."
+        ],
+        [
+          "Religious experience and testimony deserve study but do not uniquely determine one metaphysical interpretation.",
+          "Well-Supported",
+          "The same kind of human experience can be interpreted differently across traditions."
+        ],
+        [
+          "Whether ultimate reality is personal, transpersonal, nondual, plural, or adequately described by naturalism remains unsettled for the Way.",
+          "Open Question",
+          "No evidentiary shortcut is justified."
+        ],
+        [
+          "The problem of suffering and evil is a major test for any model of an all-powerful, all-knowing, perfectly good personal God.",
+          "Established",
+          "The force of the problem varies with the model of God being evaluated."
+        ]
+      ],
+      "interpretations": [
+        [
+          "Classical monotheism",
+          "One personal creator God, maximally powerful/knowing/good; Jewish, Christian, Islamic and Sikh formulations vary."
+        ],
+        [
+          "Ground-of-being / panentheistic models",
+          "God as being itself, the ground within which creation exists, or reality transcending ordinary person-language."
+        ],
+        [
+          "Nondual models",
+          "Ultimate reality and deepest self/reality understood through forms of nonduality; important in several Hindu philosophical traditions."
+        ],
+        [
+          "Non-theistic liberation models",
+          "Religious ultimacy need not be a creator person; many Buddhist systems exemplify this."
+        ],
+        [
+          "Naturalism / agnosticism",
+          "No transcendent personal or metaphysical ultimate beyond nature, or insufficient evidence to decide."
+        ]
+      ],
+      "way": [
+        [
+          "Established",
+          "The Way must distinguish different concepts of ultimacy rather than collapsing them into one."
+        ],
+        [
+          "Provisional",
+          "Devotional use of \"God\" is permitted as ordinary prayer language while metaphysical definition remains open."
+        ],
+        [
+          "Open Question",
+          "The Assembly does not yet adopt a binding doctrine of divine personality, Trinity, strict unitarianism, nonduality, panentheism, or naturalism."
+        ],
+        [
+          "Institutional safeguard",
+          "No claimant may convert a private certainty about God into unchecked authority over another person."
+        ]
+      ],
+      "change": [
+        "Compelling publicly assessable evidence of divine action with reliable provenance and alternative explanations addressed.",
+        "Philosophical arguments that substantially outperform rivals on coherence, explanatory power, and moral implications.",
+        "Cross-tradition experiential evidence that discriminates among competing models rather than merely showing that religious experience occurs.",
+        "New evidence bearing on consciousness, cosmology, mind, or religious experience relevant to the metaphysical models."
+      ],
+      "nextq": [
+        "How should divine attributes be evaluated?",
+        "What is the relation between divine unity and personal plurality claims?",
+        "Can prayer be epistemically informative without becoming self-validating?",
+        "How should evil and apparently gratuitous suffering update confidence?"
+      ]
+    },
+    {
+      "id": "TQ-002",
+      "title": "Revelation / Prophecy",
+      "question": "What counts as revelation, how can revelatory claims be evaluated, and what authority may such claims have?",
+      "summary": "Religions use 'revelation' for different things: alleged divine speech, divine acts in history, divine self-disclosure, inspired text, prophetic proclamation, awakened insight, or deepened perception of reality. A responsible system therefore evaluates revelation claims in layers rather than asking only whether a claimant is sincere.",
+      "witnesses": [
+        [
+          "Hebrew prophetic traditions",
+          "Torah and Prophets",
+          "Divine speech, covenant, vision, prophetic call, moral indictment, and historical interpretation."
+        ],
+        [
+          "Christian traditions",
+          "Jesus, apostolic witness, scripture, Spirit",
+          "Revelation may be centered in a person/event as well as words; later traditions disagree over continuing revelation."
+        ],
+        [
+          "Islamic tradition",
+          "Qur'an and prophetic mission",
+          "Qur'an is presented as revealed speech delivered through Muhammad; later hadith/sira are distinct source classes."
+        ],
+        [
+          "Buddhist traditions",
+          "Awakening / insight",
+          "The Buddha's authority is typically framed as awakening and insight rather than a creator deity dictating revelation."
+        ],
+        [
+          "Sikh tradition",
+          "Gurbani / Guru",
+          "Revelatory and devotional authority is mediated through the Gurus and Guru Granth Sahib in Sikh self-understanding."
+        ],
+        [
+          "Philosophy",
+          "Models of divine revelation",
+          "Revelation can mean alleged divine speaking, special acts, or broader divine self-disclosure; justification remains a separate question."
+        ]
+      ],
+      "findings": [
+        [
+          "Sincerity and intensity do not establish divine origin.",
+          "Established",
+          "They may establish that the person sincerely reports an experience."
+        ],
+        [
+          "A report of revelation and the interpretation of that report are distinct evidentiary objects.",
+          "Established",
+          "This is foundational to the Way's epistemic grammar."
+        ],
+        [
+          "Private revelation can rationally matter to the experiencer more than to outsiders.",
+          "Well-Supported",
+          "Public institutional claims require additional reasons accessible to those affected."
+        ],
+        [
+          "History can study revelation claims and their effects but cannot by historical method alone prove a transcendent source.",
+          "Established",
+          "Metaphysical/theological inference requires additional argument."
+        ],
+        [
+          "No contemporary revelation claim should automatically amend doctrine or governance.",
+          "Established - Institutional",
+          "Rights and lawful amendment processes remain controlling."
+        ]
+      ],
+      "interpretations": [
+        [
+          "Propositional revelation",
+          "God communicates truths in words or word-like content."
+        ],
+        [
+          "Historical-event revelation",
+          "Divine self-disclosure occurs through events interpreted within a community."
+        ],
+        [
+          "Personal revelation",
+          "A person is understood as the decisive self-disclosure of God, as in major Christian Christologies."
+        ],
+        [
+          "Illuminative / contemplative revelation",
+          "Insight arises through disciplined perception, contemplation, or awakening."
+        ],
+        [
+          "Natural revelation",
+          "Nature, reason, conscience, or the cosmos discloses divine reality apart from special prophecy."
+        ]
+      ],
+      "way": [
+        [
+          "Established",
+          "Revelation claims are classified as claims before they are classified as authority."
+        ],
+        [
+          "Provisional",
+          "The Assembly may receive a personal testimony as spiritually meaningful without adopting its claimed divine interpretation."
+        ],
+        [
+          "Open Question",
+          "Whether any historical revelation is genuinely divine, and if so by what mechanism."
+        ],
+        [
+          "Institutional safeguard",
+          "No revelation can authorize sexual access, self-compensation, evidence destruction, coercion, rights suspension, or exemption from safeguarding."
+        ]
+      ],
+      "change": [
+        "Reliable independent corroboration of otherwise inaccessible information under controlled conditions.",
+        "Predictive or explanatory success that survives pre-registration, ambiguity controls, and alternative explanations where such testing is appropriate.",
+        "Historical evidence materially improving the provenance of ancient revelation reports.",
+        "A coherent theology explaining both successful and failed revelation claims without ad hoc immunization."
+      ],
+      "nextq": [
+        "Can revelation continue today?",
+        "How should fulfilled and failed prophecy be scored?",
+        "What role should moral character play without circular reasoning?",
+        "What distinguishes inspiration, intuition, conscience, and revelation?"
+      ]
+    },
+    {
+      "id": "TQ-003",
+      "title": "Jesus / Christology",
+      "question": "What can responsibly be said about Jesus historically, and which claims about his identity remain theological?",
+      "summary": "Jesus of Nazareth is among the best-attested founders or central figures of antiquity in the sense that multiple early Christian sources preserve traditions about him and external ancient sources attest the movement and his execution context. Historical method can establish a first-century Jewish teacher, a movement, and crucifixion under Pontius Pilate with high confidence. It cannot, by itself, prove incarnation, divine sonship in an ontological sense, miracle causation, or resurrection as a metaphysical event.",
+      "witnesses": [
+        [
+          "Pauline letters",
+          "Earliest extant Christian writings",
+          "Show an already existing movement centered on the crucified and risen Jesus; not biographies."
+        ],
+        [
+          "Synoptic Gospels",
+          "Mark, Matthew, Luke",
+          "Narrative/theological sources preserving earlier traditions; written decades after Jesus and requiring source criticism."
+        ],
+        [
+          "Gospel of John",
+          "Later canonical Gospel",
+          "Distinctive theological portrait; historically valuable but not interchangeable with Synoptic chronology or discourse."
+        ],
+        [
+          "Josephus / Tacitus and Roman context",
+          "External ancient witnesses",
+          "Support the existence of Jesus/Christians and Roman execution context; details and textual issues vary by source."
+        ],
+        [
+          "Qur'anic Jesus",
+          "Qur'an 4:171; 5:72-75 and related passages",
+          "Affirms Jesus as Messiah/messenger while rejecting identification with God and later Islamic interpretation disputes crucifixion."
+        ]
+      ],
+      "findings": [
+        [
+          "Jesus was a first-century Jewish figure associated with Galilee/Judaea who attracted followers.",
+          "Established",
+          "Mainstream historical conclusion."
+        ],
+        [
+          "Jesus was crucified under Pontius Pilate.",
+          "Established",
+          "Oxford scholarship describes this as nearly universally accepted / among the strongest historical points."
+        ],
+        [
+          "The Gospels are literary and theological texts as well as historical sources and must be read accordingly.",
+          "Established",
+          "Their theological aims neither erase nor automatically validate historical content."
+        ],
+        [
+          "Jesus preached about God/kingdom and ethical/religious transformation.",
+          "Well-Supported",
+          "Exact wording and scope of individual sayings vary in confidence."
+        ],
+        [
+          "Jesus explicitly claimed ontological identity with God in the later creedal sense.",
+          "Open Question - Historical/Theological",
+          "The sources and interpretation are contested; historical method cannot simply assume later creeds."
+        ],
+        [
+          "Followers very early proclaimed that Jesus had been raised and continued to encounter him as alive.",
+          "Established as claim-history",
+          "What caused those experiences and whether resurrection occurred metaphysically remain separate questions."
+        ],
+        [
+          "Jesus' resurrection as a divine transformation of the dead.",
+          "Open Question - Metaphysical/Theological",
+          "Historical evidence can establish belief/claims more readily than supernatural causation."
+        ]
+      ],
+      "interpretations": [
+        [
+          "Jewish prophetic / eschatological teacher",
+          "Jesus as Jewish teacher announcing God's reign and calling for repentance and transformed life."
+        ],
+        [
+          "Messianic claimant or messianically interpreted figure",
+          "Scholars debate how Jesus understood messiahship versus how followers came to interpret him."
+        ],
+        [
+          "Incarnate divine Son",
+          "Classical Christian doctrine; a theological claim that goes beyond what historical method alone can establish."
+        ],
+        [
+          "Islamic Messiah and messenger",
+          "Qur'anic and Islamic framework honors Jesus but rejects divine identity and commonly interprets crucifixion differently."
+        ],
+        [
+          "Nonreligious historical interpretations",
+          "Charismatic teacher, apocalyptic prophet, reformer, wisdom teacher, or combinations."
+        ]
+      ],
+      "way": [
+        [
+          "Established",
+          "Jesus is a central witness in the Library of Witnesses and indispensable to study of the Way."
+        ],
+        [
+          "Established",
+          "His crucifixion under Pilate is taught as history."
+        ],
+        [
+          "Well-Supported",
+          "His teachings concerning God, neighbor, mercy, repentance, service, and moral transformation are major formation sources, with source-critical confidence noted passage by passage."
+        ],
+        [
+          "Open Question",
+          "Incarnation, Trinity, pre-existence, atonement mechanisms, miracle causation, empty-tomb details, and resurrection metaphysics are not yet Assembly doctrine."
+        ],
+        [
+          "Safeguard",
+          "Questioning a Christological interpretation is not grounds for retaliation or exclusion from ordinary public gatherings."
+        ]
+      ],
+      "change": [
+        "Earlier independent sources materially changing the source map.",
+        "New manuscript or archaeological evidence bearing directly on disputed sayings/events.",
+        "Better historical models of post-crucifixion experiences that explain the rise of resurrection belief.",
+        "Philosophical/theological arguments showing that one Christological model best integrates the historical and experiential evidence."
+      ],
+      "nextq": [
+        "Which sayings/actions have the highest historical confidence?",
+        "How did Jesus understand sonship, messiahship, and authority?",
+        "What best explains resurrection experiences and empty-tomb traditions?",
+        "How should the Way relate Jesus' teaching to later Pauline and conciliar theology?"
+      ]
+    },
+    {
+      "id": "TQ-004",
+      "title": "Muhammad / Qur'anic Revelation",
+      "question": "What can responsibly be said about Muhammad historically, and how should the Qur'an's revelation claim be evaluated?",
+      "summary": "Muhammad is historically secure as the seventh-century Arabian leader around whom the early Muslim community formed. The Qur'an is the earliest major source for his proclamation and is far closer to his lifetime than the developed sira and hadith corpora. The theological claim that the Qur'an is divine speech, and the traditional claim of final prophethood, require theological and philosophical assessment in addition to historical source criticism.",
+      "witnesses": [
+        [
+          "Qur'an",
+          "Earliest major Islamic source",
+          "Broad scholarly agreement, though not unanimity, treats its content as substantially deriving from Muhammad's proclamation; it is not arranged as a biography."
+        ],
+        [
+          "Early material evidence",
+          "Inscriptions, papyri, coins, early Qur'anic manuscripts",
+          "Important for dating, community identity, textual transmission, and early Islamic history."
+        ],
+        [
+          "Sira literature",
+          "Ibn Ishaq tradition preserved through later recensions and related biographies",
+          "Indispensable but later than the Qur'an and requires source criticism."
+        ],
+        [
+          "Hadith corpora",
+          "Later collections with isnad/matn traditions",
+          "Central to Islamic law and piety; historical evaluation is report-specific and methodologically complex."
+        ],
+        [
+          "Non-Muslim witnesses",
+          "Early Christian, Jewish, and other external notices",
+          "Potential independent data but often brief, polemical, or difficult to interpret."
+        ]
+      ],
+      "findings": [
+        [
+          "Muhammad was a seventh-century Arabian religious and political leader whose movement produced the early Muslim community.",
+          "Established",
+          "Basic historical conclusion."
+        ],
+        [
+          "The Qur'an is the earliest principal textual witness to Muhammad's proclamation.",
+          "Established",
+          "It remains incomplete as biography."
+        ],
+        [
+          "Later sira and hadith should not be given the same source weight as the Qur'an merely because tradition groups them together.",
+          "Established - Methodological",
+          "Each report requires provenance and transmission analysis."
+        ],
+        [
+          "The Qur'an presents Muhammad as messenger and \"seal of the prophets.\"",
+          "Established - Textual",
+          "The meaning is central to Islamic theology; textual description is distinct from Assembly endorsement."
+        ],
+        [
+          "Muhammad was divinely commissioned and the Qur'an is verbatim divine revelation.",
+          "Open Question - Theological",
+          "History can assess provenance and proclamation; divine origin requires additional inference."
+        ],
+        [
+          "Muhammad is necessarily the final possible bearer of revelation for all humanity.",
+          "Open Question for the Way",
+          "The Qur'anic claim and Islamic interpretation are studied seriously but not adopted automatically."
+        ]
+      ],
+      "interpretations": [
+        [
+          "Classical Sunni/Shi'a prophethood",
+          "Muhammad as final prophet/messenger and Qur'an as divine revelation; traditions differ on succession and authority."
+        ],
+        [
+          "Historical-critical account",
+          "Muhammad as late antique Arabian religious leader whose proclamation must be studied in its Jewish, Christian, Arabian, political, and linguistic setting."
+        ],
+        [
+          "Revisionist historical models",
+          "Some scholarship has challenged aspects of traditional chronology or source reliability; proposals require case-by-case evidence."
+        ],
+        [
+          "Interreligious prophetic recognition",
+          "Some non-Muslim thinkers regard Muhammad as a genuine religious reformer or prophetic witness without accepting every Islamic dogmatic claim."
+        ]
+      ],
+      "way": [
+        [
+          "Established",
+          "Muhammad and the Qur'an are major witnesses that must be studied directly rather than through polemic."
+        ],
+        [
+          "Established",
+          "Source classes must remain differentiated: Qur'an, early material evidence, sira, hadith, tafsir, and later doctrine."
+        ],
+        [
+          "Open Question",
+          "Divine authorship, inimitability as proof, finality of prophethood, and the normative authority of later hadith for the Way."
+        ],
+        [
+          "Safeguard",
+          "No offense or reverence norm may be used to suppress good-faith historical inquiry or to license denigration of Muslims."
+        ]
+      ],
+      "change": [
+        "New early manuscript/epigraphic evidence bearing on textual history and chronology.",
+        "Stronger source-critical models linking specific biographical reports to early independent strata.",
+        "Arguments for divine revelation that distinguish divine authorship from literary power, historical influence, or sincere conviction.",
+        "Evidence clarifying how earliest Muslims understood prophecy, authority, and Qur'anic collection."
+      ],
+      "nextq": [
+        "What can be reconstructed from the Qur'an alone?",
+        "How early and stable is the Qur'anic consonantal text, and what do reading traditions imply?",
+        "How should hadith be stratified for historical versus devotional use?",
+        "What exactly does \"seal of the prophets\" establish textually and theologically?"
+      ]
+    },
+    {
+      "id": "TQ-005",
+      "title": "Buddha / Awakening / Non-Self",
+      "question": "What can responsibly be said about the historical Buddha, early Buddhist teaching, awakening, and non-self?",
+      "summary": "Current scholarship places Gautama Buddha roughly around the fifth century BCE and treats the early discourses preserved in multiple textual lineages as the principal evidence for reconstructing early Buddhist thought. The core liberation project - suffering/dukkha, craving, cessation, path, impermanence, and non-self - is much more secure as an early doctrinal complex than many elaborate later biographies or later-school metaphysics.",
+      "witnesses": [
+        [
+          "Nikayas / Agamas",
+          "Early Buddhist discourse collections preserved in Pali and Chinese/Sanskrit-related lineages",
+          "Comparative parallels help distinguish early shared strata from school-specific development."
+        ],
+        [
+          "Vinaya traditions",
+          "Monastic disciplinary collections",
+          "Preserve institutional and narrative memories, with layers."
+        ],
+        [
+          "SN 56.11",
+          "Setting in Motion the Wheel of Dhamma",
+          "Four truths, middle way, eightfold path, liberation."
+        ],
+        [
+          "SN 22.59",
+          "Characteristic of Not-Self",
+          "Five aggregates analyzed as not fit to identify as permanent controlling self."
+        ],
+        [
+          "Later Buddhist traditions",
+          "Abhidharma, Mahayana, Vajrayana and regional schools",
+          "Philosophically rich developments that should not be projected wholesale onto earliest Buddhism."
+        ]
+      ],
+      "findings": [
+        [
+          "A historical teacher Gautama stands behind the Buddhist tradition.",
+          "Established",
+          "Exact dates remain debated; roughly fifth century BCE is common in current scholarship."
+        ],
+        [
+          "The early liberation project centers on dukkha/suffering, its causal conditions, cessation, and a disciplined path.",
+          "Established",
+          "Attested across early sources."
+        ],
+        [
+          "Non-self is central to early Buddhist analysis of persons.",
+          "Established",
+          "Interpretation of precisely what is denied remains philosophically debated."
+        ],
+        [
+          "Early Buddhism includes karma/rebirth language as part of its inherited and transformed framework.",
+          "Established - Textual",
+          "Whether rebirth is metaphysically true remains open for the Way."
+        ],
+        [
+          "The Buddha achieved a literally final liberation ending rebirth.",
+          "Open Question - Metaphysical",
+          "The historical fact of a liberation claim is distinct from metaphysical verification."
+        ],
+        [
+          "Later concepts such as Madhyamaka emptiness or Buddha-nature can simply be attributed to the historical Buddha.",
+          "Rejected as historically careless",
+          "Later developments require their own provenance."
+        ]
+      ],
+      "interpretations": [
+        [
+          "Theravada early-text reading",
+          "Emphasizes Nikaya/Vinaya traditions and liberation through ethics, meditation, and wisdom."
+        ],
+        [
+          "Mahayana developments",
+          "Reframe emptiness, bodhisattva ideals, Buddha bodies, and other doctrines through later corpora."
+        ],
+        [
+          "Secular/psychological appropriations",
+          "Extract meditation and suffering analysis while bracketing karma/rebirth; useful but not identical with traditional Buddhism."
+        ],
+        [
+          "Comparative theological reading",
+          "Treats Buddhist insight as a witness about attachment, selfhood, suffering, and contemplative knowledge without forcing it into a creator-God framework."
+        ]
+      ],
+      "way": [
+        [
+          "Established",
+          "The Buddha is a major witness to disciplined inquiry into suffering, desire, attention, selfhood, and liberation."
+        ],
+        [
+          "Well-Supported",
+          "Practices of ethical restraint, attention, meditation, and examination of craving deserve experimental and comparative study."
+        ],
+        [
+          "Open Question",
+          "Rebirth, karma across lives, nirvana's metaphysical nature, and whether non-self is ultimately compatible with soul or resurrection models."
+        ],
+        [
+          "Safeguard",
+          "Buddhist testimony is studied in its own categories before any synthesis with Abrahamic theology."
+        ]
+      ],
+      "change": [
+        "Earlier textual parallels or manuscript discoveries that materially change the reconstruction of early strata.",
+        "Better philosophical accounts of personal identity, consciousness, and continuity that engage Buddhist arguments directly.",
+        "Empirical evidence relevant to contemplative claims, while avoiding the mistake that therapeutic effects prove all Buddhist metaphysics."
+      ],
+      "nextq": [
+        "What exactly does anatta deny?",
+        "How should dependent arising be interpreted across early strata?",
+        "Which meditation claims are phenomenologically reproducible?",
+        "How should karma/rebirth claims be evaluated without dismissing or presupposing them?"
+      ]
+    },
+    {
+      "id": "TQ-006",
+      "title": "Scripture / Canon / Authority",
+      "question": "What makes a text scripture, how do canons form, and should the Way have a canon?",
+      "summary": "The comparative record shows that scripture and canon are historically mediated categories. Jewish authoritative literature developed over time and Second Temple evidence shows graded authority; the New Testament canon formed gradually with core collections and later disputed books; Qur'anic collection and reading traditions have their own early history; Buddhist traditions preserve multiple canons in different languages; Sikh tradition offers a different model in which the Guru Granth Sahib itself holds living scriptural/Guru authority. These mechanisms cannot be collapsed into one theory of inspiration.",
+      "witnesses": [
+        [
+          "Jewish textual history",
+          "Torah, Prophets, Writings; Dead Sea Scrolls",
+          "Shows authority, interpretation, and eventual canonization as historically layered."
+        ],
+        [
+          "Christian textual history",
+          "Gospels, Pauline letters, catholic epistles, Acts, Revelation, extracanonical literature",
+          "Core texts circulated early while disputed boundaries stabilized over centuries."
+        ],
+        [
+          "Qur'anic textual history",
+          "Recitation, collection, consonantal text, canonical readings",
+          "Distinct model centered on a single revealed corpus with oral/written transmission and recognized readings."
+        ],
+        [
+          "Buddhist canons",
+          "Pali, Sanskrit fragments, Chinese and Tibetan collections",
+          "Plural canonical lineages; early-text reconstruction often compares parallels across schools/languages."
+        ],
+        [
+          "Sikh scripture",
+          "Guru Granth Sahib",
+          "Distinctive model of scripture bearing continuing Guru authority within Sikh tradition and containing compositions from multiple voices."
+        ]
+      ],
+      "findings": [
+        [
+          "A text calling itself sacred does not by itself establish its own canon status.",
+          "Established",
+          "Canon is also a community/institutional reception category."
+        ],
+        [
+          "Jewish and Christian canon formation was historically gradual rather than a single universally recognized list from the beginning.",
+          "Established",
+          "Specific dates/boundaries require tradition-sensitive nuance."
+        ],
+        [
+          "Second Temple Jewish evidence can reflect graded levels of authoritative literature.",
+          "Well-Supported",
+          "Qumran research is particularly important."
+        ],
+        [
+          "Multiple Buddhist canons and parallel early texts complicate any claim that one bounded book-list uniquely represents the historical Buddha.",
+          "Established",
+          "Comparative textual work is essential."
+        ],
+        [
+          "The Way presently needs a closed canon.",
+          "Rejected - Premature",
+          "Closing the source field now would outrun the research and create avoidable authority risks."
+        ]
+      ],
+      "interpretations": [
+        [
+          "Inspired bounded canon",
+          "A divinely intended set of books eventually recognized by the faithful community."
+        ],
+        [
+          "Community-reception model",
+          "Texts become normative through long use, perceived apostolic/prophetic connection, coherence, liturgy, and communal reception."
+        ],
+        [
+          "Scripture-with-living-interpretation",
+          "Textual authority functions inseparably from interpretive community/tradition."
+        ],
+        [
+          "Open library / graded authority",
+          "Sources can have different research, formative, liturgical, and doctrinal weights without a single binary canon line."
+        ]
+      ],
+      "way": [
+        [
+          "Established",
+          "The Assembly will maintain a Library of Witnesses rather than declare an early canon."
+        ],
+        [
+          "Established",
+          "Library inclusion means relevance for study, not inspiration or doctrinal endorsement."
+        ],
+        [
+          "Provisional",
+          "Sources may receive separate research, formation, liturgical, and doctrinal statuses."
+        ],
+        [
+          "Reserved",
+          "Any future canon requires a separate entrenched adoption process and should not occur merely for branding or imitation."
+        ]
+      ],
+      "change": [
+        "Long-term evidence that a stable bounded corpus is necessary for faithful transmission and can be adopted without suppressing relevant counter-witnesses.",
+        "A mature theology of revelation and inspiration capable of explaining why specific texts have a qualitatively different status.",
+        "Multigenerational reception showing durable communal discernment rather than founder-era preference."
+      ],
+      "nextq": [
+        "What levels of authority should the Library support?",
+        "Can liturgical reading be authorized without doctrinal authority?",
+        "How should translations, manuscript variants, and critical editions be governed?",
+        "What would justify any future canon closure?"
+      ]
+    },
+    {
+      "id": "TQ-007",
+      "title": "Human Condition / Soul / Consciousness",
+      "question": "What is the human problem, what is a person, and what forms of transformation are warranted before the Way settles soul/afterlife metaphysics?",
+      "summary": "Across traditions, striking but incomplete convergence appears at the practical level: human beings are finite, vulnerable to suffering, prone to self-deception and harmful desire, shaped by habits and communities, capable of cruelty and compassion, and capable of significant transformation through disciplined practice and relationship. The metaphysical explanations remain deeply different: image-of-God anthropology, sin and grace, fitrah and moral accountability, Buddhist non-self and craving, Sikh haumai/ego, and Hindu models of self, karma, and ignorance are not interchangeable.",
+      "witnesses": [
+        [
+          "Genesis 1:27 and Jewish traditions",
+          "Humanity in the image of God",
+          "Supports dignity/vocation interpretations; later Jewish anthropology is diverse."
+        ],
+        [
+          "Jesus traditions",
+          "e.g., Mark 7:20-23 and related ethical teaching",
+          "Locates moral corruption in dispositions/actions arising from within, not merely ritual contamination."
+        ],
+        [
+          "Pauline / Christian traditions",
+          "Sin, flesh/spirit, grace, new creation",
+          "Highly influential Christian anthropology; multiple later theories of original sin and salvation."
+        ],
+        [
+          "Qur'an 30:30; 91:7-10",
+          "Fitrah, moral discernment, purification/corruption",
+          "Human created disposition and accountability; Islamic anthropology is broader than these verses alone."
+        ],
+        [
+          "Early Buddhist texts",
+          "dukkha, craving, impermanence, non-self",
+          "Frames the problem without a permanent controlling self and emphasizes liberation through insight/practice."
+        ],
+        [
+          "Sikh teaching",
+          "haumai / ego and truthful living",
+          "Ego-centeredness is a key obstacle; remembrance and truthful living are central remedies."
+        ]
+      ],
+      "findings": [
+        [
+          "Humans are vulnerable to cognitive bias, self-deception, social influence, harmful desire, and moral failure.",
+          "Established",
+          "Supported by ordinary experience and multiple religious/psychological traditions; exact mechanisms vary."
+        ],
+        [
+          "Humans are also capable of compassion, learning, conscience, repair, self-regulation, and transformation.",
+          "Established",
+          "A one-sided doctrine of depravity is not warranted by the comparative evidence alone."
+        ],
+        [
+          "Human dignity should not depend on religious status, purity, caste, office, wealth, sex, or loyalty to the institution.",
+          "Established - Ethical/Institutional",
+          "Constitutional commitment of the Way."
+        ],
+        [
+          "Humans possess an immaterial immortal soul of a specific type.",
+          "Open Question - Metaphysical",
+          "Traditions and philosophical theories conflict."
+        ],
+        [
+          "No enduring self exists in any meaningful sense.",
+          "Open Question - Metaphysical",
+          "Early Buddhist non-self analysis is a major challenge to substantial-self theories but requires careful philosophical engagement."
+        ],
+        [
+          "Inherited guilt/original sin is the correct universal diagnosis.",
+          "Open Question",
+          "Distinguish inherited conditions, social transmission, biological propensity, and culpability."
+        ]
+      ],
+      "interpretations": [
+        [
+          "Image of God / covenantal personhood",
+          "Human worth and vocation grounded in relation to God."
+        ],
+        [
+          "Sin/grace anthropology",
+          "Humanity impaired by sin and dependent on divine grace; many Christian variants."
+        ],
+        [
+          "Fitrah/accountability",
+          "Humans created with a primordial disposition toward truth/God yet capable of corruption and repentance."
+        ],
+        [
+          "Non-self / craving / ignorance",
+          "Suffering maintained by craving, misperception, and attachment to self; liberation through ethical and contemplative insight."
+        ],
+        [
+          "Ego/haumai",
+          "Self-centeredness obscures truthful relation to God and others; remembrance/service reorient the person."
+        ],
+        [
+          "Naturalistic psychology",
+          "Human cognition and morality explained through biological, developmental, psychological, and social processes without metaphysical soul assumptions."
+        ]
+      ],
+      "way": [
+        [
+          "Established",
+          "All leaders and Companions are treated as fallible; governance must assume susceptibility to bias, temptation, dependency, and self-justification."
+        ],
+        [
+          "Established",
+          "Every person retains dignity and conscience regardless of religious status."
+        ],
+        [
+          "Provisional",
+          "Formation should cultivate attention, honesty, compassion, restraint, service, repair, and intellectual humility because these respond to human vulnerabilities across models."
+        ],
+        [
+          "Open Question",
+          "Soul, consciousness after death, rebirth, resurrection, inherited sin, and ultimate mechanism of transformation."
+        ]
+      ],
+      "change": [
+        "Advances in philosophy/neuroscience of consciousness that strongly favor or undermine specific models of personal identity.",
+        "Credible evidence bearing on survival of consciousness, rebirth, resurrection, or other postmortem claims.",
+        "Better exegesis/source criticism clarifying what the earliest witnesses actually taught about personhood and moral failure.",
+        "Longitudinal evidence on which formation practices produce durable prosocial transformation without coercive harms."
+      ],
+      "nextq": [
+        "What is consciousness?",
+        "What constitutes personal identity over time?",
+        "How should sin, ignorance, craving, ego, trauma, habit, and social structure relate?",
+        "What exactly can be taught to children without imposing unresolved metaphysics?"
+      ]
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BT-001",
+      "domain": "Ultimate reality",
+      "status": "Established",
+      "text": "Religious traditions make materially different claims about God/ultimate reality; the Way must not erase those differences."
+    },
+    {
+      "id": "BT-002",
+      "domain": "God-language",
+      "status": "Provisional",
+      "text": "Companions and Houses may pray using ordinary God-language; the Assembly has not fixed a comprehensive metaphysical doctrine of God."
+    },
+    {
+      "id": "BT-003",
+      "domain": "Revelation method",
+      "status": "Established",
+      "text": "A revelation claim is testimony requiring evaluation; intensity, office, charisma, or sincerity does not itself establish divine origin."
+    },
+    {
+      "id": "BT-004",
+      "domain": "Revelation authority",
+      "status": "Established",
+      "text": "No claimed revelation overrides consent, safeguarding, civil law, financial controls, or governing documents."
+    },
+    {
+      "id": "BT-005",
+      "domain": "Jesus - history",
+      "status": "Established",
+      "text": "Jesus was a first-century Jewish figure whose movement continued after his crucifixion under Pontius Pilate."
+    },
+    {
+      "id": "BT-006",
+      "domain": "Jesus - identity",
+      "status": "Open Question",
+      "text": "Incarnation, ontological divine sonship, Trinity, atonement mechanisms, and resurrection metaphysics are not yet Assembly doctrine."
+    },
+    {
+      "id": "BT-007",
+      "domain": "Muhammad - history",
+      "status": "Established",
+      "text": "Muhammad was a seventh-century Arabian religious/political leader; the Qur'an is the earliest principal textual witness to his proclamation."
+    },
+    {
+      "id": "BT-008",
+      "domain": "Muhammad - revelation/finality",
+      "status": "Open Question",
+      "text": "Divine authorship of the Qur'an and finality of prophethood are studied seriously but are not yet Assembly doctrine."
+    },
+    {
+      "id": "BT-009",
+      "domain": "Buddha - history/teaching",
+      "status": "Established",
+      "text": "A historical Gautama stands behind Buddhism; early teaching centers liberation from suffering through disciplined ethical and contemplative practice."
+    },
+    {
+      "id": "BT-010",
+      "domain": "Buddha - metaphysics",
+      "status": "Open Question",
+      "text": "Rebirth, karma across lives, nirvana's metaphysical nature, and the ultimate implications of non-self remain open."
+    },
+    {
+      "id": "BT-011",
+      "domain": "Scripture",
+      "status": "Established",
+      "text": "The Assembly presently maintains a Library of Witnesses rather than a closed canon."
+    },
+    {
+      "id": "BT-012",
+      "domain": "Library inclusion",
+      "status": "Established",
+      "text": "Inclusion signifies relevance for study, not inspiration, infallibility, or total endorsement."
+    },
+    {
+      "id": "BT-013",
+      "domain": "Human dignity",
+      "status": "Established",
+      "text": "Human dignity and conscience do not depend on membership, office, purity status, wealth, sex, belief certainty, or loyalty to the institution."
+    },
+    {
+      "id": "BT-014",
+      "domain": "Human fallibility",
+      "status": "Established",
+      "text": "All people, including founders and ministers, are vulnerable to bias, self-deception, harmful desire, and social influence; governance must assume fallibility."
+    },
+    {
+      "id": "BT-015",
+      "domain": "Human transformation",
+      "status": "Well-Supported",
+      "text": "Attention, honesty, compassion, restraint, study, service, relationship, and repair are defensible formation goals across multiple anthropological models."
+    },
+    {
+      "id": "BT-016",
+      "domain": "Soul / afterlife",
+      "status": "Open Question",
+      "text": "Immortal soul, resurrection, rebirth, postmortem consciousness, and related mechanisms remain unresolved."
+    }
+  ]
+}

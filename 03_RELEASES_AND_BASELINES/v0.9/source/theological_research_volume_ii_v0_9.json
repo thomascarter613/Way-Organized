@@ -1,0 +1,622 @@
+{
+  "version": "0.9",
+  "date": "September 20, 2026",
+  "dossiers": [
+    {
+      "id": "D8",
+      "title": "Evil, Suffering, and Theodicy",
+      "question": "How should the Way understand suffering, moral evil, natural evil, and the apparent tension between suffering and claims about divine goodness or power?",
+      "witnesses": [
+        "Hebrew Bible laments, Job, prophetic protest, and wisdom traditions",
+        "Jesus traditions concerning suffering, compassion, healing, and unjust death",
+        "Qur'anic traditions of trial, patience, justice, mercy, and accountability",
+        "Buddhist analysis of dukkha and its conditions",
+        "Philosophical arguments from evil and major theodicy families"
+      ],
+      "findings": [
+        [
+          "Established",
+          "Human suffering is real, morally urgent, unevenly distributed, and cannot responsibly be reduced to a single cause."
+        ],
+        [
+          "Established",
+          "The existence and intensity of suffering pose a serious evidential challenge to some forms of all-powerful, all-knowing, perfectly good theism. [S1-S2]"
+        ],
+        [
+          "Well-supported",
+          "Religious traditions respond differently: protest/lament, free-will accounts, soul-making, karma/rebirth, eschatological repair, mystery, compassion, and liberation all occur, but each has significant interpretive and philosophical difficulties."
+        ],
+        [
+          "Established ethical rule",
+          "No House of Prayer may presume that illness, disability, disaster, abuse, infertility, poverty, bereavement, or other suffering is divine punishment, karmic desert, weak faith, or spiritual failure without extraordinary evidence."
+        ],
+        [
+          "Established ethical rule",
+          "A theological explanation must never be used to silence lament, block medical or legal help, pressure forgiveness, excuse an abuser, or tell a victim that suffering was necessary for another person's spiritual growth."
+        ]
+      ],
+      "open": [
+        "Whether God is omnipotent/omniscient/perfectly good in classical terms",
+        "Whether some suffering has divinely intended purposes",
+        "Whether there is karmic moral causation across lives",
+        "Whether final eschatological repair can justify or redeem horrendous suffering",
+        "Whether some forms of evil count as positive evidence against particular God-concepts"
+      ],
+      "change": [
+        "A coherent model that explains severe apparently gratuitous suffering without moral distortion",
+        "Reliable evidence of moral causation beyond ordinary natural/social mechanisms",
+        "Stronger arguments regarding divine attributes, freedom, providence, or cosmic justice"
+      ],
+      "baseline": "The Way may teach compassion, lament, resistance to preventable harm, care for sufferers, and epistemic restraint. It must not teach that all suffering is deserved or divinely scripted."
+    },
+    {
+      "id": "D9",
+      "title": "Salvation, Liberation, Healing, and Awakening",
+      "question": "What, if anything, is the basic human problem and what constitutes its healing, liberation, reconciliation, awakening, or completion?",
+      "witnesses": [
+        "Jewish themes of covenant faithfulness, repentance, deliverance, justice, and restoration",
+        "Christian themes of reconciliation, grace, participation in divine life, forgiveness, resurrection, and salvation",
+        "Islamic themes of submission to God, mercy, repentance, righteous action, judgment, and felicity",
+        "Buddhist liberation from suffering, craving, ignorance, and cyclical becoming",
+        "Hindu, Jain, mystical, and philosophical liberation traditions"
+      ],
+      "findings": [
+        [
+          "Established",
+          "\"Salvation\" is a useful comparative category but originated in particular theological contexts and can distort other traditions if treated as a universal equivalent. [S3]"
+        ],
+        [
+          "Established",
+          "Religions diagnose the human condition differently; therefore their proposed ends are not simply interchangeable."
+        ],
+        [
+          "Well-supported",
+          "Across traditions there is recurring concern with transformation from alienation, ignorance, wrongdoing, bondage, suffering, disorder, or estrangement toward wholeness, reconciliation, awakening, liberation, holiness, or right relationship."
+        ],
+        [
+          "Established ethical rule",
+          "No leader or institution may sell, guarantee, withhold, or threaten a person's ultimate spiritual destiny in exchange for money, loyalty, sexual access, silence, labor, housing, votes, or continued membership."
+        ]
+      ],
+      "open": [
+        "Whether there is one universal human spiritual problem",
+        "Whether reconciliation with God, awakening, liberation, or moral transformation is the deepest end",
+        "Whether multiple religious paths are genuinely salvific/liberative",
+        "Whether salvation is possible after death",
+        "Whether final reconciliation is universal, conditional, or otherwise structured"
+      ],
+      "change": [
+        "Better comparative analysis showing equivalence or incompatibility among claimed ends",
+        "Historical and experiential evidence concerning transformative practices",
+        "Stronger metaphysical account of personhood, God, consciousness, and death"
+      ],
+      "baseline": "The Way may speak provisionally of healing, liberation, reconciliation, awakening, and wholeness, while refusing to collapse them into one metaphysical claim before evidence warrants it."
+    },
+    {
+      "id": "D10",
+      "title": "Death, Resurrection, Rebirth, and Afterlife",
+      "question": "What happens at death, if anything, and what kinds of postmortem continuity are coherent or evidenced?",
+      "witnesses": [
+        "Jewish developments from Sheol traditions to resurrection and later eschatologies",
+        "Christian resurrection, judgment, heaven/hell, purgation, and universalist traditions",
+        "Islamic resurrection, judgment, paradise, hell, mercy, and disputed duration questions",
+        "Buddhist and Hindu rebirth traditions and liberation from cycles of becoming",
+        "Philosophical arguments concerning dualism, materialism, personal identity, resurrection, reincarnation, and consciousness"
+      ],
+      "findings": [
+        [
+          "Established",
+          "Human cultures and religious traditions contain multiple incompatible models of postmortem existence. [S4]"
+        ],
+        [
+          "Established",
+          "Bodily resurrection, disembodied survival, reincarnation/rebirth, universal reconciliation, eternal separation, annihilation, and cessation are conceptually distinct proposals, not synonyms."
+        ],
+        [
+          "Established",
+          "The philosophical possibility of an afterlife depends heavily on theories of mind, personal identity, and continuity; no single model is established merely by widespread belief. [S4]"
+        ],
+        [
+          "Established",
+          "Christian traditions themselves contain substantial diversity regarding heaven, hell, punishment, freedom, and universal reconciliation. [S5]"
+        ],
+        [
+          "Established pastoral rule",
+          "Funerals and memorials must distinguish memory, hope, inherited tradition, and metaphysical certainty. No officiant may claim knowledge of a deceased person's final destiny without warrant."
+        ]
+      ],
+      "open": [
+        "Whether consciousness survives biological death",
+        "Whether resurrection occurs and what preserves personal identity",
+        "Whether rebirth occurs and how identity persists without a permanent self",
+        "Whether judgment is personal, cosmic, restorative, punitive, or metaphorical",
+        "Whether all persons are ultimately reconciled/liberated"
+      ],
+      "change": [
+        "Strong reproducible evidence of postmortem consciousness or verified past-life memory",
+        "A compelling theory of personal identity across death",
+        "Stronger historical evidence for specific resurrection/rebirth claims",
+        "A more coherent account of divine justice and universal destiny"
+      ],
+      "baseline": "The Way adopts hope without fabrication: death is certain; grief is real; ultimate destiny remains an open question. Memorial practice may express hope while naming uncertainty."
+    },
+    {
+      "id": "D11",
+      "title": "Sexuality, Marriage, Family, and Intimate Ethics",
+      "question": "What ethical principles should govern sexuality, marriage, partnership, family, celibacy, parenting, and intimate power?",
+      "witnesses": [
+        "Jewish, Christian, and Islamic marriage/family law and theology in diverse historical forms",
+        "Buddhist monastic and lay sexual ethics",
+        "Contemporary family structures and empirical research on religion and family",
+        "Modern theological debates concerning gender, sexuality, marriage, celibacy, divorce, and same-sex relationships"
+      ],
+      "findings": [
+        [
+          "Established",
+          "Religious teachings on sexuality and family vary substantially across traditions and within traditions over time. [S6-S7]"
+        ],
+        [
+          "Established",
+          "Marriage has served multiple functions historically: kinship, property, procreation, companionship, covenant, sacrament, social order, and legal status; one function should not be projected backward as the only universal meaning."
+        ],
+        [
+          "Established ethical rule",
+          "Valid intimate relationships require capacity, meaningful consent, freedom from coercion, truthfulness about commitments, and protection from exploitation."
+        ],
+        [
+          "Established ethical rule",
+          "Sexual access can never be a privilege of spiritual office. Pastoral, ministerial, therapeutic-like, residential, employment, or dependency power requires heightened boundaries."
+        ],
+        [
+          "Established ethical rule",
+          "Children cannot consent to sexual activity with adults; safeguarding supersedes claims of custom, revelation, marriage arrangement, spiritual status, or family authority."
+        ],
+        [
+          "Well-supported",
+          "Stable care, equitable responsibility, nonviolence, honesty, fidelity to freely undertaken commitments, and protection of dependents are strong cross-context ethical goods even where family forms differ."
+        ]
+      ],
+      "open": [
+        "Whether marriage should become a sacrament/rite of the Way",
+        "The Way's theology of sex difference, gender, celibacy, contraception, divorce/remarriage, and same-sex unions",
+        "Whether plural marriage can ever meet the Way's equality/noncoercion standards",
+        "How dual-religion/interfaith marriages should be recognized ritually",
+        "The relationship between procreation and marriage"
+      ],
+      "change": [
+        "Careful textual/historical research by tradition",
+        "Evidence concerning flourishing, harm, coercion, children, dependency, and family stability",
+        "Coherent theological account of body, personhood, covenant, and sexuality"
+      ],
+      "baseline": "Before settling disputed sexual theology, the Way can already require consent, non-exploitation, honesty, care, safeguarding, and equality before institutional processes. No Companion is required to marry, reproduce, remain married, or disclose intimate information to retain spiritual standing."
+    },
+    {
+      "id": "D12",
+      "title": "Violence, Nonviolence, Defense, and Peace",
+      "question": "Does the Way require pacifism, permit defensive force, or recognize justifiable violence under limited conditions?",
+      "witnesses": [
+        "Hebrew Bible traditions ranging from warfare to prophetic peace visions",
+        "Jesus traditions concerning enemy-love, peacemaking, nonretaliation, and protection of the vulnerable",
+        "Islamic texts and jurisprudential traditions on conflict, restraint, defense, peace, and no compulsion",
+        "Buddhist and Jain non-harming traditions",
+        "Christian pacifist and just-war traditions; modern philosophical pacifism"
+      ],
+      "findings": [
+        [
+          "Established",
+          "Pacifism itself contains multiple positions, from absolute nonviolence to narrower opposition to war. [S8]"
+        ],
+        [
+          "Established",
+          "Religious traditions contain both peace-making resources and texts/traditions used to justify force; selective quotation can conceal this internal diversity."
+        ],
+        [
+          "Established institutional rule",
+          "No founder, minister, elder, council, or House of Prayer may declare a private war, authorize vigilantism, command violence, create armed religious enforcement, or claim revelatory exemption from civil law."
+        ],
+        [
+          "Established ethical rule",
+          "Peace obtained by coercive domination is not sufficient merely because overt conflict has stopped; justice and protection of vulnerable persons matter. [S8]"
+        ],
+        [
+          "Well-supported",
+          "The Way should begin with a strong presumption for nonviolent prevention, de-escalation, reconciliation where safe, restorative practices, and peacebuilding."
+        ]
+      ],
+      "open": [
+        "Whether absolute pacifism is ultimately required",
+        "Whether proportionate force in immediate defense of self or others is morally permissible",
+        "Whether participation in military or police service is compatible with the Way",
+        "How to evaluate state warfare, humanitarian intervention, and resistance to tyranny"
+      ],
+      "change": [
+        "A stronger theological account of enemy-love, justice, state authority, and protection obligations",
+        "Historical evidence about outcomes of violent and nonviolent resistance",
+        "Moral analysis of extreme rescue and defense cases"
+      ],
+      "baseline": "The Way adopts a presumption toward nonviolence and peacemaking but does not yet declare absolute pacifism. Religious authority never grants an independent license to harm."
+    },
+    {
+      "id": "D13",
+      "title": "Rites, Sacraments, Symbols, and Sacred Mediation",
+      "question": "What can rites do, and do any rites mediate divine grace or spiritual reality beyond their communal, ethical, and psychological functions?",
+      "witnesses": [
+        "Jewish ritual, covenantal, purity, festival, and lifecycle practices",
+        "Christian sacramental, ordinance, baptismal, eucharistic, marriage, healing, and funerary traditions",
+        "Islamic prayer, fasting, pilgrimage, almsgiving, recitation, and lifecycle practice",
+        "Buddhist refuge, precepts, ordination, meditation, offering, funeral, and merit practices",
+        "Anthropological and historical study of ritual and rites of passage"
+      ],
+      "findings": [
+        [
+          "Established",
+          "Rites create and transmit meaning, memory, identity, commitment, and communal transition even before metaphysical efficacy is established."
+        ],
+        [
+          "Established",
+          "Religions differ sharply over whether rites symbolize grace, convey grace, enact covenant, transform status, purify, generate merit, or function principally as communal practice."
+        ],
+        [
+          "Established institutional rule",
+          "No rite may erase consent, create ownership of a person, bypass safeguarding, transfer property automatically, impose an irreversible child commitment, or authorize sexual/financial access."
+        ],
+        [
+          "Established",
+          "A community can responsibly practice provisional rites while clearly labeling what is symbolic, hoped, inherited, or doctrinally unresolved."
+        ]
+      ],
+      "open": [
+        "Whether any rite objectively mediates divine grace",
+        "Whether the Way should have baptism-like initiation, eucharistic/sacramental meal, marriage sacrament, anointing, confession, or funerary sacrament",
+        "Whether physical substances/gestures can carry objective sacred status",
+        "Which rites require commissioned ministers and which belong to all Companions"
+      ],
+      "change": [
+        "Historical-theological evidence concerning source traditions",
+        "Longitudinal experience of the Way's provisional rites",
+        "A developed theology of God, embodiment, community, and mediation"
+      ],
+      "baseline": "Rites may be used now as truthful communal practices whose claimed efficacy is no stronger than the evidence and theology supporting them."
+    },
+    {
+      "id": "D14",
+      "title": "Ordination, Ministry, Charisma, and Religious Office",
+      "question": "Should the Way recognize an ordained clergy, and if so what is conferred by ordination?",
+      "witnesses": [
+        "Israelite priestly, prophetic, scribal, and elder roles",
+        "Early Christian apostles, overseers, elders, deacons, teachers, and later ordination traditions",
+        "Islamic scholars, imams, jurists, Sufi guides, and non-sacramental leadership patterns",
+        "Buddhist and Jain monastic ordination systems",
+        "Sikh, Quaker, and other traditions with differing clergy/laity structures"
+      ],
+      "findings": [
+        [
+          "Established",
+          "Ordination is not one universal religious institution; communities construct religious office differently and encode different theologies in rites. [S9-S10]"
+        ],
+        [
+          "Established",
+          "Historical charisma and institutional office are distinguishable; claims of spiritual gifting do not automatically create legal, financial, disciplinary, or safeguarding authority."
+        ],
+        [
+          "Established institutional rule",
+          "The Way's current commissioning system is sufficient to authorize defined ministry functions without asserting ontological superiority."
+        ],
+        [
+          "Established institutional rule",
+          "No ordination or commissioning may grant immunity, doctrinal infallibility, founder-like succession, sexual access, control over another adult's conscience, or unilateral authority over money/property."
+        ]
+      ],
+      "open": [
+        "Whether ordination should eventually be adopted in addition to commissioning",
+        "Whether ordination changes status sacramentally/ontologically or only authorizes function",
+        "Whether ministry should be time-limited, renewable, lifelong, or mixed by role",
+        "Which ministries require formal credentialing"
+      ],
+      "change": [
+        "Developed theology of sacred mediation and vocation",
+        "Practical experience across multiple Houses",
+        "Comparative study of clericalization, abuse risks, and durable ministry formation"
+      ],
+      "baseline": "Commissioning remains the operative authorization. Ordination stays reserved until theology requires something commissioning cannot truthfully express."
+    },
+    {
+      "id": "D15",
+      "title": "Sacred Time, Weekly Rhythm, Calendar, Fasting, and Festivals",
+      "question": "How should the Way organize recurring sacred time without fabricating ancient authority or prematurely freezing a calendar?",
+      "witnesses": [
+        "Jewish Sabbath and festival cycles",
+        "Christian weekly and annual liturgical calendars",
+        "Islamic daily prayer, Friday gathering, lunar calendar, Ramadan, pilgrimage seasons, and feasts",
+        "Buddhist lunar observances, Vesak and regional festival cycles",
+        "Seasonal, agricultural, commemorative, penitential, and pilgrimage calendars across traditions"
+      ],
+      "findings": [
+        [
+          "Established",
+          "Religious calendars do more than mark dates: recurring ritual time shapes memory, identity, practice, generosity, repentance, and community. [S11-S13,S19-S20]"
+        ],
+        [
+          "Established",
+          "The seven-day sacred rhythm has enormous historical influence, but traditions locate sacred weekly gathering differently. [S12]"
+        ],
+        [
+          "Established",
+          "Festivals often combine remembered events, natural cycles, communal meals, prayer, generosity, fasting, pilgrimage, and teaching rather than serving one function only."
+        ],
+        [
+          "Established ethical rule",
+          "Fasting and vigils must include health, age, pregnancy, disability, medication, eating-disorder, labor, and other exemptions; spiritual status must never depend on unsafe observance."
+        ]
+      ],
+      "open": [
+        "Which day or days should carry primary weekly communal significance",
+        "Whether the Way adopts a distinctive calendar or uses civil/local calendars with an observance overlay",
+        "Which historical events deserve annual remembrance",
+        "Whether fasting becomes normative, optional, seasonal, or remains individual",
+        "How inherited Jewish, Christian, Islamic, Buddhist, and other holy days should be observed by Companions"
+      ],
+      "change": [
+        "Actual practice and needs of Houses of Prayer",
+        "Theology of creation, revelation, historical memory, and rest",
+        "Calendar research and global cultural/astronomical practicality"
+      ],
+      "baseline": "Adopt recurring sacred rhythm before adopting a total calendar: regular prayer, weekly communal gathering/rest rhythm, periodic service and self-examination, and annual remembrance may develop experimentally with transparent revision."
+    },
+    {
+      "id": "D16",
+      "title": "Interreligious Identity, Dialogue, Conversion, and Dual Belonging",
+      "question": "How should the Way relate to other religions and to Companions who retain, revise, or relinquish prior religious identities?",
+      "witnesses": [
+        "Abrahamic claims of continuity, fulfillment, supersession, covenant, prophecy, and finality",
+        "Buddhist transmission and adaptation across cultures",
+        "Sikh and Bahá'í engagements with religious plurality",
+        "Modern interreligious dialogue principles",
+        "Historical conversion movements and coercive/voluntary conversion patterns"
+      ],
+      "findings": [
+        [
+          "Established",
+          "Religions make genuinely different and sometimes contradictory truth claims; respectful dialogue does not require pretending all claims are identical. [S14,S17]"
+        ],
+        [
+          "Established",
+          "Religious conversion historically ranges from highly voluntary to socially or politically coerced; volition therefore requires explicit protection. [S16]"
+        ],
+        [
+          "Established ethical rule",
+          "The Way prohibits compelled conversion and institutional penalties for declining conversion. The Qur'anic no-compulsion witness is one important historical source among others for this principle. [S15]"
+        ],
+        [
+          "Established",
+          "Source traditions must be represented in their own terms before the Way evaluates them. The Way should not strip-mine traditions for attractive practices while ignoring context, ownership, history, or living communities."
+        ],
+        [
+          "Established institutional rule",
+          "Companions may maintain ordinary family, friendship, study, worship-visiting, and dialogue relationships outside the Way; leaders may not require social isolation."
+        ]
+      ],
+      "open": [
+        "Whether formal dual religious belonging is coherent for every combination of traditions",
+        "Whether the Way eventually understands itself as a new religion, reform movement, meta-tradition, fellowship, or another category",
+        "Whether some source traditions are uniquely revelatory or salvifically normative",
+        "How to handle incompatible initiation vows or exclusive doctrinal commitments"
+      ],
+      "change": [
+        "Long-term lived experience of Companions with multiple inheritances",
+        "Dialogue with representatives and scholars of source traditions",
+        "Further research on truth, revelation, salvation/liberation, and religious identity"
+      ],
+      "baseline": "The Way practices neither \"all religions are the same\" nor \"all others are false.\" It adopts disciplined hospitality: learn accurately, preserve disagreement, protect conscience, cooperate in good work, and test claims without coercion."
+    }
+  ],
+  "baseline": [
+    [
+      "Suffering and evil",
+      "Established",
+      "Do not presume suffering is deserved, divinely inflicted, karmically deserved, or evidence of weak faith; protect lament, care, treatment, and justice."
+    ],
+    [
+      "Theodicy",
+      "Open",
+      "No single theodicy is adopted. Proposed explanations must face horrendous suffering and may not be used to silence victims."
+    ],
+    [
+      "Human spiritual end",
+      "Provisional",
+      "Use healing, liberation, reconciliation, awakening, wholeness, and right relationship as comparative/working terms without declaring them metaphysically identical."
+    ],
+    [
+      "Exclusive salvation",
+      "Open",
+      "No current teaching that only Companions can be saved/liberated; no leader may claim knowledge of another person's ultimate destiny."
+    ],
+    [
+      "Afterlife",
+      "Open",
+      "No settled teaching yet on resurrection, heaven/hell, rebirth, annihilation, or postmortem consciousness."
+    ],
+    [
+      "Funerals",
+      "Established",
+      "Speak truthfully: honor the dead, support mourners, distinguish hope from certainty, and never exploit grief."
+    ],
+    [
+      "Intimate ethics",
+      "Established",
+      "Require capacity, meaningful consent, non-exploitation, honesty, safeguarding, and faithful responsibility to freely undertaken commitments and dependents."
+    ],
+    [
+      "Marriage theology",
+      "Open",
+      "Marriage/covenant blessing remains reserved pending research on sacramentality, gender/sex, divorce, remarriage, same-sex unions, celibacy, and family plurality."
+    ],
+    [
+      "Violence",
+      "Well-supported",
+      "Strong presumption toward nonviolence, peacemaking, de-escalation, and protection of vulnerable persons; absolute pacifism remains open."
+    ],
+    [
+      "Religious violence",
+      "Established",
+      "No House, minister, founder, elder, or council can authorize vigilantism, holy war, coercive enforcement, or revelatory exemption from law."
+    ],
+    [
+      "Rites",
+      "Established",
+      "Rites may express commitment, memory, transition, healing, and community; metaphysical efficacy must be stated only at the confidence warranted."
+    ],
+    [
+      "Commissioning",
+      "Established",
+      "Commissioning authorizes defined functions and limits; it creates no sacred caste or immunity."
+    ],
+    [
+      "Ordination",
+      "Reserved",
+      "Do not adopt until theology requires a claim beyond functional commissioning."
+    ],
+    [
+      "Sacred time",
+      "Provisional",
+      "Develop a recurring weekly/seasonal rhythm experimentally before constitutionalizing a comprehensive calendar."
+    ],
+    [
+      "Fasting",
+      "Provisional",
+      "Optional/experimental only, with broad health and conscience exemptions until a theology and safety standard are adopted."
+    ],
+    [
+      "Other religions",
+      "Established",
+      "Represent source traditions accurately; dialogue does not require erasing difference; no compelled conversion or social isolation."
+    ],
+    [
+      "Dual belonging",
+      "Open",
+      "Permitted for exploration/participation; formal doctrinal coherence varies by traditions and remains under study."
+    ]
+  ],
+  "sources": [
+    [
+      "S1",
+      "Stanford Encyclopedia of Philosophy, \"The Problem of Evil\"",
+      "https://plato.stanford.edu/entries/evil/",
+      "Problem of evil; logical/evidential distinction; defenses and theodicies."
+    ],
+    [
+      "S2",
+      "Stanford Encyclopedia of Philosophy, \"Theodicies\"",
+      "https://plato.stanford.edu/entries/theodicies/",
+      "Contemporary account of theodicy and severe suffering."
+    ],
+    [
+      "S3",
+      "Oxford Handbook of the Study of Religion, \"Salvation\"",
+      "https://academic.oup.com/edited-volume/27966/chapter-abstract/211590554",
+      "Comparative limits and usefulness of salvation as a category."
+    ],
+    [
+      "S4",
+      "Stanford Encyclopedia of Philosophy, \"Afterlife\"",
+      "https://plato.stanford.edu/entries/afterlife/",
+      "Philosophical possibilities for survival, resurrection, and rebirth."
+    ],
+    [
+      "S5",
+      "Stanford Encyclopedia of Philosophy, \"Heaven and Hell in Christian Thought\"",
+      "https://plato.stanford.edu/entries/heaven-hell/",
+      "Diversity of Christian eschatological models, including universalism."
+    ],
+    [
+      "S6",
+      "Oxford Handbook of Theology, Sexuality, and Gender",
+      "https://academic.oup.com/edited-volume/34452",
+      "Diversity and methodological complexity of sexuality, gender, marriage, and family theology."
+    ],
+    [
+      "S7",
+      "Oxford Handbook of Psychology and Spirituality, \"Questions Left Unaddressed by Religious Familism\"",
+      "https://academic.oup.com/edited-volume/55818/chapter-abstract/436584599",
+      "Plurality of contemporary family forms and religion/spirituality."
+    ],
+    [
+      "S8",
+      "Stanford Encyclopedia of Philosophy, \"Pacifism\"",
+      "https://plato.stanford.edu/entries/pacifism/",
+      "Spectrum from nonviolence to anti-war pacifism and just-war contrast."
+    ],
+    [
+      "S9",
+      "Oxford Handbook of the Book of Common Prayer, \"Ordination Rites, Past and Present\"",
+      "https://academic.oup.com/edited-volume/62371/chapter-abstract/554772105",
+      "Ordination rites reflect varying theologies of ministry and laity."
+    ],
+    [
+      "S10",
+      "Oxford Scholarship, Holiness and Ministry: A Biblical Theology of Ordination",
+      "https://academic.oup.com/book/10994",
+      "Ordination as historically diverse construction of religious office."
+    ],
+    [
+      "S11",
+      "Oxford Handbook of the Study of Religion, \"Time\"",
+      "https://academic.oup.com/edited-volume/27966/chapter-abstract/211581700",
+      "Religious ritual produces recurring patterns of sacred time."
+    ],
+    [
+      "S12",
+      "Oxford Bibliographies in Jewish Studies, \"Sabbath\"",
+      "https://academic.oup.com/reference/62376/reference-article-abstract/554971949",
+      "Seven-day sacred rhythm and influence on later religious temporal patterns."
+    ],
+    [
+      "S13",
+      "Oxford Handbook of Early Christian Ritual, \"Ritualizing Time\"",
+      "https://academic.oup.com/edited-volume/28032/chapter-abstract/211916688",
+      "Festival calendars build memory, identity, and communal cohesion."
+    ],
+    [
+      "S14",
+      "World Council of Churches, Guidelines for Dialogue and Relations with People of Other Religions",
+      "https://www.oikoumene.org/resources/documents/guidelines-for-dialogue-and-relations-with-people-of-other-religions",
+      "Interreligious dialogue, cooperation, and respect across conviction differences."
+    ],
+    [
+      "S15",
+      "Qur'anic Arabic Corpus / Qur'an 2:256",
+      "https://corpus.quran.com/translation.jsp?chapter=2&verse=256",
+      "Primary witness to the no-compulsion principle in Qur'anic tradition."
+    ],
+    [
+      "S16",
+      "Oxford Handbook of Religious Conversion, \"Conversion and the Historic Spread of Religions\"",
+      "https://academic.oup.com/edited-volume/34732/chapter-abstract/296512497",
+      "Volition and conversion in Buddhism, Christianity, and Islam."
+    ],
+    [
+      "S17",
+      "Oxford Handbook of the Abrahamic Religions",
+      "https://academic.oup.com/edited-volume/34340",
+      "Comparative study of Jewish, Christian, and Islamic beliefs, rituals, and interaction."
+    ],
+    [
+      "S18",
+      "Oxford Academic, \"Islam and the Fate of Others\"",
+      "https://academic.oup.com/book/5856",
+      "Diversity of Muslim views regarding salvation of non-Muslims and hell."
+    ],
+    [
+      "S19",
+      "Oxford Academic, \"The calendar and festivals\" in Judaism: A Very Short Introduction",
+      "https://academic.oup.com/book/62733/chapter-abstract/562692919",
+      "Calendar integrates memory, worship, generosity, fasting, and natural cycles."
+    ],
+    [
+      "S20",
+      "Oxford Academic, \"Fasting in Islam\"",
+      "https://academic.oup.com/book/7401/chapter-abstract/152246227",
+      "Ramadan fasting as recurring sacred practice linked with charity and family/community."
+    ]
+  ]
+}

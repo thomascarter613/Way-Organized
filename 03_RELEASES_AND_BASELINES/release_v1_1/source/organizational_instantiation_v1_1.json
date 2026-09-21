@@ -1,0 +1,197 @@
+{
+  "version": "1.1",
+  "date": "2026-09-21",
+  "working_name": "UNDECIDED",
+  "corporate_model": "Tennessee public-benefit religious nonprofit corporation",
+  "statutory_members": "No statutory members at formation (working decision)",
+  "founder_status": "Founder only identified; prospective President/Executive Director, not Chair",
+  "board_gate": {
+    "legal_minimum": 3,
+    "target_formation": 5,
+    "mature": "7-11, >=2/3 independent"
+  },
+  "pilot": "Founding Gathering Circle, 90 days, adult-only by default",
+  "documents": [
+    "Constitution of the Way v1.0",
+    "Teaching & Practice Baseline v1.0",
+    "Companion Handbook v1.0",
+    "Institutional Integrity & Anti-Coercion framework"
+  ],
+  "gates": [
+    {
+      "domain": "Identity",
+      "gate": "Legal name selected",
+      "status": "OPEN",
+      "owner": "Founder",
+      "timing": "Before filing"
+    },
+    {
+      "domain": "Governance",
+      "gate": "No statutory members confirmed",
+      "status": "WORKING",
+      "owner": "Founder + counsel",
+      "timing": "Before filing"
+    },
+    {
+      "domain": "Governance",
+      "gate": "At least 3 directors identified",
+      "status": "OPEN",
+      "owner": "Founder",
+      "timing": "Before/at organization"
+    },
+    {
+      "domain": "Governance",
+      "gate": "Target 5 formation directors identified",
+      "status": "OPEN",
+      "owner": "Founder",
+      "timing": "Early formation"
+    },
+    {
+      "domain": "Officers",
+      "gate": "Separate President and Secretary candidates",
+      "status": "OPEN",
+      "owner": "Board recruitment",
+      "timing": "Organizational meeting"
+    },
+    {
+      "domain": "Address",
+      "gate": "Registered office completed",
+      "status": "OPEN",
+      "owner": "Founder",
+      "timing": "Before filing"
+    },
+    {
+      "domain": "Address",
+      "gate": "Principal office completed",
+      "status": "OPEN",
+      "owner": "Founder",
+      "timing": "Before filing"
+    },
+    {
+      "domain": "Documents",
+      "gate": "Charter conformed to final facts",
+      "status": "PARTIAL",
+      "owner": "Counsel",
+      "timing": "Before filing"
+    },
+    {
+      "domain": "Documents",
+      "gate": "Bylaws conformed to final facts",
+      "status": "PARTIAL",
+      "owner": "Counsel/Board",
+      "timing": "Organizational meeting"
+    },
+    {
+      "domain": "Religious",
+      "gate": "v1.0 Constitution founder-stewardship adoption",
+      "status": "READY",
+      "owner": "Founder",
+      "timing": "Now"
+    },
+    {
+      "domain": "Religious",
+      "gate": "v1.0 Board recognition/ratification",
+      "status": "BLOCKED",
+      "owner": "Board",
+      "timing": "After formation"
+    },
+    {
+      "domain": "Integrity",
+      "gate": "Founder Covenant signed",
+      "status": "READY",
+      "owner": "Founder",
+      "timing": "Now / ratify later"
+    },
+    {
+      "domain": "Complaints",
+      "gate": "Independent complaint route active",
+      "status": "OPEN",
+      "owner": "Founder",
+      "timing": "Before pilot"
+    },
+    {
+      "domain": "Safeguarding",
+      "gate": "Adult-only pilot limits published",
+      "status": "READY",
+      "owner": "Founder",
+      "timing": "Before pilot"
+    },
+    {
+      "domain": "Safeguarding",
+      "gate": "Child-program system active",
+      "status": "BLOCKED",
+      "owner": "Future safeguarding lead",
+      "timing": "Before children\u2019s programming"
+    },
+    {
+      "domain": "Finance",
+      "gate": "No personal account presented as corporate account",
+      "status": "READY",
+      "owner": "Founder",
+      "timing": "Now"
+    },
+    {
+      "domain": "Finance",
+      "gate": "Corporate banking controls",
+      "status": "BLOCKED",
+      "owner": "Board/Treasurer",
+      "timing": "After formation"
+    },
+    {
+      "domain": "Tax",
+      "gate": "Full Form 1023 dossier",
+      "status": "PARTIAL",
+      "owner": "Founder/Board",
+      "timing": "After formation facts"
+    },
+    {
+      "domain": "Tax",
+      "gate": "Three-year financial projections supported",
+      "status": "OPEN",
+      "owner": "Board/finance",
+      "timing": "Before Form 1023"
+    },
+    {
+      "domain": "Program",
+      "gate": "90-day Gathering Circle pilot",
+      "status": "READY WITH GATES",
+      "owner": "Founder",
+      "timing": "Now after gates"
+    },
+    {
+      "domain": "Program",
+      "gate": "Official House-in-Formation recognition",
+      "status": "BLOCKED",
+      "owner": "Board/delegate",
+      "timing": "After formation + gates"
+    },
+    {
+      "domain": "Ministry",
+      "gate": "Official commissioning",
+      "status": "BLOCKED",
+      "owner": "Authorized process",
+      "timing": "After formation + formation/complaints"
+    },
+    {
+      "domain": "Fundraising",
+      "gate": "Public donation program",
+      "status": "BLOCKED/PENDING REVIEW",
+      "owner": "Board/counsel",
+      "timing": "After formation/status review"
+    },
+    {
+      "domain": "Insurance",
+      "gate": "General liability / program coverage evaluated",
+      "status": "OPEN",
+      "owner": "Board/founder",
+      "timing": "Before public operations scale"
+    },
+    {
+      "domain": "Review",
+      "gate": "30/60/90 pilot reviews",
+      "status": "READY",
+      "owner": "Pilot team",
+      "timing": "During pilot"
+    }
+  ]
+}

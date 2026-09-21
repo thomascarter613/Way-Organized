@@ -1,0 +1,14 @@
+Gate,Owner,Required before,Status,Evidence
+Legal name,Founder + counsel,State filing,OPEN,Name clearance record
+Minimum directors,Founder,State organization,OPEN,At least 3 names/acceptances
+Secretary,Board candidate,Organizational meeting,OPEN,Acceptance by person other than President
+Registered office,Founder,State filing,OPEN,Tennessee street address
+Principal office,Founder,State filing/EIN,OPEN,Physical/mailing address
+Counsel charter review,Founder/counsel,State filing,PENDING,Reviewed final charter
+Tennessee filing,Founder/incorporator,EIN,PENDING,Accepted charter
+Board organization,Initial board,Bank/Form 1023,PENDING,Minutes/consent
+EIN,Principal officer,Bank/Form 1023,PENDING,CP575/confirmation
+Bank/accounting,Treasurer/board,Public fundraising,PENDING,Account + controls
+Independent complaint route,Integrity lead,Pilot/public launch,OPEN,Published contact/process
+3-year projections,Board/treasurer,Form 1023,DRAFT,Completed workbook
+Form 1023 final review,Board,Submission,PENDING,Board certification

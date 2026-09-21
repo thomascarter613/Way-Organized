@@ -1,0 +1,21 @@
+Institutional Integrity & Anti-Coercion System — v0.2
+Release date: 2026-09-18
+
+Primary artifacts
+- constitutional_governance_package_v0_2.docx
+- constitutional_governance_package_v0_2.pdf
+- day_one_integrity_operations_manual_v0_2.docx
+- day_one_integrity_operations_manual_v0_2.pdf
+- institutional_integrity_dashboard_v0_2.xlsx
+- modular_source/ (44 editable Markdown/CSV source files)
+
+Governance status
+- Two Tennessee charter variants are supplied: statutory-member and no-statutory-member.
+- One must be selected before filing/adoption.
+- Placeholders such as [[ORGANIZATION_NAME]], [[FOUNDER_NAME]], and addresses must be completed.
+- Documents are founding drafts for Tennessee nonprofit counsel review before filing/adoption.
+
+QA
+- Governance manual: 22 rendered pages visually reviewed; DOCX accessibility audit 0 high / 0 medium / 0 low.
+- Operations manual: 29 rendered pages visually reviewed; DOCX accessibility audit 0 high / 0 medium / 0 low.
+- Dashboard: formula-error scan returned zero matches; rendered dashboard visually reviewed.
