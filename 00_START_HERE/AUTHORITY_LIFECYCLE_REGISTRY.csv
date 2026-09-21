@@ -1,6 +1,7 @@
 path,domain,lifecycle,authority,current_baseline,relationship,notes
 00_START_HERE,repository-control,current-working,navigation,yes,repository-control,"Navigation inventories and curation metadata; not religious/institutional authority."
-01_FOUNDATIONAL_SOURCE/source,foundational-authoring,mixed-source,mixed,no,feeds-v1.0,"Internal README says v0.8 but tree contains v1.0 artifacts; evaluate files individually."
+01_FOUNDATIONAL_SOURCE/current,foundational-authoring,current-source,source-authoring,yes,forward-authoring,"Clean forward home for new foundational source work; existence here does not equal adoption."
+01_FOUNDATIONAL_SOURCE/source,foundational-authoring,mixed-source,mixed,no,legacy-provenance,"Internal README says v0.8 but tree contains later artifacts and active EPC/FWSD series; evaluate files individually and preserve established series cohesion."
 02_RESEARCH_AND_EVIDENCE/HTERP/HTERP_v0.1,research,historical,research,no,predecessor,"Early HTERP snapshot."
 02_RESEARCH_AND_EVIDENCE/HTERP/HTERP_v0.2,research,historical,research,no,predecessor,"Early HTERP snapshot."
 02_RESEARCH_AND_EVIDENCE/HTERP/HTERP_v1.4,research,current-working,research,yes,current-hterp,"Current HTERP research baseline; WP-001 through WP-013 complete as documents/protocols."
@@ -8,7 +9,8 @@ path,domain,lifecycle,authority,current_baseline,relationship,notes
 03_RELEASES_AND_BASELINES/v0.9,religious-baseline,released-snapshot,reference,no,predecessor,"Historical ethical/eschatological release."
 03_RELEASES_AND_BASELINES/release_v1_0,religious-system,released-snapshot,founding-synthesis,yes,foundational-release,"First coherent public-facing religious baseline; immutable release snapshot."
 03_RELEASES_AND_BASELINES/release_v1_1,organizational-instantiation,released-snapshot,operational-reference,no,predecessor-to-v1.2,"Adoption and organizational instantiation layer built on v1.0."
-03_RELEASES_AND_BASELINES/release_v1_2,organizational-execution,released-snapshot,execution-reference,yes,current-execution-release,"Latest filing/board/EIN/banking/federal-exemption execution release."
+03_RELEASES_AND_BASELINES/release_v1_2,organizational-execution,released-snapshot,execution-reference,yes,current-execution-release,"Current filing/board/EIN/banking/federal-exemption execution release."
+03_RELEASES_AND_BASELINES/release_v1_4,pilot-operations,released-snapshot,pilot-reference,yes,current-pilot-operations-release,"90-day adult pre-incorporation Founding Gathering Circle pilot operations release; does not create corporation/House/statutory membership/tax-exempt status."
 04_INSTITUTION_AND_GOVERNANCE/institution,institution,current-canonical,canonical-institutional,yes,current-institution,"Tree README identifies this as the Canonical Institutional Repository."
 05_INTEGRITY_SAFEGUARDING_AND_COMPLIANCE/institutional_integrity/institutional_integrity_v0_2_release,integrity,released-snapshot,historical,no,predecessor,"Historical integrity release."
 05_INTEGRITY_SAFEGUARDING_AND_COMPLIANCE/institutional_integrity/institutional_integrity_v0_3,integrity,predecessor,working,no,predecessor,"Prior integrity working tree."

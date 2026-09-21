@@ -28,7 +28,7 @@ Therefore the v1.0 release source is a true byte-for-byte snapshot of those eigh
 **Working rule**
 
 - release copy: immutable historical/released snapshot
-- foundational-source copy: current editable/source provenance copy until a cleaner source-of-truth migration is adopted
+- foundational-source copy: preserved editable/source provenance copy for the released snapshot relationship
 
 Do not delete either merely because the bytes match.
 
@@ -52,10 +52,23 @@ A set of numbered Markdown documents has no single directory-level version ident
 
 ## Current curation decision
 
-Do **not** split or delete the mixed source tree in this PR.
+Do **not** split, mass-rename, or delete the mixed legacy source tree.
 
-The first safe step is the explicit crosswalk in:
+The repository now treats `source/` as preserved **authoring provenance**.
+
+New unrelated foundational drafting should begin in:
+
+`01_FOUNDATIONAL_SOURCE/current/`
+
+An exception applies to numbered/linked series already established under the legacy tree. At present, that includes:
+
+- `source/epistemology/` (EPC);
+- `source/foundational-witness-dossiers/` (FWSD).
+
+Those series should remain cohesive until a deliberate atomic migration is performed.
+
+This resolves the forward source-of-truth problem without rewriting historical paths or splitting active series.
+
+The source/release relationship remains documented in:
 
 `../00_START_HERE/SOURCE_RELEASE_CROSSWALK.csv`
-
-A later PR can create a cleaner editable-source architecture once all source/release relationships are known.

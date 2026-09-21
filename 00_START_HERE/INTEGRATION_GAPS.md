@@ -8,18 +8,23 @@ This register records structural inconsistencies or unresolved integration work.
 
 `01_FOUNDATIONAL_SOURCE/source/00_README.md` identifies the source pack as v0.8, while the same directory contains v1.0 and v1.2 material.
 
-**Status: partially addressed**
+**Status: structurally addressed**
 
 The repository now contains:
 
 - `SOURCE_RELEASE_CROSSWALK.csv`
 - `01_FOUNDATIONAL_SOURCE/SOURCE_TREE_LIFECYCLE_MAP.md`
+- `01_FOUNDATIONAL_SOURCE/current/README.md`
 
 All eight files in `release_v1_0/source/` are exact matches to same-path foundational-source files, and five v1.2 execution-source files are exact matches to their v1.2 release copies.
 
-**Remaining decision**
+**Curation decision**
 
-Choose whether the mixed source tree should eventually remain as historical authoring provenance or be migrated into a clean current-source layout.
+Preserve `source/` in place as mixed-lifecycle authoring provenance.
+
+Do not mass-migrate or rename it.
+
+Use `01_FOUNDATIONAL_SOURCE/current/` for new foundational drafting going forward. This creates a clean forward source path without breaking historical references or release provenance.
 
 ## IG-002 — HTERP v1.4 contains older embedded version headings
 
@@ -27,13 +32,16 @@ Choose whether the mixed source tree should eventually remain as historical auth
 
 `HTERP_v1.4/README.md` begins with "HTERP v0.7 Status Note" and "Working Baseline v0.1", while `PROJECT-STATUS.md` identifies the folder/project state as v1.4.
 
-**Status: contained**
+**Status: addressed**
 
-Repository wrapper navigation now identifies v1.4 as the current HTERP lifecycle baseline.
+`HTERP_v1.4/LIFECYCLE_STATUS.md` now records the repository lifecycle explicitly:
 
-**Remaining decision**
+- the enclosing working baseline is v1.4;
+- `PROJECT-STATUS.md` controls current project status;
+- older README headings are preserved as embedded historical provenance;
+- HTERP research maturity does not by itself create doctrine, canon, or institutional authority.
 
-Whether to add an HTERP-local version metadata file or leave the internal README untouched as historical provenance.
+The inherited README remains unchanged.
 
 ## IG-003 — Proto-canon terminology vs Library of Witnesses posture
 
@@ -41,41 +49,59 @@ Whether to add an HTERP-local version metadata file or leave the internal README
 
 HTERP v1.4 has a proto-canon architecture and status file. The foundational-source canon dossier says the Way presently maintains a Library of Witnesses rather than a closed canon and reserves any future canon for a separate process.
 
-**Status: analytically reconciled, governance decision still open**
+**Status: repository terminology addressed; formal religious adoption still open**
 
 `EPISTEMOLOGY_AUTHORITY_CROSSWALK.md` records that HTERP itself says the proto-canon is a chosen constructive center/source-priority architecture and that "included" does not mean infallible or normatively binding.
 
-**Remaining decision**
+`AUTHORITY_TERMINOLOGY.md` now standardizes repository usage, including the qualified phrase:
 
-Harmonize "proto-canon", "Library of Witnesses", "foundational witness", "liturgical source", and "binding doctrine" in a future adopted authority document.
+> **HTERP proto-canon / research source-priority architecture**
+
+and distinguishes Library of Witnesses, foundational witness, liturgical source, binding doctrine, canonical institutional repository, and canonical path.
+
+**Remaining substantive decision**
+
+A future adopted authority instrument may retain, revise, or replace this terminology. Repository curation no longer needs to guess in the meantime.
 
 ## IG-004 — Epistemology/canon governance exists in multiple layers
 
 Relevant material appears in foundational source, HTERP constructive work, and institutional integrity policy.
 
-**Status: crosswalk completed**
+**Status: repository architecture addressed; substantive consolidation/adoption still open**
 
-See `EPISTEMOLOGY_AUTHORITY_CROSSWALK.md`.
+See:
 
-**Remaining decision**
+- `EPISTEMOLOGY_AUTHORITY_CROSSWALK.md`
+- `01_FOUNDATIONAL_SOURCE/current/epistemology/README.md`
 
-Choose one authoritative home and adoption/status process for a consolidated epistemic/revelation/canon governance instrument.
+The designated forward drafting home for any consolidated epistemology/revelation/canon instrument is:
+
+`01_FOUNDATIONAL_SOURCE/current/epistemology/`
+
+Existing source documents remain in place for provenance.
+
+**Remaining substantive work**
+
+Draft, review, and if appropriate release/adopt a consolidated instrument. Storage in the drafting home does not itself create doctrine, canon, constitutional force, or institutional policy.
 
 ## IG-005 — Organizational release and canonical institution trees overlap
 
 v1.1/v1.2 release packets and the canonical `institution/` tree contain overlapping organizational material.
 
-**Status: open**
+**Status: structurally addressed**
 
-**Next action**
+See `ORGANIZATIONAL_RELEASE_INSTITUTION_CROSSWALK.md`.
 
-Build a migration/crosswalk showing:
-- which released instruments are immutable reference snapshots;
-- which canonical institutional paths are the editable/current homes;
-- which require future board adoption;
-- which remain model/pre-filing documents.
+The crosswalk establishes that:
 
-Do not copy filing-ready templates into executed-record locations before real-world actions occur.
+- v1.1/v1.2 release packages remain immutable historical/reference snapshots;
+- the canonical `institution/` tree is the home for current/adopted/executed institutional records;
+- filing-ready or future-board templates must not be copied into executed-record locations as though the real-world action occurred;
+- migration is event-by-event and must be supported by adoption, execution, filing, acceptance, issuance, or equivalent evidence.
+
+**Remaining real-world work**
+
+The structural mapping is complete. Actual migration into operative record locations can occur only as real organizational events take place. This is an execution boundary, not a repository-curation defect.
 
 ## IG-006 — Duplicate inventory lifecycle classification
 
