@@ -32,6 +32,12 @@ This index captures the substantive responses currently recoverable from the act
   - Authoritative draft: ../../../../01_FOUNDATIONAL_SOURCE/source/epistemology/EPC-003-canon-and-authority-protocol.md
 - 011 — EPC-004: Foundational Witness Selection Protocol
   - Authoritative draft: ../../../../01_FOUNDATIONAL_SOURCE/source/epistemology/EPC-004-foundational-witness-selection-protocol.md
+- 013 — FWSD-001: Old Avestan Gāthās Foundational Witness Selection Dossier
+  - Authoritative dossier: ../../../../01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-001-old-avestan-gathas.md
+  - Archive: 013-fwsd-001-old-avestan-gathas.md
+- 014 — FWSD-002: Recovered Jesus Corpus Foundational Witness Selection Dossier
+  - Authoritative dossier: ../../../../01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-002-recovered-jesus-corpus.md
+  - Archive: 014-fwsd-002-recovered-jesus-corpus.md
 
 ## Repository-sync response
 
