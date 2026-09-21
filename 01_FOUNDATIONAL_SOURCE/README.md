@@ -1,13 +1,39 @@
 # Foundational Source
 
-The `source/` tree is preserved as an authoring/source corpus, but it is **mixed-lifecycle**.
+This domain now has two distinct lifecycle paths.
 
-Its internal `00_README.md` describes a v0.8 research/source pack, while the same tree contains v1.0 synthesis artifacts. Do not infer that every file in this folder belongs to one coherent version.
+## Current forward authoring
 
-For current released religious baselines, see:
+Use:
+
+`current/`
+
+for new foundational religious/theological source work created after second-pass repository curation.
+
+This clean path exists so future drafting does not add another generation into the mixed historical source tree.
+
+## Legacy authoring provenance
+
+The existing:
+
+`source/`
+
+tree is preserved in place as **mixed-lifecycle authoring provenance**.
+
+Its internal `00_README.md` describes a v0.8 research/source pack, while the same tree also contains v1.0 synthesis material and v1.2 execution-source artifacts. Do not infer that every file in that folder belongs to one coherent version.
+
+Do not mass-move or rename the legacy tree. Existing release/source references and provenance depend on its paths.
+
+For lifecycle details, see:
+
+- `SOURCE_TREE_LIFECYCLE_MAP.md`
+- `../00_START_HERE/SOURCE_RELEASE_CROSSWALK.csv`
+- `../00_START_HERE/CANONICAL_PATH_REGISTRY.csv`
+
+For released baselines, see:
 
 - `../03_RELEASES_AND_BASELINES/release_v1_0/` — founding religious synthesis
 - `../03_RELEASES_AND_BASELINES/release_v1_1/` — organizational adoption layer
 - `../03_RELEASES_AND_BASELINES/release_v1_2/` — current execution/filing release
 
-Before editing this tree, consult `../00_START_HERE/CURRENT_STATE.md` and the authority/lifecycle registry.
+Creating a draft under `current/` does not make it adopted doctrine or an immutable release.
