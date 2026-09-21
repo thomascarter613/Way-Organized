@@ -38,12 +38,14 @@ This index captures the substantive responses currently recoverable from the act
 - 014 — FWSD-002: Recovered Jesus Corpus Foundational Witness Selection Dossier
   - Authoritative dossier: ../../../../01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-002-recovered-jesus-corpus.md
   - Archive: 014-fwsd-002-recovered-jesus-corpus.md
+- 017 — FWSD-003: Early Buddhist Teaching Corpus Foundational Witness Selection Dossier
+  - Authoritative dossier: ../../../../01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-003-early-buddhist-teaching-corpus.md
+  - Archive: 017-fwsd-003-early-buddhist-teaching-corpus.md
 
 ## Repository-sync response
 
 - 012 — Repository archiving and future persistence established
   - Archive: 012-repository-archiving-established.md
-
 
 ## Repository curation
 
@@ -51,7 +53,8 @@ This index captures the substantive responses currently recoverable from the act
   - Archive: 015-second-pass-repository-curation-completion.md
   - Control metadata: ../../../../00_START_HERE/
 
-
 - 016 — Repository Second-Pass Curation Merged
   - Archive: 016-repository-second-pass-curation-merged.md
   - PR: #4
+
+---
