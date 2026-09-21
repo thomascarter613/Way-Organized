@@ -43,3 +43,10 @@ This index captures the substantive responses currently recoverable from the act
 
 - 012 — Repository archiving and future persistence established
   - Archive: 012-repository-archiving-established.md
+
+
+## Repository curation
+
+- 015 — Second-Pass Repository Curation Completion Boundary
+  - Archive: 015-second-pass-repository-curation-completion.md
+  - Control metadata: ../../../../00_START_HERE/
