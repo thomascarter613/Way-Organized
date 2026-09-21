@@ -8,6 +8,7 @@ This repository is the organized, provenance-preserving working corpus for **The
 - [Curation policy](00_START_HERE/CURATION_POLICY.md)
 - [Authority and lifecycle registry](00_START_HERE/AUTHORITY_LIFECYCLE_REGISTRY.csv)
 - [Source/release crosswalk](00_START_HERE/SOURCE_RELEASE_CROSSWALK.csv)
+- [Organizational release → canonical institution crosswalk](00_START_HERE/ORGANIZATIONAL_RELEASE_INSTITUTION_CROSSWALK.md)
 - [Duplicate triage summary](00_START_HERE/DUPLICATE_TRIAGE_SUMMARY.md)
 - [Epistemology / authority crosswalk](00_START_HERE/EPISTEMOLOGY_AUTHORITY_CROSSWALK.md)
 - [Integration gaps](00_START_HERE/INTEGRATION_GAPS.md)
