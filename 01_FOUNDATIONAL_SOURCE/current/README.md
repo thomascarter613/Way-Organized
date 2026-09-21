@@ -18,7 +18,7 @@ Moving or renaming that material would damage provenance and break existing refe
 
 Therefore:
 
-> **The legacy `source/` tree is preserved in place as authoring provenance. New foundational drafting should begin here instead of adding more lifecycle generations to the mixed legacy tree.**
+> **The legacy `source/` tree is preserved in place as authoring provenance. New unrelated foundational drafting should begin here instead of adding more lifecycle generations to the mixed legacy tree. Active numbered/linked series already established under `source/` may remain there until migrated as a whole.**
 
 ## What belongs here
 
@@ -30,6 +30,10 @@ New source documents intended to become or revise:
 - epistemological/revelation/canon governance drafts;
 - companion formation frameworks;
 - other future foundational releases.
+
+## Active-series exception
+
+The EPC protocol series and FWSD dossier series are already established under `../source/`. Keep those series together there unless a dedicated migration moves the whole series and updates its references atomically.
 
 ## What does not belong here
 
