@@ -43,6 +43,10 @@ This index captures the substantive responses currently recoverable from the act
   - Authoritative dossier: ../../../../01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-003-early-buddhist-teaching-corpus.md
   - Archive: 019-fwsd-003-early-buddhist-teaching-corpus.md
 
+- 021 — FWSD-004: Qurʾanic Proclamation Foundational Witness Selection Dossier
+  - Authoritative dossier: ../../../../01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-004-quranic-proclamation.md
+  - Archive: 021-fwsd-004-quranic-proclamation.md
+
 
 ## Repository-sync response
 
