@@ -1,10 +1,15 @@
 # FWSD-004 — Qurʾanic Proclamation Foundational Witness Selection Dossier
 
-FWSD-004 has been completed under EPC-004.
+FWSD-004 is complete and merged into the repository.
 
 ## Authoritative deliverable
 
 `01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-004-quranic-proclamation.md`
+
+## Repository result
+
+- Pull request: #14 — `docs: add FWSD-004 Qur'anic proclamation dossier`
+- Merge commit: `e890e840b5dadfca04fa4312e4e58122328425fe`
 
 ## Substantive result
 
