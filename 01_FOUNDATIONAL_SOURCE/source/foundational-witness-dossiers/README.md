@@ -35,6 +35,12 @@ These dossiers do **not** constitute canonical admission. They document source-c
   - Provisional direction: serious future CAND-4 candidate after cross-candidate review
   - Scope: recoverable prophetic units/strata associated with Amos, Hosea, Micah, Isaiah, Jeremiah, Ezekiel, and the Twelve; not the prophetic books en bloc as verbatim transcripts
 
+- **FWSD-006 — Guru Nanak Bani**
+  - File: `FWSD-006-guru-nanak-bani.md`
+  - Status: CAND-3 — Evaluated
+  - Provisional direction: serious future CAND-4 candidate after cross-candidate review
+  - Scope: founder-associated Nanak bani, early oral/written transmission, and source-controlled concepts such as Ik Oankar, hukam, haumai, nam, and sabad; later Janamsakhi, Khalsa, rahit, and modern Sikh layers remain distinct
+
 ## Planned first-cycle order
 
 1. Old Avestan Gāthās — FWSD-001
