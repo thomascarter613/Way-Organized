@@ -1,0 +1,26 @@
+{
+  "version": "1.6",
+  "date": "2026-09-21",
+  "working_name": "The Assembly of the Way",
+  "pilot": "Founding Gathering Circle",
+  "venue_priority": [
+    "Morristown-Hamblen Library - Front Meeting Room",
+    "Jefferson City Public Library - Conference Room/Hall",
+    "Morristown Landing"
+  ],
+  "hard_gates": [
+    "independent concern contact",
+    "documented venue permission/reservation",
+    "accurate public status",
+    "non-fundraising",
+    "emergency/site plan",
+    "Week 11 non-founder facilitator"
+  ],
+  "unresolved_human_inputs": [
+    "independent concern contact",
+    "non-founder facilitator",
+    "final dates",
+    "venue acceptance/reservation",
+    "cohort invitations"
+  ]
+}
