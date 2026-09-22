@@ -75,3 +75,7 @@ This index captures the substantive responses currently recoverable from the act
 - 020 — Historical ZIP Archive Reclassified
   - Archive: 020-historical-zip-archive-reclassified.md
   - Moves 34 byte-preserved package ZIPs from 99_UNCLASSIFIED/.archive into structured historical archive categories
+
+- 021 — Institutional Integrity Lifecycle Clarified
+  - Archive: 021-integrity-lifecycle-status.md
+  - Lifecycle map: ../../../../05_INTEGRITY_SAFEGUARDING_AND_COMPLIANCE/institutional_integrity/LIFECYCLE_STATUS.md
