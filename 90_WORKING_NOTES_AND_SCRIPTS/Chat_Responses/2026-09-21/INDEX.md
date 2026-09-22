@@ -83,3 +83,7 @@ This index captures the substantive responses currently recoverable from the act
 - 021 — Institutional Integrity Lifecycle Clarified
   - Archive: 021-integrity-lifecycle-status.md
   - Lifecycle map: ../../../../05_INTEGRITY_SAFEGUARDING_AND_COMPLIANCE/institutional_integrity/LIFECYCLE_STATUS.md
+
+- 022 — FWSD-005: Early Hebrew Prophetic Witness Foundational Witness Selection Dossier
+  - Authoritative dossier: ../../../../01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-005-early-hebrew-prophetic-witness.md
+  - Archive: 022-fwsd-005-early-hebrew-prophetic-witness.md
