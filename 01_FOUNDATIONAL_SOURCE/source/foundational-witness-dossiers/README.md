@@ -29,6 +29,12 @@ These dossiers do **not** constitute canonical admission. They document source-c
   - Provisional direction: serious future CAND-4 candidate after cross-candidate review
   - Scope: Qurʾanic proclamation and earliest textual history; later sīra, ḥadīth, tafsīr, kalām, and fiqh remain separate evidentiary layers
 
+- **FWSD-005 — Early Hebrew Prophetic Witness**
+  - File: `FWSD-005-early-hebrew-prophetic-witness.md`
+  - Status: CAND-3 — Evaluated
+  - Provisional direction: serious future CAND-4 candidate after cross-candidate review
+  - Scope: recoverable prophetic units/strata associated with Amos, Hosea, Micah, Isaiah, Jeremiah, Ezekiel, and the Twelve; not the prophetic books en bloc as verbatim transcripts
+
 ## Planned first-cycle order
 
 1. Old Avestan Gāthās — FWSD-001
