@@ -23,6 +23,12 @@ These dossiers do **not** constitute canonical admission. They document source-c
   - Provisional direction: serious future CAND-4 candidate after cross-candidate review
   - Scope: shared early discourse/Vinaya strata recoverable across multiple Buddhist schools; not the Pāli Canon or later Buddhism en bloc
 
+- **FWSD-004 — Qurʾanic Proclamation**
+  - File: `FWSD-004-quranic-proclamation.md`
+  - Status: CAND-3 — Evaluated
+  - Provisional direction: serious future CAND-4 candidate after cross-candidate review
+  - Scope: Qurʾanic proclamation and earliest textual history; later sīra, ḥadīth, tafsīr, kalām, and fiqh remain separate evidentiary layers
+
 ## Planned first-cycle order
 
 1. Old Avestan Gāthās — FWSD-001
