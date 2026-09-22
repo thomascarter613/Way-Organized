@@ -55,6 +55,10 @@ This index captures the substantive responses currently recoverable from the act
   - Authoritative dossier: ../../../../01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-006-guru-nanak-bani.md
   - Archive: 023-fwsd-006-guru-nanak-bani.md
 
+- 024 — FWSD-007: Torah / Pentateuchal Witness Strata Foundational Witness Selection Dossier
+  - Authoritative dossier: ../../../../01_FOUNDATIONAL_SOURCE/source/foundational-witness-dossiers/FWSD-007-torah-pentateuchal-witness-strata.md
+  - Archive: 024-fwsd-007-torah-pentateuchal-witness-strata.md
+
 
 ## Repository-sync response
 
